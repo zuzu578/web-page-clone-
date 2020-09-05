@@ -1,0 +1,270 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>repl.it</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="nav-container-box1">
+    <div class="nav-title-box">
+      <div class="nav-title">KaKao</div>
+    </div>
+    <div class="nav-items-box">
+      <div class="nav-items">카카오</div>
+      <div class="nav-items">투자정보</div>
+      <div class="nav-items">서비스</div>
+      <div class="nav-items">소셜임팩트</div>
+      <div class="nav-items">고객지원</div>
+      <div class="nav-items">인재영입</div>
+      <div class="language-box">
+        <div class="nav-items">KOR</div>
+        <div class="nav-items">ENG</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="nav-container-box2">
+    <div class="nav-items2">홈 > 서비스 > 커뮤니케이션 >카카오톡</div>
+  </div>
+
+
+  <div class="nav-container-box3">
+    <div class="nav-items3-1">서비스 특징 </div>
+    <div class="nav-items3-2">다운로드</div>
+  </div>
+
+
+
+
+  <div class="title-box">
+
+    <div class="image-box">
+      <p1><img src="https://t1.kakaocdn.net/kakaocorp/Service/KakaoTalk/svclogo_kakaotalk.png" > </p1>
+</div>
+<div class="main-title"> 사람과 세상, 그 이상을 연결하는
+카카오톡</div>
+</div>
+
+
+<div class="center-box">
+<div class="center-title">무료채팅</div>
+<p2><img src="https://t1.kakaocdn.net/kakaocorp/Service/KakaoTalk/pc/slide/talkpc_freechats_01_190927.jpg"></p2>
+<div class="center-sub-title">언제 어디서나, 1년 365일,몇 명과 함께하든 무료입니다.
+실시간 그룹채팅 및 1:1 채팅을 즐길 수 있고, 사진, 동영상, 연락처 등의 멀티미디어도 간편하게 주고 받을 수 있어요.</div>
+<div class="border-bottom-line"> </div>
+<div class="center-title">PC 버전</div>
+<p3><img src="https://t1.kakaocdn.net/kakaocorp/Service/KakaoTalk/pc/slide/talkpc_pcversion_01.jpg"></p3>
+<div class="center-sub-title">
+카카오톡의 편리한 기능을 PC에서도 그대로
+다양한 파일을 최대 300MB까지 전송하는 것은 물론, 백업/복원, 무료통화도 가능한 PC버전 (Windows, MacOS 지원)을 사용해보세요.
+</div>
+<div class="border-bottom-line"> </div>
+<div class="center-title">보이스톡 & 페이스톡</div>
+<p4><img src="https://t1.kakaocdn.net/kakaocorp/Service/KakaoTalk/pc/slide/talkpc_voicevideo_01_190927.jpg"></p4>
+<div class="center-sub-title">
+친구와 실시간으로 음성 또는 영상으로 통화할 수 있습니다.
+캐릭터 음성 필터는 물론 뽀샤시한 영상 필터로 색다른 통화를 즐겨보세요.
+</div>
+<div class="border-bottom-line"> </div>
+
+<div class="center-title">라이브톡</div>
+<p5><img src="https://t1.kakaocdn.net/kakaocorp/Service/KakaoTalk/pc/slide/talkpc_livetalk_01_190927.jpg"></p5>
+<div class="center-sub-title">
+오직 카카오톡 채팅방에서만 볼 수 있는 라이브.
+내가 좋아하는 친구, 가족들이 모인 그룹채팅방에서 라이브를 하면서 채팅도 즐겨보세요.
+</div>
+<div class="border-bottom-line"> </div>
+
+<div class="center-title">톡 캘린더</div>
+<p6><img src="https://t1.kakaocdn.net/kakaocorp/Service/KakaoTalk/pc/slide/talkpc_calendar_01.jpg"></p6>
+<div class="center-sub-title">
+채팅방마다 흩어져있는 약속, 기념일 보기 힘드셨죠?
+톡캘린더로 간편하게 일정 등록하고 한 눈에 모아볼 수 있어요.
+참, 다가오는 일정은 놓치지 않도록 죠르디가 미리 알려 드려요.
+</div>
+<div class="border-bottom-line"> </div>
+
+<div class="center-title"> 오픈채팅 </div>
+<p7><img src="https://t1.kakaocdn.net/kakaocorp/Service/KakaoTalk/pc/slide/talkpc_openchat_01_190709.jpg"></p7>
+<div class="center-sub-title">
+관심사로 모여 간편하게 대화하는 카카오톡 오픈채팅.
+친구추가 없이 링크로 대화를 시작해보세요.
+</div>
+<div class="border-bottom-line"> </div>
+
+
+<div class="center-title">카카오 이모티콘</div>
+<p7> <img src="https://t1.kakaocdn.net/kakaocorp/Service/KakaoTalk/pc/slide/talkpc_digitalitem_01_190927.jpg"></p7>
+<div class="center-sub-title">
+카카오프렌즈 이모티콘 뿐 아니라 더 많은 재미있는 이모티콘으로 카카오톡을 즐기세요. 채팅방의 이모티콘을 롱탭 하면 친구들이 가지고 있는 이모티콘을 자세히 볼 수 있습니다.
+다양한 이모티콘을 이모티콘 스토어에서 구입하여 사용해보세요.
+</div>
+<div class="border-bottom-line"> </div>
+
+<div class="center-title">사용자 테마</div>
+<p8> <img src="https://t1.kakaocdn.net/kakaocorp/Service/KakaoTalk/pc/slide/talkpc_theme_01.jpg"></p8>
+<div class="center-sub-title">
+테마는 카카오톡의 친구리스트, 대화방 말풍선, 폰트 색상 등 카카오톡의 주요화면 이미지와 색깔을 자신의 취향에 맞게 변경 할 수 있도록 하는 기능입니다. 우리 가족의 소중한 사진, 내가 만든 개성있는 캐릭터로 나만의 테마를 만들어 보세요!
+* ‘카카오톡 테마’와 ‘사용자 테마’가 무엇이 다른가요?
+내가 직접만들고 유저들이 만드는 ‘사용자 테마’와 달리 ‘카카오톡 테마’는 카카오톡에서 제공하는 공식 테마를 말합니다.
+</div>
+<div class="border-bottom-line"> </div>
+
+<div class="center-title">샵검색</div>
+<p9> <img src="https://t1.kakaocdn.net/kakaocorp/Service/KakaoTalk/pc/slide/talkpc_sharpsearch_01_20200810.png"></p9>
+<div class="center-sub-title">
+톡하다가 궁금하면 샵(#)검색! 오늘 뭐 먹지? 내일은 비가 올까? 대화 중에 바로 검색하고 공유
+</div>
+<div class="border-bottom-line"> </div>
+
+<div class="center-title">톡게시판</div>
+<p10> <img src="https://t1.kakaocdn.net/kakaocorp/Service/KakaoTalk/pc/slide/talkpc_boards_01_190927.jpg"></p10>
+<div class="center-sub-title">
+모임 관리를 편리하게, 톡 게시판!
+공지, 투표 기능으로 모임 관리는 편리하게, 우리들의 소중한 순간은 게시판에 올려 간직해 보세요.
+</div>
+<div class="border-bottom-line"> </div>
+
+<div class="center-title">카카오톡 채널</div>
+<p11> <img src="https://t1.kakaocdn.net/kakaocorp/Service/KakaoTalk/pc/slide/talkpc_plusfriend_01_190911.jpg"></p11>
+<div class="center-sub-title">
+누구나 무료로 만들어 사용자들과 친구를 맺고 소통할 수 있는 카카오톡 안의 비즈니스 홈
+</div>
+<div class="border-bottom-line"> </div>
+
+<div class="center-title">#탭</div>
+<p12> <img src="https://t1.kakaocdn.net/kakaocorp/Service/KakaoTalk/pc/slide/talkpc_sharptab_01.jpg"></p12>
+<div class="center-sub-title">
+카톡에 최적화된 새로운 검색의 시작!
+다양한 주제별 콘텐츠와 대화창처럼 편안한 하단 검색창을 이용해보세요.
+</div>
+<div class="border-bottom-line"> </div>
+
+<div class="center-title">카카오콘</div>
+<p13> <img src="https://t1.kakaocdn.net/kakaocorp/Service/KakaoTalk/pc/slide/talkpc_kakaocon_01.jpg"></p13>
+<div class="center-sub-title">
+카카오다운 놀라운 리워드! 오직 카카오에서만 만날 수 있는 특별한 혜택을 누려보세요
+</div>
+</div>
+<div class="under-box">
+<div class="title-box1">
+<div class="under-contents-title1">카카오</div>
+</div>
+<div class="title-items1">
+<div class="items">카카오 소개</div>
+<div class="items">카카오AI</div>
+<div class="items">자회사</div>
+<div class="items">비즈니스</div>
+<div class="items">홍보채널</div>
+<div class="items">오는길</div>
+</div>
+
+<div class="title-box2">
+<div class="under-contents-title2">투자정보</div>
+</div>
+<div class="title-item2">
+<div class="items2">경영정보</div>
+<div class="items2">공시정보</div>
+<div class="items2">주가정보</div>
+<div class="items2">재무정보</div>
+<div class="items2">IR일정</div>
+<div class="items2">IR자료실</div>
+<div class="items2">증권사커버리지</div>
+<div class="items2">공고</div>
+</div>
+
+<div class="title-box3">
+<div class="under-contents-title3">서비스</div>
+<div class="title-item3">
+<div class="items3">포털</div>
+<div class="items3">커뮤니케이션</div>
+<div class="items3">콘텐츠</div>
+<div class="items3">커머스</div>
+<div class="items3">게임</div>
+<div class="items3">핀테크</div>
+<div class="items3">모빌리티&라이프</div>
+<div class="items3">소셜임팩트</div>
+</div>
+</div>
+
+<div class="title-box4">
+<div class="under-contents-title4">소셜임팩트</div>
+<div class="title-item4">
+<div class="items4">소셜임팩트 서비스</div>
+<div class="items4">사회공헌</div>
+<div class="items4">상생</div>
+<div class="items4">제주지역협력</div>
+<div class="items4">Partners with KaKao</div>
+</div>
+
+
+<div class="title-box5">
+<div class="under-contents-title5">인재영입</div>
+<div class="title-item5">
+<div class="items5">카카오크루</div>
+<div class="items5">크루인터뷰</div>
+<div class="items5">지원하기</div>
+<div class="items5">나의지원서</div>
+</div>
+
+
+<div class="title-box6">
+<div class="under-contents-title3">고객지원</div>
+<div class="title-item6">
+<div class="items6">카카오 고객센터</div>
+<div class="items6">Daum 고객센터</div>
+<div class="items6">멜론 고객센터</div>
+</div>
+
+<div class="title-box7">
+<div class="under-contents-title7">카카오계정 </div>
+<div class="title-item7">
+<div class="items7">계정정보 관리 </div>
+<div class="items7">계정/비밀번호 찾기</div>
+<div class="items7">계정도움말</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="under-navigation-container">
+<div class="under-nav-box">
+<div class="under-nav-items">위치기반서비스이용약관</div>
+<div class="under-nav-items">개인정보처리방침</div>
+<div class="under-nav-items">운영정책</div>
+<div class="under-nav-items">청소년보호정책</div>
+<div class="under-nav-items">권리침해신고안내</div>
+<div class="under-nav-items">공지사항</div>
+<div class="under-nav-items">사이버윤리실</div>
+<div class="under-nav-items">이용약관</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

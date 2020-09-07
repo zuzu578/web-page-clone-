@@ -1,0 +1,367 @@
+{\rtf1\ansi\ansicpg949\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red70\green137\blue204;\red23\green23\blue23;\red212\green212\blue212;
+\red202\green202\blue202;\red140\green211\blue254;\red167\green197\blue152;\red194\green126\blue101;}
+{\*\expandedcolortbl;;\cssrgb\c33725\c61176\c83922;\cssrgb\c11765\c11765\c11765;\cssrgb\c86275\c86275\c86275;
+\cssrgb\c83137\c83137\c83137;\cssrgb\c61176\c86275\c99608;\cssrgb\c70980\c80784\c65882;\cssrgb\c80784\c56863\c47059;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl420\partightenfactor0
+
+\f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 body\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 margin:\cf7 \strokec7 0%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3    \cb1 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .facebook-logo\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 color:\cf8 \strokec8 white\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 position:\cf5 \strokec5  \cf8 \strokec8 relative\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 left:\cf7 \strokec7 80px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 top:\cf7 \strokec7 40px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 font-size:\cf7 \strokec7 36px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 font-weight:\cf5 \strokec5  \cf8 \strokec8 bold\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .nav-container-box\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3  \cf6 \strokec6 border:\cf7 \strokec7 1px\cf5 \strokec5  \cf8 \strokec8 solid\cf5 \strokec5 #3b5998\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3  \cf6 \strokec6 height:\cf5 \strokec5  \cf7 \strokec7 100px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3  \cf6 \strokec6 background-color:\cf5 \strokec5 #3b5998\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cb1 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .pwd-box-items\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 margin-left:\cf7 \strokec7 1100px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 position:\cf5 \strokec5  \cf8 \strokec8 relative\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 bottom:\cf7 \strokec7 36px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 color:\cf8 \strokec8 white\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .pwd\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 margin-left:\cf5 \strokec5  \cf7 \strokec7 1100px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .input1\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 position:\cf5 \strokec5  \cf8 \strokec8 relative\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 top:\cf7 \strokec7 5px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .log-in-button-box\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 position:\cf5 \strokec5  \cf8 \strokec8 relative\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-left:\cf5 \strokec5  \cf7 \strokec7 51%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 bottom:\cf7 \strokec7 56px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 border:\cf7 \strokec7 1px\cf5 \strokec5  \cf8 \strokec8 solid\cf5 \strokec5  \cf8 \strokec8 black\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 width:\cf7 \strokec7 50px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 height:\cf7 \strokec7 24px\cf5 \strokec5  \cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 border-radius:\cf5 \strokec5  \cf7 \strokec7 9%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 cursor:\cf5 \strokec5  \cf8 \strokec8 pointer\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cb1 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .log-in-button\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 color:\cf8 \strokec8 white\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 padding:\cf7 \strokec7 6%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .input2\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 position:\cf5 \strokec5  \cf8 \strokec8 relative\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 bottom:\cf7 \strokec7 35px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .id-box-items\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 margin-left:\cf5 \strokec5  \cf7 \strokec7 900px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 color:\cf8 \strokec8 white\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cb1 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .input1\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 margin-left:\cf5 \strokec5  \cf7 \strokec7 900px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .main-box\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 text-align:\cf5 \strokec5  \cf8 \strokec8 center\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-right:\cf7 \strokec7 20px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .sign-up\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 font-size:\cf5 \strokec5  \cf7 \strokec7 50px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 font-weight:\cf5 \strokec5  \cf8 \strokec8 bold\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .sub-title\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 font-size:\cf7 \strokec7 30px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-right:\cf7 \strokec7 75px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-top:\cf7 \strokec7 1%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .information-box\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 margin-top:\cf7 \strokec7 2%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-right:\cf5 \strokec5  \cf7 \strokec7 110px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .first-name\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 border:\cf7 \strokec7 1px\cf5 \strokec5  \cf8 \strokec8 solid\cf5 \strokec5  \cf8 \strokec8 gray\cf4 \strokec4 ;\cf5 \strokec5  \cb1 \
+\cb3   \cf6 \strokec6 height:\cf7 \strokec7 39px\cf5 \strokec5  \cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 width:\cf7 \strokec7 194px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-left:\cf7 \strokec7 580px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 border-radius:\cf5 \strokec5  \cf7 \strokec7 3px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 input\cf4 \strokec4 [\cf8 \strokec8 type\cf4 \strokec4 =\cf8 \strokec8 text1\cf4 \strokec4 ]\{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 border:\cf7 \strokec7 0\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 text-align:\cf5 \strokec5  \cf8 \strokec8 left\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 float:\cf5 \strokec5  \cf8 \strokec8 left\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 outline:\cf8 \strokec8 none\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 height:\cf7 \strokec7 35px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 width:\cf7 \strokec7 190px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cb1 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .second-name\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 margin-left:\cf5 \strokec5  \cf7 \strokec7 800px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 border:\cf7 \strokec7 1px\cf5 \strokec5  \cf8 \strokec8 solid\cf5 \strokec5  \cf8 \strokec8 gray\cf4 \strokec4 ;\cf5 \strokec5  \cb1 \
+\cb3   \cf6 \strokec6 height:\cf7 \strokec7 39px\cf5 \strokec5  \cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 width:\cf7 \strokec7 194px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 position:\cf5 \strokec5  \cf8 \strokec8 relative\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 bottom:\cf5 \strokec5  \cf7 \strokec7 40px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cb1 \
+\cb3   \cf6 \strokec6 border-radius:\cf5 \strokec5  \cf7 \strokec7 3px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 input\cf4 \strokec4 [\cf8 \strokec8 type\cf4 \strokec4 =\cf8 \strokec8 text2\cf4 \strokec4 ]\{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 border:\cf7 \strokec7 0\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 text-align:\cf5 \strokec5  \cf8 \strokec8 left\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 float:\cf5 \strokec5  \cf8 \strokec8 left\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 outline:\cf8 \strokec8 none\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 height:\cf7 \strokec7 35px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 width:\cf7 \strokec7 190px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .phone-number-box\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 border:\cf7 \strokec7 1px\cf5 \strokec5  \cf8 \strokec8 solid\cf5 \strokec5  \cf8 \strokec8 gray\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 height:\cf7 \strokec7 35px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 width:\cf7 \strokec7 420px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-left:\cf7 \strokec7 579px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 position:\cf5 \strokec5  \cf8 \strokec8 relative\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 bottom:\cf5 \strokec5  \cf7 \strokec7 24px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 input\cf4 \strokec4 [\cf8 \strokec8 type\cf4 \strokec4 =\cf8 \strokec8 text3\cf4 \strokec4 ]\{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 border:\cf7 \strokec7 0\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 text-align:\cf5 \strokec5  \cf8 \strokec8 left\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 float:\cf5 \strokec5  \cf8 \strokec8 left\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 outline:\cf8 \strokec8 none\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 height:\cf7 \strokec7 28px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 width:\cf7 \strokec7 190px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .new-password-box\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cb1 \
+\cb3   \cf6 \strokec6 height:\cf7 \strokec7 35px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 width:\cf7 \strokec7 420px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-left:\cf7 \strokec7 579px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 position:\cf5 \strokec5  \cf8 \strokec8 relative\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 bottom:\cf5 \strokec5  \cf7 \strokec7 10px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 input\cf4 \strokec4 [\cf8 \strokec8 type\cf4 \strokec4 =\cf8 \strokec8 text4\cf4 \strokec4 ]\{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3    \cf6 \strokec6 border:\cf7 \strokec7 1px\cf5 \strokec5  \cf8 \strokec8 solid\cf5 \strokec5  \cf8 \strokec8 gray\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 height:\cf7 \strokec7 35px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 width:\cf7 \strokec7 417px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-top:\cf7 \strokec7 2%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 position:\cf5 \strokec5  \cf8 \strokec8 relative\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 bottom:\cf5 \strokec5  \cf7 \strokec7 10px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 border-radius:\cf5 \strokec5  \cf7 \strokec7 1%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .birth-box\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 margin-right:\cf7 \strokec7 140px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-top:\cf7 \strokec7 2%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .menu-box\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 margin-left:\cf7 \strokec7 40px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-top:\cf7 \strokec7 1%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3  \cb1 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .sex-box\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 margin-top:\cf7 \strokec7 1%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .radio\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 display:\cf5 \strokec5  \cf8 \strokec8 inline\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-left:\cf5 \strokec5  \cf7 \strokec7 4%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 position:\cf5 \strokec5  \cf8 \strokec8 relative\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 padding:\cf7 \strokec7 1%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .sign-up-information-box\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cb1 \
+\cb3   \cf6 \strokec6 margin-left:\cf7 \strokec7 30%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cb1 \
+\cb3   \cf6 \strokec6 height:\cf5 \strokec5  \cf7 \strokec7 50px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 padding:\cf7 \strokec7 2%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .infor1\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3  \cf6 \strokec6 font-size:\cf5 \strokec5  \cf7 \strokec7 12px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3  \cb1 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .infor2\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 font-size:\cf7 \strokec7 12px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .information-box\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 margin-right:\cf7 \strokec7 60px\cf4 \strokec4 ;\cf5 \strokec5  \cb1 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .button-box\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 border:\cf7 \strokec7 1px\cf5 \strokec5  \cf8 \strokec8 solid\cf5 \strokec5  #69A74E\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 height:\cf7 \strokec7 50px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 width:\cf7 \strokec7 194px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 background-color:\cf5 \strokec5 #69A74E\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-left:\cf7 \strokec7 590px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 border-radius:\cf5 \strokec5  \cf7 \strokec7 6px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .button\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 color:\cf8 \strokec8 white\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 font-weight:\cf5 \strokec5  \cf8 \strokec8 bold\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 padding:\cf7 \strokec7 8%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 font-size:\cf7 \strokec7 24px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 cursor:\cf5 \strokec5  \cf8 \strokec8 pointer\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3  \cb1 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .under-items\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 display:\cf5 \strokec5  \cf8 \strokec8 inline\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .under-box1\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 border:\cf7 \strokec7 1px\cf5 \strokec5  \cf8 \strokec8 solid\cf5 \strokec5  \cf8 \strokec8 gray\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-top:\cf7 \strokec7 8%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 width:\cf7 \strokec7 1500px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 padding:\cf7 \strokec7 2%\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 height:\cf7 \strokec7 200px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 position:\cf5 \strokec5  \cf8 \strokec8 relative\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cb1 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .under-items\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 position:\cf5 \strokec5  \cf8 \strokec8 relative\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 top:\cf7 \strokec7 50px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 padding:\cf7 \strokec7 8px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \cb3 \strokec2 .under-items2\cf4 \strokec4 \{\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 display:\cf5 \strokec5  \cf8 \strokec8 inline\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\
+\cb3   \cf6 \strokec6 position:\cf5 \strokec5  \cf8 \strokec8 relative\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 bottom:\cf7 \strokec7 120px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 margin-left:\cf7 \strokec7 200px\cf4 \strokec4 ;\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf4 \cb3 \strokec4 \}\cf5 \cb1 \strokec5 \
+}

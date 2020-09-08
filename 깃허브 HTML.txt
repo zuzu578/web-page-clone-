@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width">
+
+    <title>repl.it</title>
+
+    <link href="style.css" rel="stylesheet" type="text/css" />
+
+  </head>
+
+  <body>
+
+    <div class="image-box">
+
+    <div> <img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="70" height="50"> </div>
+
+    </div>
+
+ 
+
+    <div class="main-container">
+
+      <div class="title">Sign in to GitHub</div>
+
+  
+
+    <div class="log-in-box">
+
+      <div class="user-title">Username or email address</div>
+
+      <div class="user-name-input">
+
+        <input type="text">
+
+      </div>
+
+      
+
+      <div class="password-title">Password</div>
+
+      <div class="password-input">
+
+        <input type="password">
+
+      </div>
+
+ 
+
+ 
+
+       <div class="sign-in-button">
+
+         <div class="sign-in">Sign in</div>
+
+       </div>
+
+    </div>
+
+    </div>
+
+  
+
+ 
+
+  <div class="create-box">
+
+    <div class="creat">New to GitHub?<a href=""> Create an account.</a></div>
+
+  </div>
+
+ 
+
+ 
+
+<div class="under-container" >
+
+  <div class="item item1"><a href="">Terms </a> </div>
+
+    <div class="item item2"><a href="">Privacy</a>   </div>
+
+      <div class="item item3"><a href="">Security</a>  </div> 
+
+        <div class="item item4"><a href="">Contact GitHub</a>  </div>
+
+</div>
+
+ 
+
+ 
+
+ 
+
+    <script src="script.js"></script>
+
+  </body>
+
+</html>

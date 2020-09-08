@@ -1,0 +1,250 @@
+a{
+
+  text-decoration: none;
+
+  color:#0366D6;
+
+}
+
+ 
+
+body{
+
+  margin: 0;
+
+ 
+
+}
+
+ 
+
+.image-box{
+
+  text-align:center;
+
+  margin-top:2%;
+
+}
+
+ 
+
+.main-container{
+
+  text-align: center;
+
+}
+
+ 
+
+.title{
+
+  margin-top:2%;
+
+  font-size:25px;
+
+}
+
+ 
+
+.log-in-box{
+
+  border:1px solid gray;
+
+  border-radius: 2%;
+
+  margin-top:2%;
+
+  height:229px;
+
+  width:300px;
+
+  margin-left: 560px;
+
+}
+
+ 
+
+.user-title{
+
+  margin-top:8%;
+
+  margin-right:23%;
+
+  font-weight: bold;
+
+ 
+
+}
+
+.password-title{
+
+  margin-top:7%;
+
+  margin-right:65%;
+
+  font-weight: bold;
+
+ 
+
+}
+
+.user-name-input{
+
+  border:1px solid gray;
+
+  height:32px;
+
+  width:250px;
+
+  margin-top:2%;
+
+  margin-left:7%;
+
+}
+
+.password-input{
+
+  border:1px solid gray;
+
+  height:32px;
+
+  width:250px;
+
+  margin-top:2%;
+
+  margin-left:7%;
+
+ 
+
+}
+
+ 
+
+input[type="text"]{
+
+  outline:none;
+
+  border:0;
+
+  text-align:left;
+
+  float: left;
+
+  width: 230px;
+
+  height:30px;
+
+ 
+
+}
+
+ 
+
+input[type="password"]{
+
+  outline:none;
+
+  border:0;
+
+  text-align:left;
+
+  float: left;
+
+  width: 230px;
+
+  height:30px;
+
+}
+
+ 
+
+ 
+
+.sign-in-button{
+
+  border:1px solid #2EA44F;
+
+  margin-top:5%;
+
+  height:32px ;
+
+  width:250px;
+
+  margin-left:7%;
+
+  background-color:#2EA44F;
+
+  color:white;
+
+  border-radius: 3%;
+
+ 
+
+}
+
+ 
+
+.sign-in{
+
+  padding:3%;
+
+}
+
+ 
+
+.create-box{
+
+  border:1px solid gray;
+
+  width:300px;
+
+  height:50px;
+
+  margin-left:560px;
+
+  margin-top:1%;
+
+  border-radius: 3%;
+
+}
+
+ 
+
+ 
+
+.creat{
+
+  padding:5%;
+
+  text-align: center;
+
+}
+
+ 
+
+ 
+
+.under-container{
+
+  display:flex;
+
+  justify-content: center;
+
+  margin-top:5%;
+
+ 
+
+}
+
+ 
+
+.item{
+
+padding:1%;
+
+font-size:15px;
+
+}
+
+
+ 

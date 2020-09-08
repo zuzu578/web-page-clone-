@@ -1,0 +1,73 @@
+{\rtf1\ansi\ansicpg949\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red109\green109\blue109;\red255\green255\blue254;\red44\green62\blue147;
+\red0\green0\blue0;\red23\green18\blue106;\red61\green103\blue219;\red132\green55\blue138;\red155\green127\blue42;
+}
+{\*\expandedcolortbl;;\cssrgb\c50196\c50196\c50196;\cssrgb\c100000\c100000\c99608;\cssrgb\c22353\c32549\c64314;
+\cssrgb\c0\c0\c0;\cssrgb\c12157\c12941\c49020;\cssrgb\c30196\c49804\c88627;\cssrgb\c59608\c30588\c61176;\cssrgb\c67451\c56471\c21569;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl420\partightenfactor0
+
+\f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 <!DOCTYPE\cf4 \strokec4  html\cf2 \strokec2 >\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf6 \cb3 \strokec6 <\cf7 \strokec7 html\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 <\cf7 \strokec7 head\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3     \cf6 \strokec6 <\cf7 \strokec7 meta\cf5 \strokec5  \cf8 \strokec8 charset\cf6 \strokec6 =\cf9 \strokec9 "utf-8"\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3     \cf6 \strokec6 <\cf7 \strokec7 meta\cf5 \strokec5  \cf8 \strokec8 name\cf6 \strokec6 =\cf9 \strokec9 "viewport"\cf5 \strokec5  \cf8 \strokec8 content\cf6 \strokec6 =\cf9 \strokec9 "width=device-width"\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3     \cf6 \strokec6 <\cf7 \strokec7 title\cf6 \strokec6 >\cf5 \strokec5 repl.it\cf6 \strokec6 </\cf7 \strokec7 title\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3     \cf6 \strokec6 <\cf7 \strokec7 link\cf5 \strokec5  \cf8 \strokec8 href\cf6 \strokec6 =\cf9 \strokec9 "style.css"\cf5 \strokec5  \cf8 \strokec8 rel\cf6 \strokec6 =\cf9 \strokec9 "stylesheet"\cf5 \strokec5  \cf8 \strokec8 type\cf6 \strokec6 =\cf9 \strokec9 "text/css"\cf5 \strokec5  \cf6 \strokec6 />\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 </\cf7 \strokec7 head\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 <\cf7 \strokec7 body\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3     \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "image-box"\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3     \cf6 \strokec6 <\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \strokec5  \cf6 \strokec6 <\cf7 \strokec7 img\cf5 \strokec5  \cf8 \strokec8 src\cf6 \strokec6 =\cf9 \strokec9 "https://image.flaticon.com/icons/svg/25/25231.svg"\cf5 \strokec5  \cf8 \strokec8 width\cf6 \strokec6 =\cf9 \strokec9 "70"\cf5 \strokec5  \cf8 \strokec8 height\cf6 \strokec6 =\cf9 \strokec9 "50"\cf6 \strokec6 >\cf5 \strokec5  \cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3     \cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\
+\cb3     \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "main-container"\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3       \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "title"\cf6 \strokec6 >\cf5 \strokec5 Sign in to GitHub\cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3   \cb1 \
+\cb3     \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "log-in-box"\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3       \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "user-title"\cf6 \strokec6 >\cf5 \strokec5 Username or email address\cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3       \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "user-name-input"\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3         \cf6 \strokec6 <\cf7 \strokec7 input\cf5 \strokec5  \cf8 \strokec8 type\cf6 \strokec6 =\cf9 \strokec9 "text"\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3       \cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3       \cb1 \
+\cb3       \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "password-title"\cf6 \strokec6 >\cf5 \strokec5 Password\cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3       \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "password-input"\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3         \cf6 \strokec6 <\cf7 \strokec7 input\cf5 \strokec5  \cf8 \strokec8 type\cf6 \strokec6 =\cf9 \strokec9 "password"\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3       \cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\
+\
+\cb3        \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "sign-in-button"\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3          \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "sign-in"\cf6 \strokec6 >\cf5 \strokec5 Sign in\cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3        \cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3     \cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3     \cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3   \cb1 \
+\
+\cb3   \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "create-box"\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3     \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "creat"\cf6 \strokec6 >\cf5 \strokec5 New to GitHub?\cf6 \strokec6 <\cf7 \strokec7 a\cf5 \strokec5  \cf8 \strokec8 href\cf6 \strokec6 =\cf9 \strokec9 ""\cf6 \strokec6 >\cf5 \strokec5  Create an account.\cf6 \strokec6 </\cf7 \strokec7 a\cf6 \strokec6 ></\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf6 \cb3 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "under-container"\cf5 \strokec5  \cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3   \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "item item1"\cf6 \strokec6 ><\cf7 \strokec7 a\cf5 \strokec5  \cf8 \strokec8 href\cf6 \strokec6 =\cf9 \strokec9 ""\cf6 \strokec6 >\cf5 \strokec5 Terms \cf6 \strokec6 </\cf7 \strokec7 a\cf6 \strokec6 >\cf5 \strokec5  \cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3     \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "item item2"\cf6 \strokec6 ><\cf7 \strokec7 a\cf5 \strokec5  \cf8 \strokec8 href\cf6 \strokec6 =\cf9 \strokec9 ""\cf6 \strokec6 >\cf5 \strokec5 Privacy\cf6 \strokec6 </\cf7 \strokec7 a\cf6 \strokec6 >\cf5 \strokec5    \cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3       \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "item item3"\cf6 \strokec6 ><\cf7 \strokec7 a\cf5 \strokec5  \cf8 \strokec8 href\cf6 \strokec6 =\cf9 \strokec9 ""\cf6 \strokec6 >\cf5 \strokec5 Security\cf6 \strokec6 </\cf7 \strokec7 a\cf6 \strokec6 >\cf5 \strokec5   \cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \strokec5  \cb1 \
+\cb3         \cf6 \strokec6 <\cf7 \strokec7 div\cf5 \strokec5  \cf8 \strokec8 class\cf6 \strokec6 =\cf9 \strokec9 "item item4"\cf6 \strokec6 ><\cf7 \strokec7 a\cf5 \strokec5  \cf8 \strokec8 href\cf6 \strokec6 =\cf9 \strokec9 ""\cf6 \strokec6 >\cf5 \strokec5 Contact GitHub\cf6 \strokec6 </\cf7 \strokec7 a\cf6 \strokec6 >\cf5 \strokec5   \cf6 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf6 \cb3 \strokec6 </\cf7 \strokec7 div\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\
+\
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf5 \cb3     \cf6 \strokec6 <\cf7 \strokec7 script\cf5 \strokec5  \cf8 \strokec8 src\cf6 \strokec6 =\cf9 \strokec9 "script.js"\cf6 \strokec6 ></\cf7 \strokec7 script\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\cb3   \cf6 \strokec6 </\cf7 \strokec7 body\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf6 \cb3 \strokec6 </\cf7 \strokec7 html\cf6 \strokec6 >\cf5 \cb1 \strokec5 \
+}

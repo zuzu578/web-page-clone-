@@ -1,0 +1,234 @@
+
+
+
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width">
+
+    <title>repl.it</title>
+
+    <link href="style.css" rel="stylesheet" type="text/css" />
+
+  </head>
+
+  <body>
+
+    <div class="nav-container">
+
+     <div class="nav-items">Features</div>
+
+      <div class="nav-items">Jobs</div>
+
+      <div class="nav-items">Blog</div>
+
+      <div class="nav-items">Pricing</div>
+
+      <div class="nav-items">Jam</div>
+
+    </div>
+
+        <div class="button-items">
+
+          <div class="log-in">
+
+          <div class="button1">Log in</div>
+
+          </div>
+
+          <div class="Sign-up">
+
+          <div class="button2">Sign up</div>
+
+          </div>
+
+          <div class="start">
+
+          <div class="button3"> <>Start coding</div>
+
+          </div>
+
+        </div>
+
+        
+
+        </div>
+
+    </div>
+
+    <div class="main-contents">
+
+    <div class="main-title">
+
+      <div class="main">
+
+        Code and collaborate,<br/>
+
+      without friction.
+
+      </div>
+
+      <div class="sub-title">
+
+        Use our free, collaborative, in-browser IDE to code in 50+ languages — without</br> spending a second on setup.
+
+      </div>
+
+      
+
+ 
+
+      <div class="item-buttons">
+
+       <div class="buttons">
+
+        <div class="start-button"> <>Start coding</div>
+
+        <div class="sign-up-button"> Sign up</div>
+
+       </div>
+
+ 
+
+ 
+
+       <div class="Second-contents">
+
+         <div class="second-title-item">
+
+           Features for all skill levels
+
+         </div>
+
+         <div class="contents-items-box">
+
+           <div class="items">
+
+             <div class="items-title">In-browser IDE</div>
+
+             <div class="items-sub-title">
+
+              Start coding with your<br/> favorite language on any<br/> platform, OS, and device.</div>
+
+           </div>
+
+ 
+
+           <div class="items">
+
+             <div class="items-title">Real-time<br/> collaboration</div>
+
+             <div class="items-sub-title">
+
+              Invite your friends,<br/> teammates, and colleagues<br/> right into your code with<br/> Google-docs like editing.</div>
+
+           </div>
+
+         
+
+ 
+
+         <div class="items">
+
+             <div class="items-title">GitHub integration</div>
+
+             <div class="items-sub-title">
+
+              Import, run, and <br/>collaborate on millions of<br/> GitHub repos with 0 manual<br/> setup.</div>
+
+           </div>
+
+         
+
+ 
+
+         <div class="items">
+
+             <div class="items-title">50+ languages</div>
+
+             <div class="items-sub-title">
+
+             From Python, to C++, to<br/> HTML and CSS, stay in one<br/> platform to learn and code<br/> in any language you want.</div>
+
+           </div>
+
+        
+
+ 
+
+         </div>
+
+         <div class="itme-box-2">
+
+ 
+
+ 
+
+            <div class="items">
+
+             <div class="items-title">Host & deploy</div>
+
+             <div class="items-sub-title">
+
+              The second you create a </br>new repl, it's instantly live<br/> and sharable with the<br/> world.</div>
+
+           </div>
+
+ 
+
+           <div class="items">
+
+             <div class="items-title">Learning resources</div>
+
+             <div class="items-sub-title">
+
+              Learn how to code from 3 <br/>million+ passionate <br/>programmers,<br/> technologists, creatives,<br/> and learners of all kinds.</div>
+
+           </div>
+
+         
+
+ 
+
+         <div class="items">
+
+             <div class="items-title">Team plans</div>
+
+             <div class="items-sub-title">
+
+              Make your team more<br/> productive with interactive<br/>docs, real-time<br/> collaboration, and 0-hassle<br/> remote interviewing.</div>
+
+        
+
+         </div>
+
+ 
+
+         <div class="items">
+
+             <div class="items-title">API & plugins</div>
+
+             <div class="items-sub-title">
+
+              Create apps<br/> programatically, spin up bots and customize the IDE <br/>with plugins to fit your <br/>needs..</div>
+
+        
+
+         </div>
+
+ 
+
+      
+
+           
+
+     
+
+  </body>
+
+</html>

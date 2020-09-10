@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>repl.it</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<div class="nav-contianer">
+		<div class="nav-1">
+			<div class="nav-items">OP.GG</div>
+			<div class="nav-items">리그오브레전드</div>
+
+		</div>
+		<div class="nav-2">
+
+			<div class="nav-items2">Next</div>
+			<div class="nav-items2">배틀그라운드</div>
+			<div class="nav-items2">오버워치</div>
+			<div class="nav-items2">포트나이트</div>
+			<div class="nav-items2">레인보우식스</div>
+			<div class="nav-items2"> 톡피지지</div>
+		</div>
+
+	</div>
+	<div class="nav-3">
+		<div class="nav-items0">한국어</div>
+		<div class="nav-items3">로그인</div>
+	</div>
+
+	<div class="nav-4">
+		<div class="nav-items4">#집에있자</div>
+		<div class="nav-items4">챔피언분석</div>
+		<div class="nav-items4">통계</div>
+		<div class="nav-items4">랭킹</div>
+		<div class="nav-items4">프로관전</div>
+		<div class="nav-items4">멀티서치</div>
+		<div class="nav-items4">OP셜</div>
+		<div class="nav-items4">커뮤니티</div>
+	</div>
+	</div>
+
+
+	<div class="main-contents">
+		<div class="logo-image">
+			<p1><img src="https://attach.s.op.gg/logo/20200907141845.58b746eb3289484ccb9da89761487ade.png"width="260" height="200"></p1>
+    </div>
+
+    <div class="search-bar">
+      <div class="input">
+        <input type="text" placeholder="소환사명..소환사명..">
+      </div>
+
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script src="script.js"></script>
+  </body>
+</html>

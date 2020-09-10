@@ -1,0 +1,328 @@
+a{
+  text-decoration: none;
+  color:white;
+}
+p2{
+position: relative;
+right:600px;
+top:20px;
+}
+body{
+  margin:0%;
+  background-color:#404040;
+
+}
+
+.nav-container{
+ display: flex;
+ background-color:#404040;
+ height:80px;
+ justify-content: flex-end;
+ margin-right:100px;
+ 
+ 
+ align-items: center;
+}
+.main-contents-box{
+  background-color: #404040;
+  
+}
+
+.nav-items{
+  margin:1%;
+  color: white;
+}
+
+.nav-title-items{
+  margin-right:760px;
+  font-size:29px;
+  color:white;
+  font-weight: bold;
+}
+
+.main-title{
+  text-align: center;
+  color: white;
+  font-size:40px;
+  margin-top:5%;
+}
+
+.main-sub-title{
+  text-align: center;
+  color:white;
+  font-size: 20px;
+  margin-top:2%;
+}
+
+.image-box{
+  margin-left: 700px;
+  position: relative;
+  bottom:90px;
+}
+
+.introduce-box{
+  margin-left: 170px;
+  position: relative;
+  top:115px;
+}
+
+.introduce-title{
+  color: white;
+  font-size: 30px;
+}
+
+.introduce-sub-title{
+  color: white;
+  font-size: 20px;
+}
+
+.infor{
+  color:white;
+  font-size:15px;
+  margin-top:20px;
+}
+
+
+.download-box{
+  border-radius: 10px;
+  width:300px;
+  height:60px;
+  background-image: linear-gradient(101deg, #0099ff, #76b83f);
+    border: none;
+    color:white;
+    font-size:20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 60px;
+    position: relative;
+    top: 160px;
+    margin-left: 170px;
+}
+
+
+.main-contents-box2{
+  background-color: white;
+  height:600px ;
+  
+
+}
+
+
+.price-title{
+  font-size: 30px;
+  
+  
+}
+
+.price-area-box{
+  position: relative;
+  top:10%;
+}
+
+.price-title{
+  margin-left: 30px;
+  position: relative;
+  top: 50px;
+  
+}
+
+.price-sub-title{
+  margin-left:30px;
+  font-size:20px;
+  position: relative;
+  top:50px;
+}
+
+.spec{
+  font-size:40px;
+  font-weight: bold;
+  margin-left: 30px;
+  position: relative;
+  top:100px;
+}
+
+.Features-box{
+  margin-left: 700px;
+  position: relative;
+  bottom:96px;
+
+}
+
+.another-infor{
+  position: relative;
+  margin-left:30px;
+  top:150px;
+  color: #64A1A9;
+}
+
+.Buy-button-box{
+  border: 1px sold #90C564;
+  background-color: #90C564;
+  width:256px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  color:white;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+  position: relative;
+  top:170px;
+  margin-left: 30px;
+  }
+
+  .price{
+    position: relative;
+    top:130px;
+    margin-left: 340px;
+    font-size:20px;
+    font-weight: bold;
+  }
+  
+.Features-items{
+  display: flex;
+  color:#90C564;
+  font-size: 20px;
+  font-weight: bold;
+  border-bottom:3px solid black;
+  margin-right: 200px;
+  padding:2px;
+
+}
+.Free{
+  margin-left: 400px;
+  padding:2px;
+}
+.Pro{
+  position: relative;
+  left:380px;
+  padding:2px;
+}
+
+.price-infor-items{
+  padding:2%;
+  border-bottom:1px solid black; 
+  margin-right:200px;
+  
+}
+
+p7{
+  position: relative;
+  bottom:280px;
+  left:410px;
+}
+
+p8{
+  position: relative;
+  bottom:250px;
+  left:410px;
+}
+
+p9{
+  position: relative;
+  bottom:220px;
+  left:410px;
+}
+
+p10{
+  position: relative;
+  bottom:200px;
+  left:410px;
+}
+
+p11{
+  position: relative;
+  bottom:170px;
+  left:410px;
+}
+
+p12{
+  position: relative;
+  bottom:140px;
+  left:410px;
+}
+
+p13{
+  position: relative;
+  bottom:410px;
+  left:500px;
+}
+
+.download-container{
+  background-color:white;
+  position: relative;
+  
+
+}
+.download-title{
+  font-size: 30px;
+  color:gray;
+  margin-left:140px;
+  margin-top:1%;
+}
+
+.download-sub-title{
+  margin-left: 140px;
+  font-size:20px;
+  color:gray;
+  margin-top:2%;
+}
+.relrease{
+  margin-left:140px;
+  font-size:18px;
+  color:#64A1A9;
+  margin-top:2%;
+}
+
+.download-button-box{
+  border:2px solid #76b83f;
+  background-color: white;
+  width:270px;
+  height:50px ;
+  border-radius: 7px;
+  line-height: 50px;
+  text-align: center;
+  margin-left:140px;
+  margin-top:20px;
+  
+}
+
+.container-box-1{
+margin-left:670px;
+margin-top:2%;
+}
+.under-nav-items-titles{
+  color:gray;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.under-nav-items{
+  color:white;
+}
+
+.container-box-2{
+  margin-left:880px;
+  margin-top:2%;
+  position: relative;
+  bottom:150px;
+}
+
+.container-box-3{
+  margin-top:2%;
+  position: relative;
+  bottom:315px;
+  margin-left: 1000px;
+}
+
+.under-informaition{
+  text-align: center;
+  color:white;
+  position: relative;
+  bottom:140px;
+}
+
+.under-nav-container{
+  background-color:#3A3E3E;
+  height: 300px;
+}

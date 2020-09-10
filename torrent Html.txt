@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>repl.it</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<div class="nav-container">
+		<div class="nav-title-items">µtorrent</div>
+		<div class="nav-items">제작품</div>
+		<div class="nav-items">커뮤니티</div>
+		<div class="nav-items">블로그</div>
+		<div class="nav-items">도움말</div>
+
+		<div class="select-box">
+			<select name="language">
+    <option value="한국어">한국어</option>
+    <option value="영어">영어</option>
+    <option value="언어선택"selected="selected">언어선택</option>
+    <option value="일본어">일본어</option>
+</select>
+    </div>
+    </div>
+      </div>
+
+    
+  
+
+    <div class="main-contents-box">
+      <div class="main-title">
+        µtorrent 다운로드
+      </div>
+      <div class="main-sub-title">
+        전 세계 최고의 데스크톱 torrent 다운로드 클라이언트.
+      </div>
+      <div class="introduce-box">
+        <div class="introduce-title">
+          Try µTorrent Web
+        </div>
+        <div class="introduce-sub-title">
+          Windows용
+        </div>
+        <div class="infor">
+          브라우저에서 바로 토렌트를 검색하고 재생할 수 있습니다.<br/>
+          토렌트를 다운받는 가장 빠르고 쉬우면서 가장 유쾌한 방법. 끝내줘요..
+        </div>
+      </div>
+    </div>
+    
+
+        <div class="download-box">
+          <div class="download-button">
+           <a href="https://download-new.utorrent.com/endpoint/utweb/track/stable/os/win"> 다운로드 µTorrent Web</a>
+          </div>
+        </div>
+        
+        <div class="image-box">
+          
+          <div class="image-items2">
+            
+            <p2><img src="https://www.utorrent.com/img/downloads/new-sticker-blank.png"width="54" height="54"></p2>
+          </div>
+        
+        
+          
+          <div class="image-items">
+            <p1><img src="https://www.utorrent.com/img/downloads/utweb-screenshot.png"></p1>
+          </div>
+        </div>
+        </div>
+      </div>
+      
+      <div class="main-contents-box2">
+      <div class="price-area-box">
+        <div class="price-title">
+          µTorrent Pro 이용하기
+        </div>
+        <div class="price-sub-title">
+          Windows용
+        </div>
+        <div class="spec">
+          보안 강화<br/>무광고
+        </div>
+        <div class="another-infor">
+          자세한 정보
+        </div>
+        <div class="Buy-button-box">
+          <div class="button-items">
+            µtorrent Pro 구매
+          </div>
+        </div>
+        <div class="price">
+          $19.95 USD/년
+        </div>
+      </div>
+      
+
+      <div class="Features-box">
+        <div class="Features-items">
+        <div class="Features">기능</div>
+        
+         <div class="Pro">Pro </div>
+          <div class="Free">Free </div>
+        </div>
+
+    <div class="price-infor">
+      <div class="price-infor-items">
+       <strong> 콘텐츠의 우주</strong>: 수백 만개의 토렌트를 이용 가능
+      </div>
+      <div class="price-infor-items">
+       <strong> 보안 강화</strong>: 토렌트를 스캔하여 모든 바이러스를 차단
+      </div>
+      <div class="price-infor-items">
+        <strong>광고 없음</strong>: 방해 없이 더 적은 데이터를 사용
+      </div>
+      <div class="price-infor-items">
+        <strong>프리미엄 지원</strong>: 전문가 지원을 우선으로 이용
+      </div>
+      <div class="price-infor-items">
+       <strong> 토렌트 스트림 시청</strong>: 기다리지 않고 바로 시청
+      </div>
+      <div class="price-infor-items">
+       <strong>언제 어디서나 시청</strong>: 파일 변환하여 HD로 재생
+      </div>
+    <div class="image-check-box">
+      <div class="image-items3">
+        <p7><img src="https://www.utorrent.com/img/utnew/utweb-green-checkmarks.svg"></p7>
+      </div>
+
+       <div class="image-items3">
+        <p8><img src="https://www.utorrent.com/img/utnew/utweb-green-checkmarks.svg"></p8>
+      </div>
+
+       <div class="image-items3">
+        <p9><img src="https://www.utorrent.com/img/utnew/utweb-green-checkmarks.svg"></p9>
+      </div>
+    
+
+     <div class="image-items3">
+        <p10><img src="https://www.utorrent.com/img/utnew/utweb-green-checkmarks.svg"></p10>
+      </div>
+    
+
+     <div class="image-items3">
+        <p11><img src="https://www.utorrent.com/img/utnew/utweb-green-checkmarks.svg"></p11>
+      </div>
+    
+
+     <div class="image-items3">
+        <p12><img src="https://www.utorrent.com/img/utnew/utweb-green-checkmarks.svg"></p12>
+      </div>
+    
+
+     <div class="image-items3">
+        <p13><img src="https://www.utorrent.com/img/utnew/utweb-green-checkmarks.svg"></p13>
+      </div>
+    
+
+    </div>
+    </div>
+    
+    
+    
+    </div>
+      </div>
+   <div class= "download-container">
+     <div class="download-title">µTorrent 안정 버전 (3.5.5 build 45798)
+     </div>
+     <div class="download-sub-title">Windows용 (4.88 MB)<br/>
+      영어(미국) - August 28, 2020
+     </div>
+     <div class="relrease">릴리스 정보<br/>
+      언어 팩 다운로드
+     </div>
+     <div class="download-button-box">
+       <div class="download">지금 다운로드</div>
+     </div>
+
+
+     <div class="download-title">µTorrent beta
+     </div>
+     <div class="download-sub-title">Windows용 (1.85 MB)<br/>
+      영어(미국) - August 4, 2020
+     </div>
+     <div class="relrease">릴리스 정보<br/>
+      언어 팩 다운로드
+     </div>
+     <div class="download-button-box">
+       <div class="download">지금 다운로드</div>
+     </div>
+
+
+
+
+     <div class="download-title">언어 팩
+     </div>
+     <div class="download-sub-title">
+      µtorrent를 위해 3.5.5 build 45770<br/>
+      (1.28 MB) - July 30, 2020<br/>
+      설치를 위해서utorrent.lng를 %AppData%\uTorrent에 복사하세요 
+     </div>
+     <div class="relrease">릴리스 정보<br/>
+      언어 팩 다운로드
+     </div>
+     <div class="download-button-box">
+       <div class="download">지금 다운로드</div>
+     </div>
+
+
+   </div>
+  
+
+        
+
+      
+    <div class="under-nav-container">
+      <div class="container-box-1">
+      <div class="under-nav-items-titles">다운로드</div>
+      <div class="under-nav-items">Window</div>
+      <div class="under-nav-items">Mac</div>
+      <div class="under-nav-items">Linux</div>
+      <div class="under-nav-items">모바일</div>
+      <div class="under-nav-items">Remote</div>
+      </div>
+      
+
+     <div class="container-box-2">
+      <div class="under-nav-items-titles">회사</div>
+      <div class="under-nav-items">정보</div>
+      <div class="under-nav-items">블로그</div>
+      <div class="under-nav-items">개인정보</div>
+      <div class="under-nav-items">Copyright</div>
+      <div class="under-nav-items">조건</div>
+      <div class="under-nav-items">광고하기</div>
+     </div>
+    
+      
+
+     <div class="container-box-3">
+      <div class="under-nav-items-titles">도움말</div>
+      <div class="under-nav-items">고객센터</div>
+      <div class="under-nav-items">포럼</div>
+      <div class="under-nav-items">Security</div>
+     </div>
+     <div class="under-informaition">
+      © 2020BitTorrent, Inc.µTorrent는 BitTorrent, Inc의 트레이드마크입니다.
+     </div>
+    </div>
+    
+    </div>
+    
+    
+      
+    
+      
+    
+    
+    <script src="script.js"></script>
+  </body>
+</html>

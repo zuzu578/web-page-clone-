@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width", initial-scale=1.0">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    
+     
+  <div class="main-contents1">
+   <div class="nav-container">
+      <div class="logo-items">  t  </div>
+      <div class="saerch-items">   
+       <input type="text" placeholder="Tumblr검색">
+
+    <div class="main-title1">
+      tumblr   
+    </div>
+    <div class="sub-title1">
+      잠깐 구경하러 왔다가<br/>
+      눌러앉게 될걸요.
+    </div>
+      
+    <div class="start-button">
+    <div class="button">시작하기</div>
+  </div>
+
+  <div class="Login-button">
+    <div class="Log-in">로그인</div>
+  </div>
+   <div class="nowadays-post">
+    요즘 뜨는 포스트
+  </div>
+ 
+   </div>
+  </div>
+  
+  <div class="main-contents2">
+    <div class="main-title2">
+      Tumblr는 너무 쉬워 설명이 따로 필<br/>요없어요.
+    </div>
+   <div class="sub-title2">
+     손쉽게 뚝딱 블로그를 만들어 무엇이든 올릴 수 있습니다. 이야기, 사진, GIF, TV 쇼,</br> 링크, 풍자, 개그, Spotify 트랙, MP3, 동영상, 패션, 아트, 진지한 얘기까지 뭐든지요.<br/> 506673753가지 다양한 개성이 모인 Tumblr, 없는 거 없이 다 있답니다.
+   </div>
+
+
+      </div>
+
+
+      <div class="main-contents3">
+    <div class="main-title3">
+      Tumblr는 블로그. 컵이 아닙<br/>니다.
+
+    </div>
+   <div class="sub-title3">
+    알고 보니 모두 이렇게 간단하게 재미난 포스팅을 하고 있었다고요? 친<br/>구들이 공유하던 수많은 기발한 블로그, 그게 모두 Tumblr 블로그였다<br/>는 사실. 이제, 멋진 블로그를 쉽게 찾아 팔로우하세요. 전 세계 블로거<br/>들을 찾아 서로 팔로우하는 재미를 맛보세요.
+   </div>
+      </div>
+   
+
+   <div class="image">
+     <p1><img src="https://64.media.tumblr.com/24db716c804aaf6fa656b0700509697f/90afb04ea3126754-9b/s500x750/ab28dbd16edca8c39f60fdd62aed4db60bc251f3.jpg"width="225" height="342" ></p1>
+
+     <p2><img src="https://64.media.tumblr.com/e82a1d122016c070424ae16f4620a2b7/ec07ab98b55368b8-72/s500x750/b50e2d0f96f8cb2deae2189853fb32fb2b1f996e.png"width="225" height="342"></p2>
+
+     <p3><img src="https://64.media.tumblr.com/59bb336566305a40899b6c941758b91f/afe9cf164c54c3a4-ba/s500x750/c5b3f9364558d670f083963b6ba8bb3dcc7304b5.jpg"width="225"height="342"></p3>
+
+     <p4><img src="https://64.media.tumblr.com/f8cb194b850ccb79165decc6f7fa6bf2/8e24bb5381e63f89-d0/s500x750/23efac1f25e5283682986c1eb1a7437d35a3ec48.png"width="225"height="342"></p4>
+
+   </div>
+   
+
+      <div class="main-contents4">
+    <div class="main-title4">
+      어떻게 하는지 다 아시<br/>죠?
+
+    </div>
+   <div class="sub-title4">
+    팔로우하는 블로그의 모든 포스트가 대시보드에 나<br/>타납니다. 멋진 포스트가 있다면 리<br/>블로그하세요. 리블로그해서 내 블로그로 가져올 수도 있고, 댓글도<br/> 달 수 있답니다. 요게 바로 Tumblr 친구를 만드는 방<br/>법!
+   </div>
+      </div>
+
+
+
+
+          <div class="main-contents5">
+    <div class="main-title5">
+      정말로요, 뭐든지 여기 올리세요.
+
+    </div>
+   <div class="sub-title5">
+    우선 일곱 가지 포스트 유형 중 하나를 고르세요. 그다음은 저절로 착착~ 어느새 포스팅 완료. 마음대로 착착~
+   </div>
+      </div>
+
+
+
+
+
+
+
+
+
+ <div class="main-contents6">
+    <div class="main-title6">
+      어렵지 않답니다.
+
+    </div>
+   <div class="sub-title6">
+  농담이고요. 이제 이해하셨죠? 그럼 시작해보세요.
+   </div>
+
+  <div class="start-button">
+    <div class="button">시작하기</div>
+  </div>
+
+  <div class="Login-button">
+    <div class="Log-in">로그인</div>
+  </div>
+  
+  <div class="nowadays-post">
+    <요즘뜨는 포스트>
+  </div>
+
+ </div>
+ 
+
+
+  
+      </div>
+
+
+
+
+    <script src="script.js"></script>
+  </body>
+</html>

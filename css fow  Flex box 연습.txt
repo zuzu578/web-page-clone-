@@ -1,0 +1,124 @@
+body{
+  margin:0%;
+}
+
+.logo-items{
+  margin-right:40px;
+  font-size: 20px;
+  font-weight: bold;
+  color:RGB(221, 186, 100);
+}
+.header-items{
+  display: flex;
+  justify-content: center;
+  padding:20px;
+}
+
+.search-items{
+  border:1px solid gray ;
+  width:600px;
+  height: 40px;
+  background-color:white;
+
+}
+input[type=text]{
+  width:570px;
+  height:35px ;
+  outline: none;
+  border:0;
+}
+
+.search-button-items{
+  border: 1px solid #4d90fe;
+  width:70px;
+  height: 31px;
+  background-color: #4d90fe;
+  margin-left:30px;
+  border-radius: 5px;
+  
+  
+}
+button{
+  border:0;
+  outline: none;
+  width: 72px;
+  height: 32px;
+  background-color: #4d90fe;
+  padding-right: 10px;
+  color:white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.nav-items{
+  height:40px ;
+  display: flex;
+  justify-content: center;
+  color:white;
+  background-color: #464b4c;
+  flex-wrap: nowrap;
+}
+
+.items{
+  
+   padding:15px;
+  font-size:13px;
+}
+
+.Main-items-box{
+ margin-top: 5%;
+ display: flex;
+ flex-direction: column;
+ 
+ border:1px solid RGB(221, 221, 221);
+ width: 700px;
+ height: 1600px;
+ margin-left: 380px;
+ 
+
+}
+
+.Rotation{
+  border:1px solid RGB(93, 152, 213);
+  background: RGB(93, 152, 213);
+  margin-right:20px;
+  margin-left:20px;
+  margin-top:17px;
+  color:white;
+  font-size: 15px;
+}
+
+.sales{
+   border:1px solid RGB(93, 152, 213);
+  background: RGB(93, 152, 213);
+  margin-right:20px;
+  margin-left:20px;
+  margin-top:50px;
+  color:white;
+}
+
+.patch-title{
+   border:1px solid RGB(93, 152, 213);
+  background: RGB(93, 152, 213);
+  margin-right:20px;
+  margin-left:20px;
+  margin-top:100px;
+  color:white;
+}
+
+.champion-image{
+  margin-left:10px;
+  margin-top: 5px;
+  
+}
+
+.champion-image1{
+  margin-left:10px;
+  margin-top:5px;
+  
+}
+
+.imgae1{
+ padding:3%;
+
+}

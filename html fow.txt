@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header class="header-items">
+      <div class="logo-items">
+       <img src="http://z.fow.kr/fowkr_logo_small.png">
+      </div>
+      <div class="search-items">
+        <input type="text" placeholder="">
+      </div>
+      <div class="search-button-items">
+        <button>검색</button>
+      </div>
+    </header>
+    
+    <nav class="nav-items">
+      <div class="items"> 홈 </div>
+       <div class="items"> 관전하기 </div>
+        <div class="items"> 다시보기</div>
+         <div class="items"> 챔피언</div>
+          <div class="items"> 챔피언통계</div>
+           <div class="items"> 랭킹</div>
+            <div class="items"> 자유랭킹</div>
+             <div class="items"> 장인랭킹</div>
+              <div class="items"> 픽순위</div>
+               <div class="items"> 밴순위 </div>
+                <div class="items"> 멀티서치 </div>
+              </nav>
+
+        <main class="Main-items-box">
+          <div class="Rotation">- 금주의 로테이션 챔피언 ( 2020-09-08 ~ 2020-09-14 )</div>
+          <div class="champion-image">
+          <item class="imgae"><img src="http://z.fow.kr/champ/13_64.png"></item>
+           <item class="imgae"><img src="http://z.fow.kr/champ/99_64.png"></item>
+          <item class="imgae"><img src="http://z.fow.kr/champ/35_64.png"></item>
+          <item class="imgae"><img src="http://z.fow.kr/champ/235_64.png"></item>
+          <item class="imgae"><img src="http://z.fow.kr/champ/113_64.png"></item>
+           <item class="imgae"><img src="http://z.fow.kr/champ/98_64.png"></item>
+           <item class="imgae"><img src="http://z.fow.kr/champ/50_64.png"></item>
+           <item class="imgae"><img src="http://z.fow.kr/champ/523_64.png"></item>
+           <item class="imgae"><img src="http://z.fow.kr/champ/22_64.png"></item>
+           <item class="imgae"><img src="http://z.fow.kr/champ/77_64.png"></item>
+           <item class="imgae"><img src="http://z.fow.kr/champ/420_64.png"></item>
+           <item class="imgae"><img src="http://z.fow.kr/champ/30_64.png"></item>
+           <item class="imgae"><img src="http://z.fow.kr/champ/69_64.png"></item>
+          <item class="imgae"><img src="http://z.fow.kr/champ/91_64.png"></item>
+          <item class="imgae"><img src="http://z.fow.kr/champ/17_64.png"></item>
+
+
+
+        <div class="sales">- 현재 진행중인 챔피언 및 스킨 세일 ( 챔피언 이미지를 클릭하면 3D 모델을 볼 수 있습니다. )</div>
+        <div class="champion-image1">
+          <item class="imgae1"><img src="http://z.fow.kr/champ/113_64.png"></item>
+            <item class="imgae1"><img src="http://z.fow.kr/champ/516_64.png"></item>
+              <item class="imgae1"><img src="http://z.fow.kr/champ/61_64.png"></item>
+                <item class="imgae1"><img src="http://z.fow.kr/champ/69_64.png"></item>
+                  <item class="imgae1"><img src="http://z.fow.kr/champ/92_64.png"></item>
+                    <item class="imgae1"><img src="http://z.fow.kr/img/tiles/shyvana_3.jpg"></item>
+                      <item class="imgae1"><img src="http://z.fow.kr/img/tiles/ahri_7.jpg"></item>
+                        <item class="imgae1"><img src="http://z.fow.kr/img/tiles/lulu_3.jpg"></item>
+                          <item class="imgae1"><img src="http://z.fow.kr/img/tiles/yasuo_18.jpg"></item>
+                            <item class="imgae1"><img src="http://z.fow.kr/img/tiles/camille_2.jpg"></item>
+                              <item class="imgae1"><img src="http://z.fow.kr/img/tiles/nunu_8.jpg"></item>
+                                <item class="imgae1"><img src="http://z.fow.kr/img/tiles/jhin_2.jpg"></item>
+                                  <item class="imgae1"><img src="http://z.fow.kr/img/tiles/tryndamere_7.jpg"></item>
+                                    <item class="imgae1"><img src="http://z.fow.kr/img/tiles/evelynn_8.jpg"></item>
+                                      <item class="imgae1"><img src="http://z.fow.kr/img/tiles/anivia_8.jpg"></item>
+                                        <item class="imgae1"><img src="http://z.fow.kr/img/tiles/shaco_5.jpg"></item>
+                                          <item class="imgae1"><img src="http://z.fow.kr/img/tiles/xinzhao_6.jpg"></item>
+                                            <item class="imgae1"><img src="http://z.fow.kr/img/tiles/orianna_2.jpg"></item>
+                                              <item class="imgae1"><img src="http://z.fow.kr/img/tiles/vayne_6.jpg"></item>
+                                                <item class="imgae1"><img src="http://z.fow.kr/img/tiles/kogmaw_7.jpg"></item>
+
+
+          </item>
+        </div>
+
+       <div class="patch-title">
+         -최근패치내용
+       </div>
+        <ul class="patch">
+          
+          
+        <li>10.18 패치 내용 보기</li>
+        <li>10.17(16b) 패치 내용 보기</li>
+        </ul>
+    
+
+        </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>

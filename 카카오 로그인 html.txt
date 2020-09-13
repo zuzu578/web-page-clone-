@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="main-box">
+    <div class="main-title">
+      <h1>카카오계정으로 Daum을 이용해 보세요!</h1>
+    </div>
+    <div class="sub-titles">
+      이제부터 Daum은 카카오계정으로 이용할 수 있습니다.<br/>
+      사용중인 카카오계정(전화번호 또는 이메일)으로 로그인해 보세요.
+    </div>
+   <div class="infor">
+     tip 카카오톡 > 더보기 > 내 프로필 확인
+   </div>
+   
+   <img src="https://accounts.kakao.com/assets/weblogin/techin/retina/banner_login2-1f3245f1b494f4b7f8300052d06e674f561983888ae9f5ead0e1e83af5cdcad7.png"width="540" height="266">
+    </div>
+    
+
+
+
+
+
+
+    </div>
+    <div class="log-in-form">
+      <div class="title">KaKao</div>
+      <div class="input-items">
+       <div class="email">
+         <input type="email" placeholder="카카오계정">
+       </div>
+       <div class="password">
+         <input type="password" placeholder="비밀번호">
+       </div>
+
+
+      </div>
+      <div class="check-box">
+        <input type="radio">로그인상태 유지
+      </div>
+      
+      <div class="button">
+        <div class="log-in">
+          로그인
+        </div>
+
+      <div class="qr-log-in">
+        QR코드 로그인
+      </div>
+      </div>
+    <div class="account-items">
+      <div class="account1">회원가입  </div>
+        <div class="account2">카카오계정  </div>
+          <div class="account3">비밀번호 찾기   </div>
+          </div>
+        </div>
+    
+
+
+
+
+
+
+
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

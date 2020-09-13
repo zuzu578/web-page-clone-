@@ -1,0 +1,72 @@
+
+body{
+ margin: 0;
+
+}
+img{
+  position: absolute;
+  left: 700px;
+  bottom: 100px;
+  
+
+}
+.button2{
+  border:1px solid RGB(1, 195, 167);
+  background:RGB(1, 195, 167);
+  width:180px;
+  height:51px ;
+  color: white;
+  text-align: center;
+  line-height: 51px;
+  border-radius: 4px;
+  margin-left: 100px;
+  margin-top:70px;
+}
+.sub-titles{
+  margin-left:100px;
+  color:white;
+}
+
+.main-items{
+  color:white;
+  font-size: 30px;
+  margin-left: 100px;
+}
+.main-page1{
+  background-color:RGB(50, 77, 82);
+  height: 700px;
+}
+.nav-container{
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+  background:RGB(50, 77, 82);
+  padding-top:40px;
+  font-size:14px;
+  
+}
+
+.logo{
+  padding-left:30px;
+  color:white;
+}
+.download-button{
+  border:1px solid white;
+  width: 90px;
+  height:30px ;
+ line-height: 30px;
+  text-align: center;
+  border-radius: 2px;
+  margin-right:40px;
+  color:white;
+
+
+}
+.nav-items{
+  display: flex;
+  color:white;
+}
+
+.items{
+  padding-right: 70px;
+}

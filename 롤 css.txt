@@ -1,0 +1,101 @@
+body{
+  margin: 0;
+  background: black;
+}
+.nav-items{
+  display: flex;
+justify-content: center;
+background:black;
+color: white;
+height:80px ;
+line-height: 70px;
+font-size:13px;
+
+}
+.game-infor-sub{
+  text-align: center;
+  margin-top:3%;
+}
+.game-infor{
+  text-align:center;
+  font-weight: bold;
+  font-size:40px;
+}
+.game{
+ color:white;
+ position: relative;
+ 
+}
+
+.buttons{
+  margin-left: 520px;
+  margin-top:2%;
+}
+.start-button{
+  border:1px solid RGB(208, 169, 91);
+  width:195px;
+  height: 56px;
+  background:RGB(208, 169, 91);
+  text-align: center;
+  line-height: 56px;
+  border-radius: 1px;
+  margin-right:20px;
+
+}
+
+.free-button{
+  border:1px solid #03c6e2;
+  width: 195px;
+  height:56px ;
+  background: #03c6e2;
+  text-align: center;
+  line-height: 56px;
+  border-radius: 1px
+}
+.buttons{
+  display: flex;
+}
+.button1{
+  text-align: center;
+  line-height: 56px;
+}
+.download-button{
+  border:1px solid #0dc4e1;
+  width: 195px;
+  height: 56px;
+  margin:0 auto;
+  margin-top:60px;
+  
+ line-height: 40px;
+  color: white;
+  background: #0dc4e1;
+}
+.main-items{
+  
+  width:400px;
+  margin:0 auto;
+  margin-top:150px;
+}
+.account-items{
+  display: flex;
+  margin-left:80px;
+ 
+
+}
+.items{
+  padding-left:60px;
+}
+.button{
+  margin-left:47px;
+  margin-top:10px;
+}
+
+.ac-items2{
+  border:1px solid RGB(13, 196, 225);
+  width:159px;
+  height:50px ;
+  background:RGB(13, 196, 225);
+  border-radius: 2px;
+  line-height: 50px;
+  text-align: center;
+}

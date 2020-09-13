@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+
+   
+  <div class="nav-items">
+    <div class="items">L</div>
+    <div class="items">게임정보 </div>
+     <div class="items">챔피언 </div>
+      <div class="items">새소식 </div>
+       <div class="items">패치 노트 </div>
+        <div class="items">다운로드 </div>
+         <div class="items">E스포츠 </div>
+          <div class="items">알아보기 </div>
+           <div class="items">유니버스 </div>
+            <div class="items">더 보기 </div>
+             <div class="account-items">
+               <div class="ac-items"> 로그인 </div>
+               <div class="button">
+                <div class="ac-items2"> 회원가입 </div>
+                 </div>
+             </div>
+  </div>
+  <div class="main-items">
+  
+    <div class="main-logo">
+      <img src="https://lolstatic-a.akamaihd.net/frontpage/apps/prod/harbinger-l10-website/ko-kr/production/ko-kr/static/logo-1200-589b3ef693ce8a750fa4b4704f1e61f2.png"width="428"  height="188">
+    </div>
+  </div>
+
+  <div class="download-button">
+    <div class="button1">무료로 정치질하기</div>
+  </div>
+  
+  <div class="information">
+    <div class="image">
+      <img src="https://lolstatic-a.akamaihd.net/frontpage/apps/prod/harbinger-l10-website/ko-kr/production/ko-kr/static/player-guide-map-1440-32575baa2f8d2b2bfd5cfd07e11d1361.png"width="1000">
+    </div>
+    <div class="game">
+      <div class="game-infor">전설의<br/>
+      <strong>시작</strong>
+      </div>
+      <div class="game-infor-sub">
+        리그 오브 레전드가 처음이신가요? 가장 인기 있는 게임 모드를 간략히 배워 보세요.
+      </div>
+   <div class="buttons">
+    <div class="start-button">
+      <div class="Start">시작하기</div>
+    </div>
+    <div class="free-button">
+      <div class="free">무료로 플레이하기</div>
+    </div>
+
+    </div>
+
+  </div>
+  </div>
+  
+  
+
+
+
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      
+  
+    <nav class="nav-container1">
+     <div class="nav-items1"> OP.GG </div>
+     <div class="nav-items1"> 리그오브레전드 </div>
+     <div class="nav-items">NEXT  </div>
+     <div class="nav-items">배틀그라운드 </div>
+     <div class="nav-items">오버워치  </div>
+     <div class="nav-items">포트나이트  </div>
+     <div class="nav-items">레인보우 식스  </div>
+     <div class="nav-items">톡피지지  </div>
+       <div class="button-items">
+      <div class="language">한국어 </div>
+      <div class="button">로그인</div>
+    </div>
+    </nav>
+   
+  
+
+
+
+
+    
+    <nav class="nav-container2">
+      <div class="nav"> #집에있자  </div>
+      <div class="nav">챔피언 분석   </div>
+      <div class="nav">  통계 </div>
+      <div class="nav">  랭킹 </div>
+      <div class="nav">프로관전   </div>
+      <div class="nav"> 멀티서치  </div>
+      <div class="nav"> OP셜  </div>
+      <div class="nav"> 커뮤니티  </div>
+    </nav>
+
+
+
+    </div>
+
+    <div class="main-logo">
+      <img src="https://attach.s.op.gg/logo/20200911230902.f45b642c9cd18804733408f55e514be2.png"width="390"
+      height="200">
+    </div>
+    <div class="search-bar">
+      <input type="text" placeholder="소환사 명..">
+    </div>
+
+
+    <div class="main-box">
+      <h1>OP.GG Talk인기글</h1>
+      <ul class="contents">
+     <li> 몸매 쩌는 누님과 술한잔 ㅗㅜㅑ     </li>
+     <li>  몸매 쩌는 누님과 술한잔 ㅗㅜㅑ    </li>
+     <li>   몸매 쩌는 누님과 술한잔 ㅗㅜㅑ   </li>
+     <li>    몸매 쩌는 누님과 술한잔 ㅗㅜㅑ  </li>
+     <li>    몸매 쩌는 누님과 술한잔 ㅗㅜㅑ  </li>
+     <li>   몸매 쩌는 누님과 술한잔 ㅗㅜㅑ   </li>
+     <li>   몸매 쩌는 누님과 술한잔 ㅗㅜㅑ   </li>
+     <li>   몸매 쩌는 누님과 술한잔 ㅗㅜㅑ   </li>
+     <li>   몸매 쩌는 누님과 술한잔 ㅗㅜㅑ   </li>
+     <li>   몸매 쩌는 누님과 술한잔 ㅗㅜㅑ   </li>
+
+
+      </ul>
+
+    <script src="script.js"></script>
+  </body>
+</html>

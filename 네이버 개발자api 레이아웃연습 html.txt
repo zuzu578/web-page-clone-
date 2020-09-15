@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+
+  <nav class="nav-container">
+    <div class="nav-items">NAVER Developers  </div>
+      <div class="nav-items">Products  </div>
+     <div class="nav-items">Documents </div>
+      <div class="nav-items">Application  </div>
+        <div class="nav-items">Naver D2  </div>
+        <div class="nav-items"> Support </div>
+          <div class="nav-items">Forum  </div>
+          <div class="search-bar">
+            <input type="text" placeholder="Search Here">
+          </div>
+          <div class="log-in">
+            <div class="button">로그인</div>
+          </div>
+
+  </nav>
+
+
+
+
+  <div class="banner">
+   <h1>Products   |   <span>네이버에서 제공하는 다양한 서비스와 컨텐츠를 소개합니다.</span></h1>
+
+
+  </div>
+  
+    <h2>Products>네이버 아이디로 로그인><r>네이버 아이디로 로그인 API</r></h2>
+  <div class="main-contents">
+
+  <ul class="left-items">
+    <li>   API 이용 안내   </li>
+     <li>   CLOVA   </li>
+      <li>  네이버 아이디로 로그인    </li>
+       <li>  네이버 아이디로 로그인 API    </li>
+        <li>    카페  </li>
+         <li>   캘린더   </li>
+          <li>    적용 가이드  </li>
+           <li>   적용 사례   </li>
+            <li>   파파고   </li>
+             <li>   서비스 API </li>
+
+
+
+
+  </ul>
+
+  <div class="main">
+    <h3>네이버 아이디로 로그인</h3>
+<f>별도의 아이디, 비밀번호없이 네이버 아이디로 간편하게 외부 서비스에 로그인 할 수 있도록 하는 서비스입니다. 이용자는 복잡하고 번거로운 회원 가입 절차 없이 편하게 서비스를 이용하고, 사업자는 회원 가입, 로그인에 대한 허들을 낮춰 회원수가 늘고 매출은 오르는 경험을 할 수 있습니다.<br></f>
+
+<l>200만 네이버 회원을 여러분의 사용자로!</l><br>
+네이버 회원이라면, 여러분의 사이트를 간편하게 이용할 수 있습니다. 전 국민 모두가 가지고 있는 네이버 아이디 한개만 있으면 별도 가입없이 어떤 플랫폼에서도 간편하게 로그인할 수 있습니다.<br>
+
+<n>불필요한 회원 정보 입력 과정을 없애 주는 프로필 조회 API 제공</n><br>
+프로필 조회 API를 통해 이름, 메일 주소, 별명, 생일, 연령대, 성별 등 필요한 정보를 조회할 수 있습니다. 가입 과정에서 많은 정보를 입력받지 않아도 되므로 개인정보 관리 부담은 줄어들고, 사용자는 전달되는 정보를 선택할 수 있어 안심하고 로그인할 수 있습니다. 또한, 다양한 네이버 서비스와 매시업이 가능합니다.<br>
+
+<m>빠른개발, 간편한 운영</m><br>
+플랫폼 별 SDK를 제공하여 쉽고 빠르게 개발할 수 있도록 지원합니다. 또한 환경별 로그인, 누적 사용자 등 다양한 통계를 제공하여 성과를 확인할 수 있습니다.
+  </div>
+
+
+
+
+
+  </div>
+    <script src="script.js"></script>
+  </body>
+</html>

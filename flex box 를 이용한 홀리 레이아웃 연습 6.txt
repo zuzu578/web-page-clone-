@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  
+    <div class="title">
+      <h1> hello world </h1>
+    
+    </div>
+  <div class="container">
+
+    <div class="left">
+    <ul>
+    <li>    1 </li>
+     <li>   2  </li>
+      <li>  3   </li>
+       <li>   4  </li>
+
+
+    </ul>
+    </div>
+    
+
+    <div class="main">
+    어느한시점에 일정 지역에서 사는 사람의 수 
+    </div>
+
+    <div class="right">
+    이쪽은 오른쪽입니다.
+
+    </div>
+
+  </div>
+
+
+    <div class="footer">
+
+
+    이쪽은 아랫부분입니다.
+    </div>
+
+
+
+  
+  
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+
+
+*{
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+
+}
+
+.right{
+  border:1px solid black;
+  width:130px;
+  height: 700px;
+}
+.left{
+  border:1px solid black;
+  width:130px;
+  height: 700px;
+}
+body{
+  width:900px;
+  margin: 0 auto;
+}
+}
+h1{
+  padding:10px;
+  color:white;
+}
+.title{
+  width:600px;
+  height:60px ;
+  background: orange;
+}
+
+.container{
+  display: flex;
+}
+
+.main{
+  width:338px;
+}
+
+.footer{
+  border:1px solid black;
+  width:800px;
+}

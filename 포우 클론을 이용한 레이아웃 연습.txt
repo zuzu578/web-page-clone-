@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="header-wrapper">
+    <header class="header">
+     <img src="http://z.fow.kr/fowkr_logo_small.png">
+     <div class="search-bar">
+       <input type="text">
+     </div>
+     <div class="button">
+       검색
+     </div>
+    </header>
+    </div>
+
+
+
+    <nav class="nav-container">
+      <div class="nav-items">홈 </div>
+       <div class="nav-items">관전하기  </div>
+        <div class="nav-items">다시보기  </div>
+         <div class="nav-items">챔피언  </div>
+          <div class="nav-items">챔피언통계  </div>
+           <div class="nav-items">랭킹  </div>
+            <div class="nav-items">자유랭킹  </div>
+             <div class="nav-items">장인랭킹  </div>
+              <div class="nav-items">픽순위  </div>
+               <div class="nav-items">밴순위  </div>
+                <div class="nav-items">멀티서치  </div>
+
+         </nav>
+
+      <div class="main-wrapper">
+        <div class="left">
+          <h3>< 승률순위 v10.18 ></h3>
+          <div class="position">
+            <div class="position-items">탑</div>
+              <div class="position-items">정글</div>
+                <div class="position-items">미드</div>
+                  <div class="position-items">원딜</div>
+          </div>
+        <div class="champion">
+          <div class="champion-items">마오카이  </div>
+          <div class="champion-items">룰루  </div>
+          <div class="champion-items">제드  </div>
+          <div class="champion-items">카시오페이아  </div>
+           <div class="champion-items">스웨인  </div>
+            <div class="champion-items">우르곳  </div>
+           <div class="champion-items">신지드  </div>
+          <div class="champion-items">퀸  </div> 
+          <div class="champion-items"> 헤카림 </div>   
+          <div class="champion-items"> 쉔 </div>
+
+
+          </div>
+
+
+
+        </div>
+
+        <div class="main">
+          <div class="rotaition">
+          <h4>- 금주의 로테이션 챔피언 ( 2020-09-15 ~ 2020-09-21 )</h4>
+          <div class="champion-image">
+          <img src="http://z.fow.kr/champ/86_64.png">
+          <img src="http://z.fow.kr/champ/75_64.png">
+          <img src="http://z.fow.kr/champ/518_64.png">
+          <img src="http://z.fow.kr/champ/92_64.png">
+          <img src="http://z.fow.kr/champ/11_64.png">
+          <img src="http://z.fow.kr/champ/57_64.png">
+          <img src="http://z.fow.kr/champ/517_64.png">
+          <img src="http://z.fow.kr/champ/72_64.png">
+          <img src="http://z.fow.kr/champ/15_64.png">
+          <img src="http://z.fow.kr/champ/498_64.png">
+          <img src="http://z.fow.kr/champ/24_64.png">
+          <img src="http://z.fow.kr/champ/246_64.png">
+          <img src="http://z.fow.kr/champ/203_64.png">
+          <img src="http://z.fow.kr/champ/223_64.png">
+          <img src="http://z.fow.kr/champ/555_64.png">
+          </div>
+
+          </div>
+        
+
+      
+    
+
+          <div class="main2">
+          <div class="sale-items">
+            <h4>- 현재 진행중인 챔피언 및 스킨 세일 ( 챔피언 이미지를 클릭하면 3D 모델을 볼 수 있습니다. )</h4>
+          <div class="champion-image2">
+            <img src="http://z.fow.kr/champ/114_64.png">
+             <img src="http://z.fow.kr/champ/23_64.png">
+              <img src="http://z.fow.kr/champ/268_64.png">
+               <img src="http://z.fow.kr/champ/34_64.png">
+                <img src="http://z.fow.kr/champ/420_64.png">
+                 <img src="http://z.fow.kr/img/tiles/kayle_9.jpg">
+                  <img src="http://z.fow.kr/img/tiles/rengar_8.jpg">
+                   <img src="http://z.fow.kr/img/tiles/khazix_2.jpg"> 
+                    <img src="http://z.fow.kr/img/tiles/gnar_4.jpg">
+                     <img src="http://z.fow.kr/img/tiles/lucian_9.jpg">
+                      <img src="http://z.fow.kr/img/tiles/jax_7.jpg">
+                       <img src="http://z.fow.kr/img/tiles/ekko_3.jpg">
+                        <img src="http://z.fow.kr/img/tiles/evelynn_1.jpg">
+                         <img src="http://z.fow.kr/img/tiles/caitlyn_13.jpg">
+                          <img src="http://z.fow.kr/img/tiles/nocturne_1.jpg">
+                           <img src="http://z.fow.kr/img/tiles/renekton_18.jpg">
+                            <img src="http://z.fow.kr/img/tiles/orianna_1.jpg">
+                             <img src="http://z.fow.kr/img/tiles/heimerdinger_3.jpg">
+                              <img src="http://z.fow.kr/img/tiles/akali_5.jpg">
+                               <img src="http://z.fow.kr/img/tiles/kennen_3.jpg">
+          </div>     
+        
+     
+
+        </div>
+
+          </div>
+       
+
+
+        </div>
+    
+      
+
+
+
+
+
+
+
+
+
+        </div>
+    <script src="script.js"></script>
+  </body>
+</html>

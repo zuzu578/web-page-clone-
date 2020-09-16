@@ -1,0 +1,187 @@
+*{
+  padding:0%;
+  margin: 0;
+  color:white;
+  list-style-type: none;
+  
+
+}
+body{
+  background:RGB(22, 32, 44);
+}
+.wrapper{
+  width:1250px;
+  margin:0 auto;
+}
+.logo{
+  padding-top:20px;
+}
+.items1{
+  padding:20px;
+  font-size:20px;
+  font-weight: bold;
+}
+.button{
+  border:1px solid RGB(27, 162, 241);
+  background:RGB(27, 162, 241);
+  color:white;
+  width:210px;
+  height:50px ;
+  border-radius: 30px;
+  line-height: 50px;
+  text-align: center;
+  font-weight: bold;
+}
+.content-box{
+display: flex;
+}
+
+.user-items{
+  display: flex;
+  align-items: center;
+  margin-top:70px;
+}
+.user{
+  margin-left:10px;
+  
+}
+
+.center-container{
+  margin-top:3px;
+  border-right:1px solid gray;
+  border-left:1px solid gray;
+  margin-left:40px;
+ 
+}
+h1{
+  width: 598px;
+  border-bottom:1px solid gray;
+  padding:10px;
+  
+}
+.happen{
+  display: flex;
+  padding:20px;
+  height: 80px;
+  border-bottom:10px solid RGB(37, 52, 65);
+
+}
+h2{
+  margin-left:20px;
+  font-size:20px;
+  color:gray;
+  
+}
+
+.twit-button{
+  border:1px solid #1ba2f1;
+  background:#1ba2f1;
+  color:white;
+  width:62px;
+  height: 39px;
+  border-radius: 30px;
+  line-height: 39px;
+  text-align: center;
+  margin-left:254px;
+  margin-top:50px;
+}
+
+
+
+.sns-box{
+  display: flex;
+  padding:20px;
+  
+}
+
+.right-container{
+  margin-top:10px;
+  margin-left:30px;
+}
+
+.twitter-search{
+  border:1px solid #253441;
+  width:308px;
+  height: 38px;
+  border-radius: 30px;
+
+}
+input[type=text]{
+  outline:none;
+  border:0;
+  width: 308px;
+  height:38px;
+  border-radius: 30px;
+  background:#253441;
+}
+
+.fortrends{
+  margin-top:20px;
+  border:1px solid #253441;
+  width:348px;
+  height:510px ;
+  border-radius: 20px;
+  padding:20px;
+  
+}
+B{
+  font-size:20px;
+  padding-left:20px;
+}
+p{
+  padding:20px;
+  border-top:1px solid  #253441;
+}
+g{
+  padding:20px;
+}
+
+.recommend-follower{
+  margin-top:30px;
+}
+.more-button{
+  padding-left:20px;
+  border-top:1px solid #253441;
+  line-height: 30px;
+  color:#2196e0;
+}
+
+.more{
+  color:#2196e0;
+}
+
+.recommend-follower{
+  display: flex;
+}
+
+.recommend-follower1,.recommend-follower2,.recommend-follower3{display: flex;
+  
+}
+
+.follower-box{
+  margin-top:20px;
+  border:1px solid #253441;
+  width:348px;
+  height:300px;
+  border-radius: 20px;
+  padding:20px;
+
+}
+.follower{
+padding:20px;
+}
+
+.button3{
+width:71px;
+height: 30px;
+margin-left:200px;
+border:1px solid RGB(31, 124, 182);
+color:RGB(31, 124, 182);
+border-radius: 20px;
+line-height: 30px;
+text-align: center;
+margin-top:14px;
+}
+h3{
+  padding-left:20px;
+}

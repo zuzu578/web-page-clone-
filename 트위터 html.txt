@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="content-box">
+      <div class="left-container">
+        <div class="logo">
+          <img src="https://upload.wikimedia.org/wikipedia/ko/thumb/9/9e/%ED%8A%B8%EC%9C%84%ED%84%B0_%EB%A1%9C%EA%B3%A0_%282012%29.svg/1200px-%ED%8A%B8%EC%9C%84%ED%84%B0_%EB%A1%9C%EA%B3%A0_%282012%29.svg.png"width="28" height="23">
+        </div>
+        <ul class="left-items">
+          <li class="items1">홈 </li>
+           <li class="items1">탐색하기 </li>
+            <li class="items1">알림 </li>
+             <li class="items1">쪽지 </li>
+              <li class="items1">북마크 </li>
+               <li class="items1">리스트 </li>
+                <li class="items1">프로필 </li>
+                 <li class="items1">더보기 </li>
+                 </ul>
+                 <div class="button">
+                  <div class="button-items">트윗</div>
+                 </div>
+                 
+                 <div class="user-items">
+                   <img src="https://avatars3.githubusercontent.com/u/69393030?s=460&u=b132037d94cb4810a35d75a4bac8e751267ad3d0&v=4"width="28" height="23">
+                   <div class="user">오순도순</div>
+                 </div>
+
+
+      </div>
+
+
+      <div class="center-container">
+        <h1>홈</h1>
+        <div class="happen">
+          <img src="https://avatars3.githubusercontent.com/u/69393030?s=460&u=b132037d94cb4810a35d75a4bac8e751267ad3d0&v=4"width="28" height="23">
+          <h2>무슨 일이 일어나고 있나요?</h2>
+
+          <div class="twit-button">
+            <div class="twit">트윗</div>
+        </div>
+        </div>
+        <div class="sns-box">
+          <img src="https://avatars3.githubusercontent.com/u/69393030?s=460&u=b132037d94cb4810a35d75a4bac8e751267ad3d0&v=4"width="28" height="23">
+          <div class="name">오순도순:</div>
+          <div class="comment">힘들어.. 슬퍼 너무힘들다...우울해</div>
+        
+
+      
+
+          </div>
+
+      
+        
+     
+
+
+
+
+      </div>
+
+      <div class="right-container">
+        <div class="twitter-search">
+          <input type="text" placeholder="트위터 검색">
+        </div>
+        <ul class="fortrends">
+          <B>나를 위한 트렌드</B>
+          <li>  
+            <p>대한민국에서 트렌드중</p>
+            <g>공주티콘</g>
+             </li>
+          <li>  
+ <p>대한민국에서 트렌드중</p>
+            <g>#신인그룹_문빈산하_핫데뷔</g>
+             </li>
+          <li> 
+ <p>대한민국에서 트렌드중</p>
+            <g>모의고사</g>
+              </li>
+          <li>  
+ <p>대한민국에서 트렌드중</p>
+            <g>아이나나</g>
+             </li>
+          <li> 
+ <p>대한민국에서 트렌드중</p>
+            <g>유정선배</g>
+             </li>
+          <li>  
+             <p>대한민국에서 트렌드중</p>
+            <g>계절학기</g>
+             </li>
+
+
+
+
+
+
+        
+        <div class="more-button">
+          <div class="more">더 보기</div>
+        </div>
+        <div class="follower-box">
+        <h3>팔로우 추천</h3>
+        <div class="recommend-follower1">
+          
+          <div class="follower"> HB </div>
+          <div class="button3">팔로우</div>
+        </div>
+        <div class="recommend-follower2">
+          <div class="follower"> TAS </div>
+          <div class="button3">팔로우</div>
+        </div>
+        <div class="recommend-follower3">
+          <div class="follower"> KOQ </div>
+          <div class="button3">팔로우</div>
+        </div>
+        </div>
+
+          
+         
+
+
+        </div>
+          
+ 
+
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

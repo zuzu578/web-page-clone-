@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="header-wrapper">
+      <div class="top-nav">
+        <div class="top-items">네이버를 시작페이지로</div>
+         <div class="top-items">쥬니어네이버 </div>
+          <div class="top-items">해피빈 </div>
+
+
+      </div>
+      <div class="top-wrapper">
+      <div class="header">
+      <img src="https://mblogthumb-phinf.pstatic.net/20160622_73/hhtthh82_1466581509899OrBaG_PNG/%B3%D7%C0%CC%B9%F6-%B7%CE%B0%ED-%B0%ED%C8%AD%C1%FA.png?type=w800"width="222" height="100">
+      </div>
+
+      <div class="logo-items">
+        <input type="text">
+
+      </div>
+      </div>
+     
+
+      <div class="nav-items">
+        <div class="items"> 메일 </div>
+        <div class="items"> 카페 </div>
+        <div class="items">블로그 </div>
+        <div class="items"> 지식IN </div>
+        <div class="items">쇼핑  </div>
+        <div class="items"> pay </div>
+        <div class="items">Tv  </div>
+        <div class="items"> 사전 </div>
+        <div class="items">뉴스  </div>
+        <div class="items">증권  </div>
+        <div class="items">부동산  </div>
+        <div class="items"> 지도 </div>
+        <div class="items"> 영화 </div>
+        <div class="items"> VIBE </div>
+        <div class="items"> 책 </div>
+        <div class="items"> 웹툰 </div>
+
+
+
+      </div>
+      
+
+
+
+
+      </div>
+
+      <div class="main-wrapper">
+      <div class="main-box">
+     <div class="news-container">
+       <div class="news-items"> 연합뉴스 > </div>
+          <div class="news-items"> 신원식 "국방부에 여성이 전화" 秋아들 측 "악의적" </div>
+             <div class="news-items1"> 네이버뉴스 </div>
+                <div class="news-items2"> 연예 </div>  
+                   <div class="news-items3">스포츠  </div>
+                      <div class="news-items4">경제  </div>
+              
+     </div>
+
+
+                    <div class="log-in">
+              <div class="login-items">네이버를 더 안전하고 편리하게 이용하세요  </div>
+              <div class="login-buttons">
+                <div class="buttons"><strong>NAVER</strong> 로그인</div>
+                
+            </div>
+            <div class="account">
+              <div class="login-items1">아이디
+                 </div>
+              <div class="login-items2"> 비밀번호찾기 </div>
+              <div class="login-items3">회원가입  </div>  </div>
+              
+
+      </div>
+      
+      </div>
+
+
+ <div class="today-text">
+         <div class="text-items"><strong>오늘 읽을만할 글</strong> 주제별로 분류된 다양한 글 모음  </div>
+
+         <div class="text-contents"> 
+           <h4>한. 아프리카 제단    </h4>
+           <p>문화공연으로 만나는 새로운 아프리카 2020아프리카주간</p>
+            
+
+            <h4>배경과 깔맞춤? 산불 배경으로 드레스 홍보 사진 찍어 논란   </h4>
+           <p>얼마 전 미국 서부 해안의 오리건, 캘리포니아, 워싱턴주에서는 대형 산불이 발생했습니다. 이 산불은 잡힐 기미가 보이지 않고 있는데요. 현재는 500만 에이커, 남한 크기의 20%가 넘는 면적이 잿더미가 되었</p>
+            
+
+
+            <h4>관능적이고 풍만한…BTS '뷔'도 반했다는 작가는 누구?  </h4>
+           <p>남미의 정서를 담은 보테로의 작품을 좋아한다. -방탄소년단 '뷔' 최근 한 잡지 인터뷰에서 '뷔'가 좋아한다고 밝혀 콜롬비아를 비롯한 남미 팬들 사이에서 새삼 화제로 떠오른 작가가 있다. '뚱뚱한 캐릭터'로 행</p>
+            
+
+
+            <h4>먹고 버려진 과자상자가 놀랍게도 이렇게 변했습니다   </h4>
+           <p>여러분들은 어린시절 과자를 먹고 남은 종이상자를 오려 장난감을 만들어 가지고 놀았던 경험이 있으신가요? 일본의 예술가 하루키쿠는 일본의 전통 공예 기술인 '종이 자르기(카리키쿠)' 방식을 사용해 각종 </p>
+            
+
+
+            <h4>"아뜰리에에서 작품 보고 갈래요?"   </h4>
+           <p>작가의 실제 작업실에 꾸린 전시 ‘아트조선 아뜰리에 프로젝트’ 최울가 개인전 ‘인 더 비기닝’, 19일까지특별한 사이일수록 집으로 초대하는 법이다. 화가는 귀한 손님일수록 작업실로 초대한다. 최울가(65)가 파</p>
+            
+
+
+            
+             
+
+
+         </div>
+       </div>
+
+      </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+
+  margin:0%;
+  padding:0%;
+}
+
+.header-wrapper{
+  width:1130px;
+  margin:0 auto;
+  
+}
+.items{
+  padding-left:40px;
+  
+}
+.nav-items{
+  display: flex;
+  justify-content: center;
+  border-top:1px solid #dfe4e7;
+  border-bottom:1px solid #dfe4e7;
+  padding:20px;
+  margin-top:15px;
+  width:1130px;
+}
+input[type=text]{
+  
+  width:586px;
+  height: 56px;
+  outline:none;
+  border:3px solid #1cce60;
+  
+}
+.logo-items{
+  margin-left:30px;
+}
+.top-wrapper{
+  display: flex;
+  align-items: center;
+}
+.top-nav{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.top-items{
+  font-size:13px;
+  padding-right:10px;
+  margin-top:10px;
+}
+.top-wrapper{
+  display: flex;
+  
+}
+
+.main-wrapper{
+  width:1139px;
+  margin:0 auto;
+  
+}
+.main-box{
+  display: flex;
+}
+
+.news-container{
+  display: flex;
+  border:1px solid #dbe1e6;
+  width:900px;
+  height: 49px;
+  margin-top:50px;
+  
+}
+
+.today-text{
+width: 647px;
+
+}
+
+.news-items1{
+  font-size:12px;
+  padding-left: 10px;
+  line-height: 40px;
+
+}
+.news-items2{
+font-size:12px;
+padding-left:30px;
+ line-height: 40px;
+}
+.news-items3{
+font-size:12px;
+padding-left:50px;
+ line-height: 40px;
+}
+.news-items4{
+font-size:12px;
+padding-left:70px;
+ line-height: 40px;
+}
+
+.news-items{
+  
+  font-size:14px;
+  line-height: 40px;
+}
+.log-in{
+  border:1px solid RGB(219, 225, 230);
+  width:350px;
+  margin-left:100px;
+  margin-top:50px;
+  background:RGB(247, 249, 251);
+  height:135px ;
+  padding:20px;
+  
+ 
+  
+}
+.login-items{
+  font-size:15px;
+}
+
+.login-buttons{
+  border:1px solid RGB(28, 206, 96);
+  background:RGB(28, 206, 96);
+  color:white;
+  width:350px;
+  height:48px;
+  margin-top:10px;
+  line-height: 48px;
+  text-align: center;
+  border-radius: 2px;
+}
+.login-items2{
+  padding-left:10px;
+
+}
+.login-items3{
+  padding-left:160px;
+}
+.account{
+  display: flex;
+margin-top:40px;
+}
+.text-items{
+  margin-right: 40px;
+  
+}
+
+.text-contents{
+  margin-top:200px;
+}
+h4{
+  padding-top:20px;
+
+}
+p{
+  padding-top:20px;
+
+}

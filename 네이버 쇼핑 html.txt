@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="Wrapper">
+      <header class="header-menu">
+        <div class="header-items">로그인 </div>
+         <div class="header-items">회원가입 </div>
+          <div class="header-items">장바구니 </div>
+           <div class="header-items"> 마이페이지</div>
+           <div class="header-items">
+             <input type="text" placeholder="Search">
+           </div>
+      </header>
+      
+     <div class="image-box">
+       <img src="https://cdn.imweb.me/thumbnail/20200901/0645667487666.png"width="207"heigh="51">
+     
+        <div class="nav-items">
+         <div class="items">ABOUT </div>
+         <div class="items">STORE </div>
+         <div class="items">REVIEW </div>
+         <div class="items">COMUNITY </div>
+        </div>
+     </div>
+     <div class="main-box">
+       <div class="left">
+       <p>Home > Living</p>
+       <img src="https://cdn.imweb.me/thumbnail/20191220/80ee3833ceaf2.jpg">
+
+       </div>
+
+       <div class="title-items">
+         <h1>화장실 변기 속 세균, 때, 냄새 자동 청소. 닥터피엘 퓨어팟 자동 변기 살균 세정기(디지털 변기 세정기)</h1>
+         <div class="price">
+           59,800원 
+         </div>
+
+         <div class="items-details">
+           <e>그동안 힘들었던 화장실 변기청소<br/> 
+            퐁당~ 넣기만 해도 완전 해방!</e>
+         <g>변기 속 세균, 때, 냄새를 자동으로 세정한다!</g>
+         <d>기본 구성품<br/> 닥터피엘 퓨어팟 자동 변기 세정기 기본세트<br/>(어댑터, 퓨어팟 본체) </d>
+
+
+         </div>
+         <div class="goods-infor">
+           <div class="infor"><strong>원산지</srong> 중국 </div>
+           <div class="infor"><strong>제조사  </strong> 제품 내 별도표기  </div>
+           <div class="infor"><strong>브랜드   </strong> 닥터피엘  </div>
+           <div class="infor"><strong>구매혜택  </strong>0 적립금 적립예정 적립예정   </div>
+           <div class="infor"><strong>배송 방법   </strong>택배   </div>
+           <div class="infor"><strong>배송비  </strong>무료    </div>
+           <div class="infor"> <strong>배송 안내   </strong>제주 추가 5,000원, 제주 외 도서지역 추가 5,000원  </div>
+     </div>
+           <div class="buy-infor">
+             <div class="buy">닥터피엘 퓨어팟 *  </div>
+           </div>
+           <div class="select-box">
+           <select name="goods">
+          <option value="">닥터피엘 퓨어팟 (필수)</option>
+              <option value="">기본1</option>
+                <option value="">기본2</option>
+                <option value="">기본3</option>
+                </select>
+           </div>
+                <div class="button-items">
+                  <div class="button1"> 구매하기</div>
+                   <div class="button2"> 장바구니</div>
+                    <div class="button3">❤2040 </div>
+                </div>
+
+       
+
+
+
+
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

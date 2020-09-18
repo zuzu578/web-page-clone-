@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <nav class="nav-container">
+      <div class="first">
+      <div class="logo-items">
+        <img src="https://opgg-static.akamaized.net/images/gnb/svg/00-opgglogo.svg"width="65" height="16">
+      </div>
+      <div class="league">
+        <div class="lol">리그오브레전드</div>
+      </div>
+      </div>
+      <div class="second">
+      <div class="nav-items">NEXT  </div>
+       <div class="nav-items">배틀그라운드 </div>
+        <div class="nav-items">오버워치  </div>
+         <div class="nav-items">포트나이트 </div>
+          <div class="nav-items">레인보우식스 시즈  </div>
+           <div class="nav-items">톡피지지  </div>
+      </div>
+           <div class="elsethings">
+             <div class="language-button">
+             <div class="language">
+               한국어
+             </div>
+             </div>
+             <div class="log-in-button">
+               <div class="log-in">
+                 로그인
+
+               </div>
+
+             </div>
+
+
+           </div>
+
+
+
+    </nav>
+
+    <nav class="nav-container2">
+      <div class="nav-items2">#집에있자 </div>
+      <div class="nav-items2">챔피언 분석 </div>
+      <div class="nav-items2">통계 </div>
+      <div class="nav-items2">랭킹 </div>
+      <div class="nav-items2">프로관전 </div>
+      <div class="nav-items2">멀티서치 </div>
+      <div class="nav-items2">OP셜 </div>
+      <div class="nav-items2">커뮤니티 </div>
+
+
+    </nav>
+
+
+  <div class="alert-contaier">
+    <div class="alert">
+     <a href="">[섀도우 아레나] 완벽한 콤보 액션, 무료 배틀패스 시작!</a>
+    
+    </div>
+
+
+  </div>
+
+  <div class="main-center">
+    <div class="logo-image-center">
+    <img src="https://attach.s.op.gg/logo/20200917203051.f544a6d3dce2fe709b5aac0b8d4ecbdf.png"width="306" height="200">
+
+    </div>
+
+
+  
+  <div class="input-box">
+    <input type="text" placeholder="소환사명..소환사명">
+
+  </div>
+  <div class="ad-image-box">
+    <img src="https://tpc.googlesyndication.com/simgad/15134671776070502217?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qmtOx9vSzAYR0J9i2VnIdPQx4HmHA">
+
+  </div>
+  <div class="main-text-box">
+    <h2>OP.GG 인기글 </h2>
+    <div class="text-contents">
+    <div class="text-box">
+    <div class="left-box">
+      <ul class="left-text">
+        <li> 
+1
+커플? 그런거 왜함 [180]  </li>
+          <li>  
+1
+커플? 그런거 왜함 [180]
+11시간 전 준식이는개인주의야
+2
+'그녀를 믿지 마세요' 제작자 [59] </li>
+            <li>점멸 D vs F 논란 종결 ㅋㅋㅋㅋㅋ </li>
+              <li> 체스에서 무적되는법 </li>
+                <li>피카츄 리폿좀요; (재업)  </li>
+
+
+      </ul>
+
+    </div>
+    <div class="right-box">
+      <ul class="right-text-box">  
+          <li>어느 헬스러의 고백 </li>
+            <li> 이거 솔직히 맛있었는데</li>
+              <li>시대를 앞서간 우리 조상님들 기술력 </li>
+                <li>학창시절에 후회되는 일(옵붕편)  </li>
+                  <li> 10.19 솔랭 챔피언 추천  </li>
+      </ul>
+
+    </div>
+    </div>
+
+  </div>
+  </div>
+  <footer class="footer-area">
+    <div class="footer1">
+    <a href="#"> About OP.GG</a>
+    <a href="#">로고 히스토리</a>
+     <a href="#">개인정보처리방침</a>
+     <a href="#">도움말</a>
+     <a href="#">제휴</a>
+      <a href="#">문의/피드백</a>
+     <a href="#">채용</a>
+    </div>
+
+    <div class="footer2">
+    <a href="#"> © 2012-2020 OP.GG. OP.GG isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends<br> and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.</a>
+
+    </div>
+
+
+
+  </footer>
+
+  </body>
+    <script src="script.js"></script>
+  </body>
+</html>

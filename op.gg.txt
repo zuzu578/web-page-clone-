@@ -1,0 +1,158 @@
+body{
+background:RGB(83, 131, 231);
+}
+
+*{
+  padding:0;
+  margin:0;
+  list-style-type: none;
+  
+
+
+}
+.nav-container{
+  display: flex;
+  justify-content: space-between;
+  background: #233046;
+  line-height: 37px;
+  height: 37px;
+  color:white;
+  font-size:13px;
+  width:1440px;
+  
+
+  
+}
+.league{
+  margin-left:20px;
+}
+.first{
+  
+  background: #5383e7;
+
+}
+.second{
+  display: flex;
+  background:#233046;
+  margin-right:400px;
+}
+.elsethings{
+  display: flex;
+  background:#233046;
+  
+  margin-right:40px;
+  align-items: center;
+
+  
+  
+}
+.nav-items{
+  padding-left:48.7px;
+}
+.first{
+ display: flex;
+}
+a{
+  text-decoration: none;
+  color:white;
+}
+.main-center{
+  width:1080px;
+  margin:0 auto;
+}
+.nav-container2{
+  display: flex;
+  padding:13px;
+  color:white;
+  width:1440px;
+}
+
+.nav-items2{
+  padding:13px;
+}
+.alert-contaier{
+  font-size:13px;
+  padding:10px;
+  color:white;
+  background:RGB(41, 66, 114);
+}
+.alert{
+  padding-left:150px;
+}
+.logo-image-center{
+  text-align: center;
+  margin-top:30px;
+}
+.log-in-button{
+  border:1px solid #5383e7;
+  width: 61px;
+  height: 21px;
+  line-height: 21px;
+  text-align: center;
+  background:#5383e7;
+  border-radius: 4px;
+  margin-left:30px;
+  cursor: pointer;
+  
+}
+
+.input-box{
+  bordeR:1px solid RGB(255, 255, 255);
+  width:624px;
+  height: 50px;
+  text-align: center;
+  border-radius: 3px;
+  margin:0 auto;
+  margin-top:24px;
+}
+input[type=text]{
+  border:0;
+  outline:none;
+  width:624px;
+  height:50px;
+  line-height: 50px;
+  border-radius: 2px;
+}
+
+.ad-image-box{
+  padding-top:30px;
+  padding-bottom:30px;
+  margin:0 auto;
+  width:970px;
+}
+
+.footer-area{
+  margin:0 auto;
+  width: 1078px;
+  font-size:11px;
+  line-height: 10px;
+}
+.footer1{
+  padding-bottom:20px;
+  padding-top:20px;
+}
+
+.main-text-box{
+  width:1078px;
+  margin:0 auto;
+  border:1px solid white;
+  
+}
+.right-box{
+padding:20px;
+}
+.left-box{
+  padding:20px;
+}
+h2{
+  background:white;
+  padding:10px;
+  font-size:15px;
+}
+.text-contents{
+  background:white;
+  
+}
+.text-box{
+  display: flex;
+}

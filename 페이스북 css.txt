@@ -1,0 +1,194 @@
+*{
+  margin: 0;
+  padding:0;
+}
+body{
+  background:RGB(233, 235, 239);
+}
+
+.nav-container{
+  
+  height:80px ;
+  width:1440px;
+  background:#3a5997;
+ 
+
+display: flex;
+
+}
+k{
+  color:RGB(83, 188, 61);
+  font-size:15px;
+}
+.message{
+  border:1px solid gray;
+  width:100px;
+  height: 28px;
+  border-radius: 2px;
+  line-height: 28px;
+  text-align: center;
+  background: RGB(244, 246, 248);
+  cursor: pointer;
+}
+.items2{
+  border-radius: 2px;
+  color:white;
+  text-align: center;
+  line-height: 28px;
+  background:RGB(65, 103, 178);
+  border:1px solid RGB(65, 103, 178);
+  width:70px;
+  height: 28px;
+  cursor: pointer;
+}
+.items1{
+  line-height: 28px;
+  text-align: center;
+  border:1px solid gray;
+  width:130px;
+  height: 28px;
+  border-radius: 2px;
+  background:RGB(244, 246, 248);
+
+}
+.item{
+  border-right:1px solid gray;
+}
+
+.content2{
+  margin-top:20px;
+  width:500px;
+}
+
+.right-items{
+  float: right;
+  position: absolute;
+  background: white;
+  left:62%;
+  bottom:10%;
+  padding:20px;
+  border:1px solid white;
+  width:200px;
+  border-radius: 2px;
+}
+
+h4{
+  text-align: center;
+  padding-top:20px;
+}
+.image-1{
+  text-align: center;
+}
+.video{
+  margin-top:20px;
+  width:460px;
+  border:1px solid white;
+  background:white ;
+  border-radius: 2px;
+  padding:20px;
+
+}
+.picture{
+  border:1px solid RGB(223, 225, 229);
+  background:white; 
+  padding:20px;  
+  border-radius: 4px; 
+}
+
+.contents-wrapper{
+  margin:0 auto;
+  width:1200px;
+}
+.right-contents{
+  width:400px;
+}
+
+
+.logo{
+  width:300px;
+  padding-top:27px;
+  padding-left:120px;
+ 
+}
+.login{
+ margin-left:400px;
+
+ 
+
+}
+.id{
+  
+font-size:13px;
+}
+
+.log{
+  
+
+  
+}
+
+
+input[type=text]{
+  margin-top:30px;
+  margin-right:10px;
+  
+
+}
+.account{
+  display: flex;
+  position: relative;
+  left:600px;
+}
+.password{
+  padding-left:120px;
+  
+  font-size:13px;
+  
+ 
+ 
+}
+.left-menu1{
+  border:1px solid #40b026;
+  background:#40b026;
+  width:90px;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
+  color:white;
+  cursor: pointer;
+  margin-top:20px;
+  font-size:14px;
+  border-radius: 2px;
+}
+.left-menu{
+  padding-top:10px;
+  padding-bottom:10px;
+}
+.left-items{
+  margin-top:170px;
+}
+.contents-wrapper{
+display: flex;
+}
+.center-mid{
+  width:800px;
+  margin:0 auto;
+}
+
+.midbox1{
+  display: flex;
+  justify-content: space-between;
+  border:1px solid white;
+  width: 780px;
+  background:white;
+  padding:20px;
+  
+  
+}
+.items1{
+  display: flex;
+}
+
+.items2{
+  margin-left:500px;
+}

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+   <div class="nav-container">
+     <div class="logo">
+       <img src="https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/gf6iHxsw8zm.png"width="170" height="33">
+     </div>
+    <div class="account">
+    <div class="id">아이디</div>
+    <div class="password">비밀번호</div>
+    </div>
+    
+     <div class="login">
+    <input type="text">
+    <input type="password">
+
+
+
+   </div>
+   </div>
+   <div class="contents-wrapper">
+     <div class="left-items">
+       <h2>Facebook</h2>
+       <h3>@Facebook</h3>
+       <div class="left-menu"> 홈 </div>
+        <div class="left-menu"> 정보 </div>
+         <div class="left-menu"> 사진 </div>
+          <div class="left-menu"> 동영상 </div>
+           <div class="left-menu"> 이벤트 </div>
+            <div class="left-menu"> 게시물 </div>
+             <div class="left-menu"> 커뮤니티 </div>
+              <div class="left-menu1"> 페이지만들기 </div>
+     </div>
+
+
+
+    
+     <div class="center-mid">
+       <div class="mid-image">
+         <img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/70354061_2770271549658407_5212810130801819648_n.png?_nc_cat=104&_nc_sid=6e5ad9&_nc_ohc=-qe5Kk6dLVUAX__me4F&_nc_ht=scontent-ssn1-1.xx&oh=3f8a81789a53320ca488d5c3c898aff3&oe=5F8B5A87">
+
+       </div>
+       <div class="midbox1">
+         <div class="items1">
+           <div class="item"> 좋아요 </div>
+            <div class="item">공유하기  </div>
+         </div>
+         <div class="items2">
+           <div class="visit">
+             방문하기
+
+           </div>
+         </div>
+           <div class="message">
+             <div class="Dm">
+               메시지 보내기
+
+
+           </div>
+
+
+
+       </div>
+
+
+       
+     </div>
+
+<div class="content2">
+  <div class="picture">
+         <h3>사진</h3>
+         <div class="right-items">
+           <div class="items-right1">
+         <h3>oracle korea </h3>
+         <p>컴퓨터 회사:위치 서울</p>
+         <k>영업 중</k>
+           </div>
+         
+
+       </div>
+       
+       
+     <div class="image-1">
+        <img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/118825447_3691723384179881_7483514510455630939_n.jpg?_nc_cat=102&_nc_sid=8024bb&_nc_ohc=GvOYHEE4qT8AX-gADCX&_nc_ht=scontent-ssn1-1.xx&oh=42e825f2a7ed4ee267947fd9757cc31e&oe=5F88878C"width="400">
+     </div>
+        <h4>모두보기</h4>
+        
+  </div>
+  <div class="video">
+    <h3>동영상</h3>
+    <div class="video-1">
+      <video src="https://r7---sn-ab02a0nfpgxapox-bh2sd.googlevideo.com/videoplayback?expire=1600415184&ei=cBFkX-mGKomw7QSH6qHAAg&ip=185.147.213.68&id=3147a9ac776a00f1&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=9269460&ratebypass=yes&dur=160.380&lmt=1590025935329531&fvip=8&fexp=23915655&c=WEB&txp=6221222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgRDTX_Yvz1VOevY__8QoG8zFSo-tSwSDWB8Wq8S_olFACIDeJHj8huph5jdoAwcb6YxgYzxuRj0ItfKpg84lU3ble&video_id=MUeprHdqAPE&title=%EC%A7%91%EA%B2%8C%EB%A6%AC%EC%95%84%EC%97%90+%EC%B7%A8%EC%A7%81%ED%95%98%EB%8A%94+%EC%8A%A4%ED%8F%B0%EC%A7%80%EB%B0%A5+-+%EC%8A%A4%ED%8F%B0%EC%A7%80%EB%B0%A5+%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0+%EC%8B%9C%EC%A6%8C1+1%ED%99%94+%282-4%29&rm=sn-5gold76&req_id=d5713ac717eea3ee&redirect_counter=2&cm2rm=sn-ab02a0nfpgxapox-jwwee7r&cms_redirect=yes&ipbypass=yes&mh=lp&mip=125.190.175.112&mm=29&mn=sn-ab02a0nfpgxapox-bh2sd&ms=rdu&mt=1600393472&mv=m&mvi=7&pl=24&usequic=no&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl,usequic&lsig=AG3C_xAwRAIgJTnXbIniSr72N8T8eyYvwYNWW3KyoLlPAfsZ5opX2ooCIAk8ECq4utRCrTkPNat9AGE1sK0-pvgy-9V6U2bFhHYB"width="400">
+
+
+    </div>
+
+
+
+
+
+
+  </div>
+
+
+
+       </div>
+       
+     </div>
+    
+
+
+
+
+
+
+
+
+   
+
+   </div>
+     </div>
+  
+  
+    <script src="script.js"></script>
+  </body>
+</html>

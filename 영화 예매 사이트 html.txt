@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header class="header-items">
+      <div class="header-nav">
+      <div class="head-items"><strong>영화</strong>  </div>
+      <div class="head-items">연예 </div>
+      </div>
+      <div class="input-box">
+        <input type="text" placeholder="통합검색">
+
+      </div>
+
+      
+
+    </header>
+    <nav class="nav-items">
+      <div class="items-box">
+      <div class="items1"> 홈 </div>
+      <div class="items1">현재상영/개봉예정  </div>
+      <div class="items1">박스오피스  </div>
+      <div class="items1"> 뉴스 </div>
+      </div>
+      <div class="score">
+        <div class="s-items">
+          내평점
+
+        </div>
+      </div>
+
+    </nav>
+    <div class="trailer-box">
+      <iframe width="1170" height="315" src="https://www.youtube.com/embed/IW_khaePCBE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+    </div>
+    <div class="main-contents">
+      <div class="main-nav">
+        <div class="main-nav-items">메인</div>
+        <div class="main-nav-items">출연 </div>
+        <div class="main-nav-items">평점 </div>
+
+      </div>
+      <div class="movie-box">
+        <div class="image-box">
+          <img src="https://t1.daumcdn.net/movie/45ee167dd5a1fbbadc03af21dcba065324132c27"width="160" height="234">
+        </div>
+        <div class="movie">
+          <div class="mov">
+        <div class="movie-title">
+          테넷(2020)
+        </div>
+        <div class="button">
+          <div class="button-items">상영중</div>
+
+        </div>
+          </div>
+        <div class="sub-title">
+          tenet
+
+        </div>
+        <div class="genre1">
+        <div class="genre">
+          액션/SF
+
+        </div>
+        <div class="country">
+          영국,미국
+
+        </div>
+        </div>
+        <div class="running-age">
+        <div class="time">
+          2020.08.26개봉
+
+        </div>
+        <div class="running-time">
+           150분, 12세이상관람가
+
+        </div>
+        </div>
+        <div class="direcotr">
+        감독 크리스토퍼 놀란
+        </div>
+        <div class="buy-items">
+          <div class="buy">예매하기</div>
+        </div>
+        
+      </div>
+      
+      </div>
+
+      <div class="movie-introduce">
+        <p>당신에게 줄 건 한 단어 `테넷`</p><br>
+     <p>이해하지 말고 느껴라!</p><br> 
+시간의 흐름을 뒤집는 인버전을 통해 현재와 미래를 오가며 세상을 파괴하려는 사토르(케네스 브래너)를 막기 위해 투입된 작전의 주도자(존 데이비드 워싱턴). 인버전에 대한 정보를 가진 닐(로버트 패틴슨)과 미술품 감정사이자 사토르에 대한 복수심이 가득한 그의 아내 캣(엘리자베스 데비키)과 협력해 미래의 공격에 맞서 제3차 세계대전을 막아야 한다!
+
+[KEY POINT]
+인버전: 사물의 엔트로피를 반전시켜 시간을 거스를 수 있는 미래 기술. 미래에서 인버전된 무기를 현재로 보내 과거를 파괴할 수 있다.
+
+      </div>
+
+
+
+
+
+
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

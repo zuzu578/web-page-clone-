@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <nav class="nav-container">
+     <div class="nav-logo">
+       KaKao
+    </div>
+    <div class="nav-items">
+      <div class="items">카카오 </div>
+         <div class="items">투자정보 </div>
+            <div class="items">서비스 </div>
+               <div class="items">소셜임팩트 </div>
+                  <div class="items">고객지원 </div>
+                     <div class="items">인재영입 </div>
+    </div>
+    <div class="lang">
+      <div class="lang-items">KOR</div>
+      <div class="lang-items">ENG</div>
+
+    </div>
+
+    </nav>
+
+    <header class="header">
+      홈>카카오>카카오 소개>카카오 문화
+
+    </header>
+
+     <div class="main1">
+      <div class="video0">
+  <video muted autoplay loop>
+    <source src="https://t1.kakaocdn.net/kakaocorp/main/kakao10/img/corp_pc.mp4" type="video/mp4">
+    <strong>Your browser does not support the video tag.</strong>
+  </video>
+  <div class="video0-text">
+    
+<p>존재이유</p>
+
+<h1>기술과 사람이 만드는 더 나은 세상</h1>
+  </div>
+</div>
+
+    </div>
+
+    <div class="main-contents">
+   
+    <div class="main2">
+      <p>카카오스러움</p>
+      <h1>카카오스럽나요? 카카오 크루는 종종 이렇게 묻곤 합니다.<br>
+      우리의 관점, 행동하는 방법, 지향하는 목표까지 카카오스러움은<br>
+      이미 우리 안에 스며들어 있습니다. 우리가 더 나은 세상을 만들기 위해<br>
+      고민하면서 자연스럽게 체득한 태도이자 본질이기 때문입니다.<br>
+      앞으로도 우리는 카카오스러움에서 고민을 시작하고, 답을 찾을 것입니다.</h1>
+
+
+    </div>
+    <div class="main3">
+      <div class="main3-box">
+        <h1>가보지 않은 길을<br>
+        두려워 하지 않습니다. </h1>
+        <p>Willing to Venture</p>
+        <div class="main-3-contents">
+          “가보지 않은 길은 위험하잖아?”<br>
+          배는 정박해 있을 때 가장 안전하지만<br>
+          그것은 배의 존재 이유가 아닙니다.<br>
+          가보지 않은 길은 실패의 위험이 따르지만<br>
+          우리는 개선보다 혁신의 길을 가는 사람들입니다.<br>
+          문제 자체를 다시 정의하고<br>
+          새로운 해답을 찾는 것에 집중합니다.<br>
+          도전이 두렵기만 하다면 카카오를 떠날 때입니다.<br>
+         <div class="video1">
+           
+         <video muted autoplay loop src="https://t1.kakaocdn.net/kakaocorp/main/kakao10/img/culture-card-1a.mp4">
+         
+         </div>
+        </div>
+  
+
+
+
+      </div>
+      <div class="main4">
+        <div class="main4-box">
+        <h1>무엇이든 본질만 남기고<br>
+        처음부터 다시 생각해 봅니다.</h1>
+        <p>Back to Basic</p>
+        <div class="main-4-contents">
+          “원래 그게 당연한 거 아냐?”<br>
+          불편하고 복잡한 게 당연할 리 없습니다.<br>
+          그래서 우리는 본질에서 출발합니다.<br>
+          시작부터 다르게 질문합니다.<br>
+          끊임없이 ‘왜?’라는 물음을 던집니다.<br>
+          그렇게 익숙한 것을 새롭게, 가치 있게 만듭니다.<br>
+          <div class="video2">
+            <video muted autoplay loop src="https://t1.kakaocdn.net/kakaocorp/main/kakao10/img/culture-card-2a.mp4">
+
+          </div>
+
+
+        </div>
+
+      </div>
+      <div class="main5">
+        <div class="main5-box">
+        <h1>나보다 동료의 생각이<br>
+            더 옳을 수 있다는<br>
+            믿음을 가집니다.   </h1>
+            <p>Trust to Trust</p>
+            <div class="main-5-contents">
+              “내가 항상 정답일까?”<br>
+개인의 완벽함에 기대기 보다 동료와 함께 완성해 나갑니다.<br>
+격렬한 토론과 논쟁 속에서도 서로에 대한 신뢰가 있다면<br>
+반드시 더 나은 답을 찾을 수 있습니다.<br>
+신뢰를 받기 위해서 상대방을 먼저 존중하세요.<br>
+혼자 가면 빨리 갈 수 있지만, 함께 가면 멀리 갈 수 있습니다.<br>
+
+         <div class="video3">
+         <video muted autoplay loop src="https://t1.kakaocdn.net/kakaocorp/main/kakao10/img/culture-card-3a.mp4">
+         </div>
+            </div>
+
+      </div>
+
+      <div class="main6">
+        <div class="main6-box">
+        <h1>스스로 몰입하고<br>
+주도적으로 일합니다.</h1>
+       <p>Act for Yourself    </p>
+       <div class="main-6-contents">
+         “왜 이 일을 할까?”<br>
+카카오 크루라면 가장 먼저 해야 하는 질문입니다.<br>
+우리는 일의 원동력을 스스로 만들어냅니다.<br>
+내가 시켜서 하는 나의 일인거죠.<br>
+일에 끌려다니지 않고 끌고 가기 위해서<br>
+언제나 내가 먼저 생각하고, 질문하고, 움직입니다<br>
+       
+       <div class="video4">
+         <video muted autoplay loop src="https://t1.kakaocdn.net/kakaocorp/main/kakao10/img/culture-card-4a.mp4">
+       </div>
+       </div>
+
+
+
+    </div>
+    <div class="main7">
+      <div class="main7-box">
+      <h1>세상을 선하게<br>
+바꾸려고 노력합니다.    </h1>
+        <p>Tech for Good   </p>
+        <div class="main-7-contents">
+          “너무 거창한 이야기 아냐?”<br>
+사회를 지속적으로 변화시킬 수 있는 가장 효율적인<br>
+조직은 기업입니다. 기업은 건강한 생태계를 만들어야하는<br>
+책임이 있습니다. 카카오 또한 사회에 의미있는 변화를<br>
+만들기 위해 최선을 다합니다. 서비스 하나에도<br>
+그런 생각과 노력들이 담겨있습니다.<br>
+그렇게 우리는 오늘보다 더 나은 세상을 만듭니다.
+<div class="video5">
+  <video muted autoplay loop src="https://t1.kakaocdn.net/kakaocorp/main/kakao10/img/culture-card-5a.mp4">
+  </div>
+        </div>
+
+        </div>
+
+    </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

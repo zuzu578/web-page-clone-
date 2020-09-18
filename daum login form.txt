@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <div class="logo-image">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Daum_communication_logo.svg/302px-Daum_communication_logo.svg.png"
+          width="98"height="40">
+
+        </div>
+
+
+      </header>
+      <div class="main">
+     <div class="log-in-form">
+       <div class="id">
+         <input type="email" placeholder="아이디 입력">
+       </div>
+       <div class="password">
+         <input type="password" placeholder="비밀번호 입력">
+
+
+       </div>
+       <div class="button-items">
+         <div class="button">
+           로그인
+
+
+         </div>
+
+
+       </div>
+       <div class="account-container">
+      <div class="check-box-items">
+        <input type="checkbox">로그인상태 유지
+
+
+      </div>
+      <div class="ip-box">
+        <div class="boxip">
+          ip보안
+        </div>
+
+      </div>
+
+
+
+     </div>
+     <div class="find-account">
+       <div class="id-find">
+         아이디찾기
+
+       </div>
+       <div class="pw-find">
+         비밀번호 찾기 
+
+       </div>
+
+     </div>
+     </div>
+
+     <div class="Right-ad-box">
+       <div class="ad-image">
+       <img src="https://t1.daumcdn.net/b2/creative/65631/4d59167f7e05b0e8247f84097efd6b34.jpg"width="250" height="250">
+       </div>
+
+
+
+
+     </div>
+     
+    </div>
+
+     
+     <div class="footer">
+       <div class="footer-items"><a href="">© Kakao Corp. | </a> </div>
+       <div class="footer-items"><a href="">고객센터</a> </div>
+
+
+
+     </div>
+     
+
+    
+    <script src="script.js"></script>
+  </body>
+</html>

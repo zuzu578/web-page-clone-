@@ -1,0 +1,131 @@
+body{
+  background:RGB(236, 235, 238);
+}
+
+.wrapper{
+  width: 700px;
+  margin:0 auto;
+  background:white;
+  height: 723px;
+  
+
+}
+.main{
+  display: flex;
+}
+*{
+  margin:0;
+  padding:0;
+
+}
+.logo-image{
+  text-align: center;
+}
+.header{
+  padding:20px;
+  border-bottom:3px solid RGB(230, 230, 230);
+
+
+}
+.log-in-form{
+  padding:50px;
+}
+
+.id{
+  width:300px;
+  height: 48px;
+  border:1px solid #b4b4b4;
+
+}
+.password{
+  width:300px;
+  height: 48px;
+  border:1px solid #b4b4b4;
+  margin-top:7px;
+
+
+}
+input[type=email]{
+  border:0;
+  outline:none;
+  width:300px;
+  height:48px ;
+
+}
+input[type=password]{
+ border:0;
+  outline:none;
+  width:300px;
+  height:48px ;
+
+}
+
+.button-items{
+  border:1px solid RGB(77, 135, 238);
+  width:300px;
+  height: 50px;
+  margin-top:20px;
+  background:RGB(77, 135, 238);
+  text-align: center;
+  line-height: 50px;
+  color:white;
+}
+.check-box-items{
+  margin-top:11px;
+
+}
+
+.account-container{
+  display: flex;
+  justify-content: space-between;
+  width:300px;
+
+}
+
+.boxip{
+  margin-top:11px;
+  
+}
+
+.find-account{
+  display: flex;
+  justify-content: center;
+  width: 300px;
+  margin-top:18px;
+  font-size:12px;
+  color:#767676;
+
+}
+
+.pw-find{
+  margin-left:20px;
+}
+
+  
+  
+
+
+.Right-ad-box{
+  margin-top:50px;
+  bordeR:1px solid RGB(229, 229, 229);
+  width:250px;
+  height: 250px;
+}
+.footer{
+  display: flex;
+  justify-content: center;
+ width:664px;
+ margin-top:80px;
+ padding:18px;
+ font-size:12px;
+ border-top:3px solid RGB(230, 230, 230);
+}
+a{
+  text-decoration: none;
+  color:#898989;
+
+}
+
+.footer-items{
+  margin-right:10px;
+}

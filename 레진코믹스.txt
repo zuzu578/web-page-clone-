@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <nav class="nav-container">
+      <div class="logo-items">
+        <img src="https://file3.instiz.net/data/cached_img/upload/2020/06/05/17/643057c1db6b23346b7623070a9726d3.jpg"width="50" height="50">
+      </div>
+      <div class="link-items">
+        <div class="l-items"> 연재 </div>
+        <div class="l-items"> 랭킹 </div>
+        <div class="l-items"> 무료 </div>
+        <div class="l-items"> SALE </div>
+        <div class="l-items"> 단행본 </div>
+        <div class="l-items"> 완결 </div>
+
+
+      </div>
+     <div class="challange-button">
+       <div class="c-button">
+         레진 챌린지
+
+       </div>
+
+     </div>
+
+
+    </nav>
+    <div class="main-contents">
+      <div class="banner-image">
+        <img src="https://cdn.lezhin.com/v2/inventory_items/5098216557707264/media/upperBanner.webp?updated=1600053023000&width=1180"width="1004">
+
+
+      </div>
+     <div class="contents-box1">
+       <h2>랭킹</h2>
+       <div class="genre">
+         <div class="genre1">전체 </div>
+         <div class="genre2">로맨스 </div>
+         <div class="genre3"> BL</div>
+         <div class="genre4">드라마</div>
+         <div class="genre5">판타지 </div>
+         <div class="genre6">개그 </div>
+         <div class="genre7">액션 </div>
+         <div class="genre8"> 학원</div>
+         <div class="genre9">미스터리 </div>
+         <div class="genre10">일상 </div>
+         <div class="genre11">백합 </div>
+
+
+     </div>
+    
+    
+    </div>
+
+    <div class="webtoon-contents">
+      <div class="webtoon1">
+        <ul class="live">
+          <h2>실시간</h2>
+          <li><img src="https://cdn.lezhin.com/v2/comics/260/images/square.webp?updated=1574129488473&width=168" width="84" height="84">레바툰  </li>
+          <li><img src="https://cdn.lezhin.com/v2/comics/5474379383439360/images/square.webp?updated=1579957563931&width=168"width="84" height="84">부랄친구   </li>
+          <li><img src="https://cdn.lezhin.com/v2/comics/5308438415671296/images/square.webp?updated=1553252517510&width=168"width="84" height="84">불멸의 날들   </li>
+
+
+
+        </ul>
+
+
+      </div>
+
+
+      <div class="webtoon2">
+        <ul class="new">
+          <h2>신작</h2>
+          <li><img src="https://cdn.lezhin.com/v2/comics/5485948278734848/images/square.webp?updated=1600075309418&width=168"width="84" height="84">언젠가 사랑이 될때까지  </li>
+           <li><img src="https://cdn.lezhin.com/v2/comics/4745440484982784/images/square.webp?updated=1600075110641&width=168"width="84" height="84">화우요  </li>
+            <li><img src="https://cdn.lezhin.com/v2/comics/4509144894210048/images/square.webp?updated=1598525591617&width=168"width="84" height="84">미성년 </li>
+
+
+
+        </ul>
+
+
+      </div>
+
+
+      <div class="webtoon3">
+        <ul class="event">
+          <h2>이벤트</h2>
+          <li><img src="https://cdn.lezhin.com/v2/comics/5474379383439360/images/square.webp?updated=1579957563931&width=168"width="84" height="84">부랄친구 </li>
+           <li><img src="https://cdn.lezhin.com/v2/comics/5172685072760832/images/square.webp?updated=1550127491993&width=168"width="84" height="84">킹스메이커   </li>
+              <li><img src="https://cdn.lezhin.com/v2/comics/4548712561967104/images/square.webp?updated=1593155714557&width=168" width="84" height="84">꼴데툰  </li>
+
+
+
+        </ul>
+
+
+      </div>
+    </div>
+    <div class="title2">
+    <h2>신작 연재</h2>
+    </div>
+    <div class="webtoon-contents2">
+      
+      <div class="contents2">
+      
+      <div class="webtoon-image1">
+      <img src="https://cdn.lezhin.com/v2/comics/6456906317627392/images/tall.webp?updated=1600394025278&width=554"width="239">
+      </div>
+      <div class="name1"> 집사랑</div>
+
+      </div>
+     
+
+     <div class="contents3">
+      
+      <div class="webtoon-image1">
+      <img src="https://cdn.lezhin.com/v2/comics/4511761836933120/images/tall.webp?updated=1599813798885&width=554"width="239">
+      </div>
+      <div class="name1">사랑이라 하기엔 기분나빠</div>
+
+      </div>
+
+
+
+      <div class="contents4">
+      
+      <div class="webtoon-image1">
+      <img src="https://cdn.lezhin.com/v2/comics/6399994036813824/images/tall.webp?updated=1600220615270&width=554"width="239">
+      </div>
+      <div class="name1"> 피장파장의 오류</div>
+
+      </div>
+
+      <div class="contents5">
+      
+      <div class="webtoon-image1">
+      <img src="https://cdn.lezhin.com/v2/comics/4509144894210048/images/tall.webp?updated=1598525591617&width=554"width="239">
+      </div>
+      <div class="name1"> 미성년 </div>
+
+      </div>
+      
+
+
+
+      </div>
+      <div class="title2">
+    <h2>신규 만화</h2>
+    </div>
+      <div class="webtoon-contents3">
+        <div class="new-manga">
+          <div class="image-box">
+            <img src="https://cdn.lezhin.com/v2/comics/5134521136119808/images/tall.webp?updated=1600418036660&width=354"width="154">
+
+             <div class="name2">메이드 인 헤븐</div>
+          </div>
+          
+
+
+
+          <div class="image-box">
+            <img src="https://cdn.lezhin.com/v2/comics/5201556859846656/images/tall.webp?updated=1600152173496&width=354"width="154">
+              <div class="name2">당신이 해주지 않더라도</div>
+
+          </div>
+          
+
+
+          <div class="image-box">
+            <img src="https://cdn.lezhin.com/v2/comics/4786239830556672/images/tall.webp?updated=1600339437930&width=354"width="154">
+            <div class="name2">미완의 계절</div>
+
+          </div>
+          
+
+
+
+          <div class="image-box">
+            <img src="https://cdn.lezhin.com/v2/comics/5263791573499904/images/tall.webp?updated=1600407900407&width=354"width="154">
+
+             <div class="name2">순진한 삐뚤어진 꽃</div>
+          </div>
+       
+
+
+
+          <div class="image-box">
+            <img src="https://cdn.lezhin.com/v2/comics/5875339073486848/images/tall.webp?updated=1600407833887&width=354"width="154">
+
+           <div class="name2">세상에서 제일나쁜 마녀</div>
+          </div>
+          
+
+
+
+          <div class="image-box">
+            <img src="https://cdn.lezhin.com/v2/comics/5207944902279168/images/tall.webp?updated=1600407850758&width=354"width="154">
+            <div class="name2">스파이스와 커스타드</div>
+
+          </div>
+          
+
+
+
+
+
+        </div>
+      </div>
+      <div class="title3">
+        <h2>오늘 업데이트 된 작품 </h2>
+        <div class="webtoon-contents4">
+          <div class="image4">
+            <img src="https://cdn.lezhin.com/v2/comics/5308438415671296/images/tall.webp?updated=1553252517510&width=354"width="154">
+            <div class="manga-name">
+              불멸의 날들
+              <p>163화 무료</p>
+
+            </div>
+
+
+          </div>
+          
+
+           <div class="image4">
+            <img src="https://cdn.lezhin.com/v2/comics/6694684605874176/images/tall.webp?updated=1584946291935&width=354"width="154">
+            <div class="manga-name">
+              내가 원하는건
+              <p>23화 무료</p>
+
+            </div>
+
+
+          </div>
+
+           
+            <div class="image4">
+            <img src="https://cdn.lezhin.com/v2/comics/5186358298083328/images/tall.webp?updated=1595670670651&width=354"width="154">
+            <div class="manga-name">
+              차린건 없지만 
+              <p>21화 무료</p>
+
+            </div>
+
+
+          </div>
+
+
+
+             <div class="image4">
+            <img src="https://cdn.lezhin.com/v2/comics/5551016703033344/images/tall.webp?updated=1588916151592&width=354"width="154">
+            <div class="manga-name">
+              백억년을 자는 남자 
+              <p>84화 무료</p>
+
+            </div>
+
+
+          </div>
+
+          
+           
+            <div class="image4">
+            <img src="https://cdn.lezhin.com/v2/comics/4548712561967104/images/tall.webp?updated=1593155714557&width=354"width="154">
+            <div class="manga-name">
+              꼴데툰 2020
+              <p>107화 무료</p>
+
+            </div>
+
+
+          </div>
+           
+
+
+
+            <div class="image4">
+            <img src="https://cdn.lezhin.com/v2/comics/4593648627417088/images/tall.webp?updated=1598521705330&width=354"width="154">
+            <div class="manga-name">
+              무명의 등불 
+              <p>4화 무료</p>
+
+            </div>
+
+
+          </div>
+
+
+
+        </div>
+
+      </div>
+
+      <h2>노출없이 야릇해</h2>
+      
+      <div class="title4">
+        
+        <div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/277/images/tall.webp?updated=1557738338919&width=354"width="154">
+          <div class="manga-name">나와 호랑이님</div>
+
+        </div>
+
+        <div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/5224792803770368/images/tall.webp?updated=1596523648572&width=354"width="154">
+          <div class="manga-name">나와 그녀는 구미호</div>
+
+        </div>
+
+
+        <div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/6465665868496896/images/tall.webp?updated=1563415136923&width=354"width="154">
+          <div class="manga-name">일진녀 길들이기</div>
+
+        </div>
+
+
+        <div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/6131691861311488/images/tall.webp?updated=1544065200786&width=354"width="154">
+          <div class="manga-name">탄생 소녀</div>
+
+        </div>
+
+
+        <div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/4736046550745088/images/tall.webp?updated=1551927604739&width=354"width="154">
+          <div class="manga-name">이름을 말하지않는 악마</div>
+
+        </div>
+
+
+        <div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/304/images/tall.webp?updated=1552618800694&width=354"width="154">
+          <div class="manga-name">애완소녀들의 동향분석과 대응방안</div>
+
+        </div>
+      </div>
+        <h2>순도 100% 로맨스</h2>
+      <div class="title5">
+        <div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/5310249108766720/images/tall.webp?updated=1586416377796&width=354"width="154">
+          <div class="manga-name">아가씨와 우렁총각</div>
+          
+
+
+        </div>
+        <div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/5274670161854464/images/tall.webp?updated=1573799113480&width=354"width="154">
+          <div class="manga-name">메리 고 라운드 </div>
+          
+
+
+        </div>
+
+<div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/5597285332811776/images/tall.webp?updated=1549594808788&width=354"width="154">
+          <div class="manga-name">밍기뉴</div>
+          
+
+
+        </div>
+
+
+<div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/5551152582230016/images/tall.webp?updated=1578041150434&width=354"width="154">
+          <div class="manga-name">내 생애 최고의 늑대</div>
+          
+
+
+        </div>
+
+
+<div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/5639281712562176/images/tall.webp?updated=1523944702135&width=354"width="154">
+          <div class="manga-name">소비러와 존잘님!</div>
+          
+
+
+        </div>
+
+
+
+<div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/4632037283856384/images/tall.webp?updated=1550046708104&width=354"width="154">
+          <div class="manga-name">영원의 주인</div>
+          
+
+
+        </div>
+
+
+
+
+      </div>
+      <h2>예측불가 사춘기 학교생활</h2>
+      <div class="title6">
+        <div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/5035412962410496/images/tall.webp?updated=1587711632876&width=354"width="154">
+          <div class="manga-name">자살소년 </div>
+
+
+        </div>
+
+        <div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/5474379383439360/images/tall.webp?updated=1579957563931&width=354"width="154">
+          <div class="manga-name">부랄친구</div>
+
+
+        </div>
+
+        <div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/6301365414658048/images/tall.webp?updated=1591864741370&width=354"width="154">
+          <div class="manga-name">여자친구 </div>
+
+
+        </div>
+
+        <div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/4770279168147456/images/tall.webp?updated=1562836248992&width=354"width="154">
+          <div class="manga-name">삐뚤어질테다 </div>
+
+
+        </div>
+
+        <div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/6727405857669120/images/tall.webp?updated=1597385608486&width=354"width="154">
+          <div class="manga-name">박씨유대기 </div>
+
+
+        </div>
+
+        <div class="manga-contents-image">
+          <img src="https://cdn.lezhin.com/v2/comics/318/images/tall.webp?updated=1570519281232&width=354"width="154">
+          <div class="manga-name">징벌소녀 </div>
+
+
+        </div>
+
+
+
+
+
+
+
+
+      </div>
+      <div class="Ad-box">
+        <img src="https://cdn.lezhin.com/v2/inventory_items/5460125433790464/media/subBanner2.webp?width=1180"width="924">
+
+      </div>
+
+      <div class="aside-box">
+        <div class="title-image">
+
+          <img src="https://cdn.lezhin.com/files/assets/img/app_banner_desktop_title_ko.png">
+
+      </div>
+
+      <div class="aside-3-items-box">
+        <div class="1box">
+         <img src="https://cdn.lezhin.com/files/assets/img/plus-banner-ko-desktop.png">
+
+        </div>
+
+        <div class="2box">
+          <img src="https://cdn.lezhin.com/files/assets/img/app_banner_desktop_android_ko.png">
+
+        </div>
+
+        <div class="3box">
+
+         <img src="https://cdn.lezhin.com/files/assets/img/app_banner_desktop_ios_ko.png">
+        </div>
+
+        
+
+
+      </div>
+      </div>
+
+
+
+
+      
+
+
+
+
+
+
+
+    </div>
+    </div> 
+     </div>
+     <div class="footer0">
+   <footer class="footer-items">
+     <div class="footer-container">
+       <div class="logo-footer">
+         <img src="https://cdn.lezhin.com/files/assets/img/lezhin.png"width="128" height="27">
+          <div class="lezin">(주)레진엔터테인먼트 </div>
+         <div class="lezin">대표 이성업</div>
+
+      
+       </div>
+      <div class="footer-a">
+       <a href="">회사소개 </a>
+       <a href="">사업자정보확인  </a>
+       <a href="">이용약관  </a>
+       <a href="">개인정보처리방침 </a>
+       <a href="">고객지원/공지사항  </a><br>
+       <a href="">블로그  </a>
+       <a href="">페이스북  </a>
+       <a href="">트위터 </a>
+       <a href="">채용공고  </a>
+       <a href="">연재문의  </a><br>
+       <a href="">레진코믹스의 모든 웹툰들은 저작권법에 의거 보호받고 있습니다. 저작권자 또는 레진코믹스의 승인없이 웹툰의 일부 또는 전체를 복사하여 다른 매체(개인 미디어 포함)에 게재하는 행위는 저작권법에 의거 법적 조치에 처해질 수 있습니다. 언어/국가별로 서비스되는 작품 및 운영 방침이 다르게 적용될 수 있습니다.</a>
+
+           
+       
+
+      </div>
+      
+
+
+
+
+
+
+
+     </div>
+
+
+
+
+
+
+   </footer>
+     </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>f

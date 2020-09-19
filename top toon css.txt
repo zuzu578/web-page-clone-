@@ -1,0 +1,174 @@
+*{
+  margin: 0;
+  padding:0;
+
+}
+.nav-container{
+  display: flex;
+  justify-content: space-between;
+  width:1200px;
+  padding:20px;
+}
+.logo-items{
+  margin-left:80px;
+}
+.nav{
+  padding-left:20px;
+}
+.shop{
+  padding-left:10px;
+}
+.banner-items{
+  width:1440px;
+  margin:0 auto;
+}
+.main-contents-center{
+  width:1198px;
+  margin:0 auto;
+  margin-top:50px;
+}
+p,h2{
+  text-align: center;
+  
+}
+p{
+  color:#c0c0c0;
+
+}
+h2{
+  padding-bottom:50px;
+  
+}
+
+.want-genre{
+  padding-top:30px;
+  text-align: center;
+  color: #c0c0c0;
+}
+.roamce{
+  border:1px solid #ee666a;
+  color:#ee666a;
+  width:142px;
+  height: 30px;
+  border-radius: 20px;
+  text-align: center;
+  line-height: 30px;
+ padding:0px,30px,8px,0px;
+}
+.drama{
+   border:1px solid RGB(217, 193, 130);
+  color:#d9c182;
+  width:142px;
+  height: 30px;
+  background:RGB(255, 246, 220);
+  border-radius: 20px;
+  text-align: center;
+  line-height: 30px;
+ padding:0px,30px,8px,0px;
+}
+.action{
+  border:1px solid #a9be95;
+  color:#a9be95;
+  width:142px;
+  height: 30px;
+  background:#ebf4e4;
+  border-radius: 20px;
+  text-align: center;
+  line-height: 30px;
+  padding:0px,30px,8px,0px;
+}
+.omnibus{
+   border:1px solid #bfa1b8;
+  color:#bfa1b8;
+  width:142px;
+  height: 30px;
+  background:#f6edf4;
+  border-radius: 20px;
+  line-height: 30px;
+  text-align: center;
+  padding:0px,30px,8px,0px;
+}
+.Fantazy{
+  border:1px solid #a9be95;
+  color:#a9be95;
+  width:142px;
+  height: 30px;
+  background:RGB(235, 244, 228);
+  line-height: 30px;
+  border-radius: 20px;
+  text-align: center;
+padding:0px,30px,8px,0px;
+}
+.thriller{
+  border:1px solid RGB(232, 218, 229);
+  color:RGB(246, 237, 244);
+  line-height: 30px;
+  width:142px;
+  height: 30px;
+  background:#e8dae5;
+  border-radius: 20px;
+  text-align: center;
+ padding:0px,30px,8px,0px;
+}
+
+.gag{
+  border:1px solid RGB(217, 193, 130);
+  color:#d9c182;
+  width:142px;
+  line-height: 30px;
+  height: 30px;
+  background:RGB(255, 246, 220);
+  border-radius: 20px;
+  text-align: center;
+  padding:0px,30px,8px,0px;
+  
+}
+
+.ching{
+  border:1px solid RGB(243, 141, 144);
+  color:RGB(243, 141, 144);
+  width:142px;
+  height: 30px;
+  line-height: 30px;
+  background:white;
+  border-radius: 20px;
+  text-align: center;
+  padding:0px,30px,8px,0px;
+
+
+}
+
+.genre-container{
+  display: flex;
+  
+}
+.nav-items{
+  display: flex;
+}
+.shop-items{
+  display: flex;
+}
+.famous-1{
+  display: flex;
+}
+.ranking{
+  display: flex;
+}
+.updae-1{
+  display: flex;
+}
+
+.update-items{
+  display: flex;
+}
+
+.new{
+  display: flex;
+}
+.new-ranking-container{
+  display: flex;
+}
+
+.want-contents{
+  display: flex;
+}

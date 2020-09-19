@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <nav class="nav-container">
+      <div class="logo-items">
+        <img src="https://toptoon.com/assets/img/www/common/renewal17_logo.png"width="106">
+      </div>
+      <div class="nav-items">
+        <div class="nav">연재  </div>
+         <div class="nav"> 완결 </div>
+          <div class="nav"> TOP100 </div>
+           <div class="nav">기다빵  </div>
+            <div class="nav">무료/할인 </div>
+             <div class="nav">이벤트  </div>
+              <div class="nav">리메이크  </div>
+               <div class="nav">무료 충전  </div>
+
+
+      </div>
+      <div class="shop-items">
+        <div class="shop"> 충전소 </div>
+         <div class="shop"> 내서재 </div>
+          <div class="shop">선물함  </div>
+           <div class="shop"> 검색 </div>
+
+      </div>
+      
+
+
+
+    </nav>
+    <div class="banner-items">
+      <img src="https://smurfs.toptoon.com/assets/upfile/banner/6184_1597025192.3762.jpg">
+
+
+    </div>
+
+    <div class="main-contents-center">
+      <p>지금 가장 HOT한 작품</p>
+      <h2>실시간 작품순위</h2>
+      <div class="famous-1">
+      <div class="famous">
+        <img src="https://toptoon.com/assets/img/www/main/tit_realtime_popularity.png" width="150">
+        <div class="sub-titles">실시간 인기순위를<br>
+          지금 바로 확인해보세요.</div>
+      </div>
+        <div class="ranking">
+          <div class="ranking-items">
+            <div class="ranking-image">
+              <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/5412_1580460555.8796.jpg"width="160">
+              <div class="items-names">편의점 샛별이</div>
+
+            </div>
+
+
+
+          </div>
+
+
+
+           <div class="ranking-items">
+            <div class="ranking-image">
+              <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/1345_1553841689.2372.jpg"width="160">
+              <div class="items-names">뽈쟁이 툰</div>
+
+            </div>
+
+
+
+          </div>
+        
+
+           <div class="ranking-items">
+            <div class="ranking-image">
+              <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10303_1559888119.0297.jpg"width="160">
+              <div class="items-names">음지킹</div>
+
+            </div>
+
+
+
+          </div>
+        
+
+
+
+
+         <div class="ranking-items">
+            <div class="ranking-image">
+              <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10492_1596518995.6525.jpg"width="160">
+              <div class="items-names">원킬</div>
+
+            </div>
+
+
+
+          </div>
+        
+
+
+
+
+
+         <div class="ranking-items">
+            <div class="ranking-image">
+              <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10328_1562734540.495.jpg"width="160">
+              <div class="items-names">멋진 신세계</div>
+
+            </div>
+
+
+
+          </div>
+        
+
+
+
+
+         <div class="ranking-items">
+            <div class="ranking-image">
+              <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10360_1567127259.5619.jpg"width="160">
+              <div class="items-names">일탈:여행의 즐거움 </div>
+
+            </div>
+
+
+
+          </div>
+        
+
+        
+
+        </div>
+      </div>
+      
+      <div class="updae-1">
+      <div class="update">
+        <img src="https://toptoon.com/assets/img/www/main/tit_realtime_update.png">
+        <div class="update-infor">최신 업데이트 만화를<br>지금 바로 확인하세요.</div>
+      </div>
+      <div class="update-items">
+        <div class="update-image">
+          <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/1345_1553841689.2372.jpg"width="160">
+          <div class="items-names">뽈쟁이 툰</div>
+
+      </div>
+
+       <div class="update-image">
+          <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10492_1596518995.6525.jpg"width="160">
+          <div class="items-names">원킬</div>
+
+      </div>
+
+       <div class="update-image">
+          <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10403_1582884211.8317.jpg"width="160">
+          <div class="items-names">이중 연애</div>
+
+      </div>
+
+
+       <div class="update-image">
+          <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10223_1576814190.0586.jpg"width="160">
+          <div class="items-names">린지 앤 린지안</div>
+
+      </div>
+
+
+       <div class="update-image">
+          <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10242_1552874447.8449.jpg"width="160">
+          <div class="items-names">영검존</div>
+
+      </div>
+
+
+       <div class="update-image">
+          <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10245_1552357810.9013.jpg"width="160">
+          <div class="items-names">성무신결</div>
+
+      </div>
+
+
+
+      </div>
+      </div>
+      <div class="new-ranking-container">
+        <div class="ranking-image3">
+          <img src="https://toptoon.com/assets/img/www/main/tit_realtime_new.png">
+          <div class="sub-titles">요즘 인기인 신작은?</div>
+
+        </div>
+        <div class="items">
+          <div class="items-image3">
+            <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10411_1573176620.9616.jpg"width="160">
+            <div class="name">불장난</div>
+
+
+          </div>
+
+
+
+        </div>
+
+
+         <div class="items">
+          <div class="items-image3">
+            <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10449_1580197487.7602.jpg"width="160">
+            <div class="name">대표님 꼭 안아주세요</div>
+
+
+          </div>
+
+
+
+        </div>
+
+
+         <div class="items">
+          <div class="items-image3">
+            <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10532_1596439274.2237.jpg"width="160">
+            <div class="name">대표님 책임지세요</div>
+
+
+          </div>
+
+
+
+        </div>
+
+
+         <div class="items">
+          <div class="items-image3">
+            <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10443_1578626162.2324.jpg"width="160">
+            <div class="name">약점</div>
+
+
+          </div>
+
+
+
+        </div>
+
+
+         <div class="items">
+          <div class="items-image3">
+            <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10492_1596518995.6525.jpg"width="160">
+            <div class="name">원킬</div>
+
+
+          </div>
+
+
+
+        </div>
+
+
+         <div class="items">
+          <div class="items-image3">
+            <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb12/10448_1579570605.6833.jpg"width="160">
+            <div class="name">작음 전쟁</div>
+
+
+          </div>
+
+
+
+        </div>
+
+
+    
+
+
+      
+
+
+      </div>
+      <div class="want-genre">원하는 장르로 골라보세요!</div>
+      <div class="recommend"><h2>추천 장르</h2></div>
+      <div class="genre-container">
+        <div class="roamce">
+        <div class="genre-items">#로맨스 </div>
+        </div>
+        <div class="drama">
+         <div class="genre-items">#드라마 </div>
+        </div>
+        <div class="action">
+          <div class="genre-items">#학원/액션 </div>
+        </div>
+        <div class="omnibus">
+
+           <div class="genre-items">#옴니버스 </div>
+        </div>
+        <div class="Fantazy">
+            <div class="genre-items">#판타지/SF</div>
+        </div>
+        <div class="thriller">
+             <div class="genre-items">#공포/스릴러 </div>
+        </div>
+        <div class="gag">
+              <div class="genre-items"> #개그</div>
+        </div>
+        <div class="ching">
+               <div class="genre-items">#무협</div>
+        </div>
+
+      </div>
+      <div class="want-contents">
+        <div class="contents-image">
+          <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb10/10291_1558085744.2081.jpg"width="280">
+          <div class="title">사각사각 로맨스</div>
+
+        </div>
+
+        <div class="contents-image">
+          <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb10/8457_1498196452.345.jpg"width="280">
+          <div class="title">하룻밤 아내</div>
+
+        </div>
+
+
+
+<div class="contents-image">
+          <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb10/10525_1594797198.2312.jpg"width="280">
+          <div class="title">사돈 처녀들</div>
+
+        </div>
+
+
+
+<div class="contents-image">
+          <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb10/10449_1580197487.7556.jpg"width="280">
+          <div class="title">대표님 꼭 안아주세요</div>
+
+        </div>
+
+
+
+<div class="contents-image">
+          <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb10/10532_1596439274.2086.jpg"width="280">
+          <div class="title">사각사각 로맨스</div>
+
+        </div>
+
+
+
+<div class="contents-image">
+          <img src="https://smurfs.toptoon.com/assets/upfile/co_thumb10/10291_1558085744.2081.jpg"width="280">
+          <div class="title">사각사각 로맨스</div>
+
+        </div>
+
+
+
+
+      </div>
+      
+
+        
+
+
+
+    
+        </div>
+        </div>
+
+      </div>
+      </div>
+
+
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

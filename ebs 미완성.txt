@@ -1,0 +1,139 @@
+*{
+  margin: 0;
+  padding:0;
+
+}
+a{
+  text-decoration: none;
+  color:#6d6d6d;
+}
+body{
+
+}
+.section{
+  background:white;
+}
+.nav-container1{
+ background:RGB(78, 128, 192);
+margin:0 auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding:10px;
+color:white;
+font-size:14px;
+
+}
+.left{
+  padding-right:30px;
+}
+.right{
+  padding-right:30px;
+}
+.left2{
+  padding-right:30px;
+}
+.right2{
+  padding-right:30px;
+}
+.left-items{
+  display: flex;
+
+}
+.right-items{
+  display: flex;
+}
+
+.left-items2{
+  display: flex;
+
+}
+.right-items2{
+  display: flex;
+}
+.nav-container2{
+background:RGB(78, 128, 192);
+margin:0 auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding:10px;
+font-size:22px;
+color:white;
+
+}
+.main-mid-center{
+  width: 980px;
+  margin:0 auto;
+  margin-top:80px;
+}
+.search-box{
+  margin-top:40px;
+  border:5px solid RGB(77, 131, 191);
+  width: 900px;
+  height: 50px;
+}
+input[type=text]{
+  border:0;
+  outline:none;
+  width: 900px;
+  height: 50px;
+}
+
+.main-block-container{
+  background:white;
+  width:1300px;
+  margin:0 auto;
+}
+
+.left-block-items1{
+  display: flex;
+}
+.left-block-items2{
+  display: flex;
+}
+.right-block{
+  display: flex;
+  margin-left:400px;
+}
+
+.element,.mid,.high-school,.qual,.lang,.ebse{
+  margin-right:100px;
+   border:1px solid  RGB(242, 244, 248);
+  background:RGB(242, 244, 248);
+  line-height: 79px;
+  text-align: center;
+  border-radius: 10px;
+  height: 79px;
+  width:140px;
+  
+  margin-bottom:20px;
+
+}
+.cho,.premium,.cong,.congjung,.ebsmath,.isop{
+  margin-right:100px;
+   border:1px solid  RGB(242, 244, 248);
+  background:RGB(242, 244, 248);
+  line-height: 79px;
+  text-align: center;
+  border-radius: 10px;
+  height: 79px;
+  width:140px;
+  
+  margin-bottom:20px;
+
+}
+
+.audio,.children,.lecture,.documentary{
+
+ 
+   border:1px solid  RGB(242, 244, 248);
+  background:RGB(242, 244, 248);
+  line-height: 162px;
+  text-align: center;
+  border-radius: 10px;
+  height: 162px;
+  width:157px;
+  margin-top:20px;
+  margin-bottom:20px;
+}

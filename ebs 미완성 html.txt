@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="nav-container1">
+      <div class="left-items">
+        <div class="left">장애인서비스  </div>
+        <div class="left">두리안(다문화)  </div>
+      </div>
+        <div class="right-items">
+          <div class="right"> 로그인 </div>
+            <div class="right"> 마이페이지 </div>
+              <div class="right">고객센터  </div>
+                <div class="right"> 연간권 </div>
+
+        </div>
+
+    
+
+
+    </div>
+
+    <nav class="nav-container2">
+      <div class="left-items2">
+        <div class="left2">TV </div>
+         <div class="left2">라디오</div>
+          <div class="left2">뉴스 </div>
+      </div>
+      <div class="logo-center-items">
+        <img src="https://static.ebs.co.kr/www/common/images/ebs_logo_pc1.png"width="108"height="48">
+
+      </div>
+      <div class="right-items2">
+        <div class="right2">구독하기  </div>
+         <div class="right2">이벤트 </div>
+          <div class="right2">편성표  </div>
+
+      </div>
+    </nav>
+    <div class="section">
+    <section class="main-mid-center">
+      <div class="mid-image">
+        <img src="https://static.ebs.co.kr/www/common/images/onari_img_01_PC.gif" width="60"height="60">
+        
+        <a href="#">ON AIR 세계테마기행(종합) 1부  아시아 명산기행</a>
+
+      
+      </div>
+      
+      <div class="search-box">
+        <div class="input-box">
+          <input type="text">
+
+        </div>
+
+
+      </div>
+
+
+    </section>
+    </div>
+    <div class="main-block-container">
+      <div class="left-block">
+        <div class="left-block-items1">
+          <div class="audio">
+          <div class="left-block">오디오로 배우는외국어  </div>
+          </div>
+          <div class="children">
+           <div class="left-block"> 어린이가 좋아하는컨텐츠</div>
+          </div>
+          <div class="lecture">
+            <div class="left-block">국내최고의지식강연  </div>
+          </div>
+          <div class="documentary">
+             <div class="left-block">EBS 명품 다큐멘터리  </div>
+          </div>
+
+        </div>
+
+
+        <div class="left-block-items2">
+          <div class="variety">
+           <div class="left-block">각양각색 다양한 체험기  </div>
+          </div>
+          <div class="minuet">
+            <div class="left-block">5분,세상과의소통  </div>
+          </div>
+          <div class="economy">
+             <div class="left-block">경제 경영의 혁신적 강연 </div>
+          </div>
+          <div class="film">
+              <div class="left-block">독립영화의 모든것!  </div>
+          </div>
+
+             <div class="right-block">
+        <div class="right-block-items1">
+          <div class="element">
+          <div class="right-block1"> 초등 </div>
+          </div>
+          <div class="mid">
+           <div class="right-block1"> 중학 </div>
+          </div>
+          <div class="high-school">
+            <div class="right-block1">고교 EBSi </div>
+          </div>
+          <div class="qual">
+
+             <div class="right-block1"> 자격증 </div>
+          </div>
+          <div class="lang">
+              <div class="right-block1">EBSlang  </div>
+          </div>
+          <div class="ebse">
+               <div class="right-block1">EBSe  </div>
+          </div>
+        
+
+
+        </div>
+
+        <div class="right-block-items2">
+          <div class="cho">
+           <div class="right-block2">초목달</div>
+          </div>
+          <div class="premium">
+            <div class="right-block2">중학프리미엄  </div>
+          </div>
+          <div class="cong">
+             <div class="right-block2">공무원  </div>
+          </div>
+          <div class="congjung">
+              <div class="right-block2">공인중개사 </div>
+          </div>
+          <div class="ebsmath">
+               <div class="right-block2">EBSmath </div>
+          </div>
+          <div class="isop">
+                <div class="right-block2">이솦 </div>
+          </div>
+
+
+
+        </div>
+
+
+      </div>
+
+        </div>
+
+
+      
+      </div>
+      
+
+
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

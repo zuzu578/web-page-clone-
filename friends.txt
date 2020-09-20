@@ -1,0 +1,77 @@
+*{
+  padding:0;
+  margin:0;
+
+}
+
+.nav-container{
+  display: flex;
+  width:1199px;
+  margin:0 auto;
+  justify-content: space-between;
+  padding:20px;
+  
+}
+.second-nav-container{
+  display: flex;
+
+ justify-content: flex-end;
+ font-size:14px;
+ color:RGB(178, 178, 178);
+}
+.second-nav-container :first-child{
+  color:black;
+}
+.character{
+  width:1080px;
+  margin:0 auto;
+    margin-top:200px;
+    text-align: right;
+    
+  
+}
+.banner-items{
+  width: 1080px;
+  margin:0 auto;
+  margin-top:100px;
+}
+
+.jay-z{
+  margin-top:100px;
+}
+.tube{
+  margin-top:100px;
+}
+.frodo{
+  margin-top:100px;
+}
+.muzi{
+  margin-top:100px;
+}
+.apeach{
+ margin-top:70px;
+}
+.second-items{
+  padding-right:40px;
+}
+.first{
+  padding-left:30px;
+}
+.second-nav{
+  margin-right:140px;
+}
+.i-1{
+  padding-right:30px;
+}
+
+.first-nav{
+display: flex;
+}
+
+.second-nav{
+  display: flex;
+}
+
+.third-nav{
+display: flex;
+}

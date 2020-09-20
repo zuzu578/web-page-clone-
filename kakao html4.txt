@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>repl.it</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<nav class="nav-container">
+		<div class="logo-items">KaKao</div>
+		<div class="second-nav">
+			<div class="second">카카오 </div>
+			<div class="second">투자정보 </div>
+			<div class="second">서비스 </div>
+			<div class="second">소셜임팩트 </div>
+			<div class="second">고객지원 </div>
+			<div class="second">인재영입 </div>
+		</div>
+		<div class="language">
+			<div class="lang"> KOR </div>
+			<div class="lang"> ENG </div>
+		</div>
+	</nav>
+	<div class="main-video">
+
+		<video autoplay="" muted="" loop="" src="https://t1.kakaocdn.net/kakaocorp/main/kakao10/img/corp_pc.mp4"width="1440"></video>
+
+
+
+
+	</div>
+
+	<div class="main-contents">
+		<div class="kakao">
+			<h2 class="kaka"><br>카카오스러운 관점으로</br>
+        세상을 바라봅니다.</br></h2>
+        <p class="kaka1">카카오스러움이란</p>
+        <div class="kakao-video">
+        <video autoplay="" muted="" loop="" src="https://t1.kakaocdn.net/kakaocorp/main/kakao10/img/li-1a.mp4" width="1040"height="260">
+        </div>
+      </div>
+      <div class="kakao2">
+        <h2 class="kako-2"><br>아무도 가보지 않은 길을 걷는</br>
+          카카오의 이야기를 기록합니다.</h2>
+          <div class="image">
+            <img src="https://www.kakaocorp.com/resources/r202007/img/li-3.png"width="884"height="358">
+          </div>
+      </div>
+      <div class="align-container">
+      <div class="align-items1">
+        <div class="items1">
+          <p>PRESS RELEASE</p>
+          <h3><br>카카오, 니니즈 ‘죠르디’ 팝업스토어 ‘니니마트’</br>오픈하고 신상품 선보여</h3>
+          <span class="character"> 죠르디 캐릭터 컨셉 반영해 실제 편의점과 유사한 공간 구성, 신상품 13종 출시 판매</span>
+
+        </div>
+
+        <div class="items2">
+          <p class="stockp">STOCK</p>
+          <h3 class="stock">373,000 </h3>
+          <h6>2020-09-20 12:01:21</h6>
+
+        </div>
+
+
+        <div class="items3">
+          <p class="policy">PRIVACY POLICY </p>
+          <h3 class="data"><br>카카오는 데이터의 연결과 보호의 균형을 위해</br>
+          언제나 최선을 다하겠습니다.</h3>
+
+        </div>
+
+
+
+
+
+      </div>
+
+
+
+    <div class="align-items2">
+        <div class="items2">
+          <div class="img-box">
+            <img src="https://t1.kakaocdn.net/kakaocorp/admin/co/main-content/4518.jpg" width="359" height="200">
+            <h3>
+            <br>언제 어디서나 무료로 간편하게! 사람과 세상, 그 이상을</br> 연결하는 카카오톡</h3>
+            <span>채팅은 물론 일정 관리, 송금, #검색 등 다양한 <br>기능을 제공하는 카카오톡은 우리의 생활을 <br>보다 편리하게 만들어 주고 있습니다.</span>
+          </div>
+        </div>
+
+
+
+
+
+      <div class="items3">
+          <div class="img-box">
+            <img src="https://t1.kakaocdn.net/kakaocorp/admin/co/main-content/4540.jpg" width="359" height="200">
+            <h3>새로워진 kakao Tech를 소개합니다.</h3>
+            <span>기술 행사와 오픈소스, 후원, 채용 등 카카오의 기술<br>관련 종합적인 정보를 제공할 수 있도록<br> 개편했습니다.....</span>
+          </div>
+        </div>
+
+
+
+
+
+
+      <div class="items4">
+          <div class="img-box">
+            <img src="https://t1.kakaocdn.net/kakaocorp/operating/co/main-content/3254.png" width="359" height="200">
+            <h3>
+            세계 행복의 날 기념, 같이가치 ‘안녕하세요’ 캠페인을 <br>소개합니다!</h3>
+            <span>'세계 행복의 날'이라는 기념일을 들어보신 적 있나요?<br> 2012년 국제연합(UN)이 모든 사람들이 행복하게 살 수 <br>있도록 전 세계가 함께 노력하자는 취지로 매년 3월 20일을 '세계 ....</span>
+          </div>
+        </div>
+
+      </div>
+      </div>
+    </div>
+      </div>
+   </div>
+
+
+
+
+
+
+    </div>
+  </div>
+
+  
+    <script src="script.js"></script>
+  </body>
+</html>

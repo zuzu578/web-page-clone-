@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <nav class="nav-container">
+      <div class="logo-items">
+        <img src="https://mk0droplrg5q83m5xg0r.kinstacdn.com/wp-content/uploads/2020/06/discord-logo-1200x400.jpg"width="124" height="34">
+
+      </div>
+       <div class="menu-items">
+        <div class="menu">다운로드</div> 
+        <div class="menu">왜 Discord인가요?</div>
+        <div class="menu">Nitro</div>
+        <div class="menu">보안</div>
+        <div class="menu">지원</div>
+
+
+    
+      </div>
+      <div class="log-in-items">
+        <div class="log-in">
+         로그인 
+        </div>
+
+
+      </div>
+
+    </nav>
+    <div class="download-container">
+      <div class="download">
+        <h1>어느 장치에서든</br>
+         Discord 설치하기</h1>
+        <p>모험이 기다리고 있어요. PC 앱으로 친구들과 어울리고</br> 모바일에서도 대화를 이어가세요.</p>
+        <div class="download-for-window">
+          <div class="window">
+          <div class="window-download">
+            window용 다운로드 
+
+          </div>
+          </div>
+          <div class="window-7">
+           <div class="win7">
+             windows7 이상
+
+           </div>
+          </div>
+
+
+        </div>
+      </div>
+    
+      <div class="image-box">
+        <img src="https://discord.com/assets/d0d4785a2a708e2e6aae274cbe13cb6c.svg"width="632" height="369">
+
+
+      </div>
+
+
+    </div>
+    
+    <div class="device-box">
+      <div class="mobile">
+      <div class="ios-box">
+        <h2 class="ios">ios</h2>
+        <div class="button-download">
+          <div class="down">
+            다운로드
+
+          </div>
+
+        </div>
+        <div class="device-image-box">
+          <img src="https://discord.com/assets/7802f24afe58bfbf4cfd3a9e4b210f15.svg">
+
+        </div>
+
+
+      </div>
+
+      <div class="android-box">
+        <h2 class="android">Android</h2>
+        <div class="button-download">
+          <div class="down">
+            다운로드
+
+          </div>
+
+        </div>
+        <div class="device-image-box">
+          <img src="https://discord.com/assets/fbeecd9630673fad538917f2c33a8f62.svg">
+
+        </div>
+
+
+
+
+
+
+      </div>
+      </div>
+      <div class="desk-top">
+      <div class="linux-box">
+
+        <h2 class="linux">Linux</h2>
+        <div class="button-download">
+          <div class="down">
+            다운로드
+
+          </div>
+
+        </div>
+        <div class="device-image-box">
+          <img src="https://discord.com/assets/48930d53ee497513a0ee4c3c1ae7b3cb.svg">
+
+        </div>
+
+
+
+      </div>
+
+      <div class="mac-box">
+
+        <h2 class="mac">Mac</h2>
+        <div class="button-download">
+          <div class="down">
+            다운로드
+
+          </div>
+
+        </div>
+        <div class="device-image-box">
+          <img src="https://discord.com/assets/aaef6e9afb93f4a28236410b0d7376ca.svg">
+
+        </div>
+
+
+
+
+      </div>
+      </div>
+
+
+
+
+
+    </div>
+   
+    
+
+
+    <script src="script.js"></script>
+  </body>
+</html>

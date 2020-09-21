@@ -1,0 +1,182 @@
+*{
+  padding:0;
+  margin:0;
+
+}
+body{
+  background:#23282b;
+}
+.download-container{
+  background:#23282b;
+}
+.nav-container{
+  display: flex;
+  justify-content: space-between;
+  
+  align-items: center;
+  padding:20px;
+  width:1118px;
+  margin:0 auto;
+}
+.menu-items{
+  display: flex;
+}
+.menu{
+  padding-left:40px;
+  color:white;
+}
+.logo-items{
+  position: relative;
+  right:100px;
+}
+.log-in-items{
+  border:1px solid white;
+  width:68px;
+  height: 38px;
+  border-radius: 20px;
+  text-align: center;
+  line-height: 38px;
+  background:white;
+  color:black;
+}
+.download-container{
+  display: flex;
+  width:1071px;
+  margin:0 auto;
+  padding:120px;
+  padding-left:40px;
+}
+h1{
+  font-size:50px;
+  width:549px;
+  color:white;
+}
+p{
+  color:white;
+  font-size:30px;
+  margin-top:40px;
+}
+.download-for-window{
+  display: flex;
+  margin-top:24px;
+
+}
+.window{
+  border:1px solid #7189da;
+  width:224px;
+  height: 56px;
+  border-radius: 20px;
+  background:#7189da;
+  color:white;
+  font-size:20px;
+  line-height: 56px;
+  text-align: center;
+}
+.window-7{
+  line-height: 56px;
+  margin-left:40px;
+  font-size:16px;
+  color:white;
+}
+.device-box{
+  background:white;
+  padding-top:120px;
+  padding-left:40px;
+  width: 1440px;
+  margin:0 auto;
+  
+}
+.ios-box{
+  border:1px solid RGB(246, 246, 246);
+  width:549px;
+  height: 600px;
+  border-radius: 7px;
+  padding:56px;
+   overflow: hidden;
+   background:RGB(246, 246, 246);
+  
+}
+
+.mobile{
+  display: flex;
+}
+.android-box{
+  border:1px solid RGB(246, 246, 246);
+  width:549px;
+  height: 600px;
+  border-radius: 7px;
+  padding:56px;
+  position: relative;
+  top:200px;
+  overflow: hidden;
+     background:RGB(246, 246, 246);
+    margin-left:20px;
+}
+.desk-top{
+  display: flex;
+}
+.linux-box{
+  border:1px solid RGB(246, 246, 246);
+  width:549px;
+  height: 600px;
+  border-radius: 7px;
+  padding:56px;
+   overflow: hidden;
+      background:RGB(246, 246, 246);
+      margin-top:20px;
+}
+.mac-box{
+  border:1px solid RGB(246, 246, 246);
+  width:549px;
+  height: 600px;
+  border-radius: 7px;
+  padding:56px;
+  overflow: hidden;
+     background:RGB(246, 246, 246);
+     margin-left:20px;
+     margin-top:220px;
+
+}
+.device-image-box{
+  position: relative;
+  top:200px;
+}
+
+.button-download{
+  border:1px solid #23282b;
+  width:133px;
+  height: 56px;
+  text-align: center;
+  line-height: 56px;
+  border-radius: 30px;
+  background: #23282b;
+  color:white;
+  margin-left:200px;
+}
+.android{
+  font-size:40px;
+  font-weight: bold;
+  margin-left:200px;
+   padding-bottom:20px;
+}
+.ios{
+ 
+  font-size:40px;
+  font-weight: bold;
+  margin-left:240px;
+   padding-bottom:20px;
+}
+.linux{
+font-size:40px;
+  font-weight: bold;
+  margin-left:220px;
+   padding-bottom:20px;
+}
+
+
+.mac{
+font-size:40px;
+  font-weight: bold;
+  margin-left:230px;
+  padding-bottom:20px;
+}

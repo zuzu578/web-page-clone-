@@ -1,0 +1,175 @@
+*{
+  padding:0;
+  margin:0;
+
+}
+.top-header{
+  width: 1199px;
+  margin:0 auto;
+  display: flex;
+  justify-content: space-between;
+  color:RGB(179, 179, 179);
+  padding:10px;
+}
+.right-items{
+  display: flex;
+}
+.right{
+  padding-right:20px;
+  font-size:14px;
+  color:RGB(179, 179, 179);
+}
+.logo-container{
+  width:1190px;
+  margin:0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.search-box{
+  display: flex;
+  align-items: center;
+  margin-right:380px;
+}
+input[type=text]{
+  line-height: 40px;
+   border:0;
+   outline:none;
+  width:322px;
+  height: 40px;
+  border-radius: 40px;
+
+  
+}
+.search{
+  border:3px solid #1ece45;
+  width:322px;
+  height: 40px;
+  border-radius: 40px;
+}
+.another-two{
+  display: flex;
+  padding-top:19px;
+  margin-left:240px;
+  color:RGB(145, 145, 145);
+}
+.nav-container{
+  display: flex;
+  width:1190px;
+  margin:0 auto;
+  
+
+}
+.nav-items{
+  padding-left:30px;
+  padding-top:19px;
+}
+.two{padding-left:20px;
+}
+h3{
+  margin-top:40px;
+  border-top:1px solid gray;
+  padding-top:30px;
+  padding-bottom:30px;
+  padding-left:170px;
+}
+.first-flex-box{
+  width:1100px;
+  margin:0 auto;
+}
+.first-flex-box{
+  display: flex;
+}
+.mid-center-album{
+  padding-left:10px;
+  
+}
+.logingng{
+  margin-left:10px;
+  border:1px solid RGB(224, 224, 224);
+  font-size:14px;
+  padding:20px;
+}
+.login-ad{
+  margin-top:15px;
+  margin-left:10px;
+}
+.login-title{
+  display: flex;
+}
+.login-button{
+  border:1px solid RGB(0, 211, 68);
+  width:244px;
+  height: 42px;
+  background:#1ece45;
+  color:white;
+  text-align: center;
+  line-height: 42px;
+  margin-top:10px;
+}
+
+
+
+.image1{
+  display: flex;
+}
+.image2{
+display: flex;
+}
+
+.second-flex-box{
+  width: 1100px;
+  margin:0 auto;
+  margin-top:30px;
+ 
+  
+
+}
+h2{
+  font-size:20px;
+  margin-left:170px;
+ padding-top:20px;
+ width:704px;
+ border-bottom:1px solid gray;
+ padding-bottom:10px;
+
+  
+}
+.items1{
+  padding-left:10px;
+
+}
+
+.second-flex-box{
+  display: flex;
+}
+.melon-chart{
+  margin-left:10px;
+  border:1px solid RGB(222, 229, 232);
+  height:360 ;
+  
+}
+.chart-items{
+  border-bottom:1px solid gray;
+  padding:5px;
+  width:280px;
+}
+.shuffle-container{
+  display: flex;
+  justify-content: space-between;
+}
+.shuffle-items{
+  font-size:12px;
+  text-align: center;
+  line-height: 26px;
+  border:1px solid RGB(186, 186, 186);
+  width:67px;
+  height: 26px;
+  margin-left:10px;
+  margin-top:30px;
+}
+.more{
+  margin-right:10px;
+  margin-top:35px;
+}

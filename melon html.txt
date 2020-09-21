@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header class="top-header">
+      <div class="melon-ticket"> 멜론티켓</div>
+      <div class="right-items">
+        <div class="right">이용권 구매 </div>
+        <div class="right">VIP혜택관 </div>
+        <div class="right">이벤트 </div>
+
+
+      </div>
+
+    </header>
+    <div class="logo-container">
+      <div class="logo-items">
+      <img src="https://cdnimg.melon.co.kr/resource/image/web/common/logo_melon142x99.png"width="142" height="99">
+      </div>
+      <div class="search-box">
+        <div class="search">
+          <input type="text">
+        </div>
+        </div>
+        <div class="ad-contents">
+          <div class="ad-image">
+            <img src="https://cdnimg.melon.co.kr/svc/images/main/imgUrl20200917022157.png"width="280" height="75">
+
+
+          </div>
+
+        </div>
+
+
+      </div>
+
+    </div>
+    <nav class="nav-container">
+      <div class="nav-items">멜론차트 </div> 
+       <div class="nav-items">최신 </div>
+        <div class="nav-items">장르 </div>
+         <div class="nav-items">멜론DJ </div>
+          <div class="nav-items">멜론TV </div>
+           <div class="nav-items">스타포스트 </div>
+            <div class="nav-items">매거진 </div>
+             <div class="nav-items">뮤직어워드</div>
+              <div class="nav-items">멜론Hi-Fi </div>
+               <div class="nav-items">더보기 </div>
+          <div class="another-two">
+            <div class="two">마이뮤직 </div>
+               <div class="two">피드 </div>
+
+
+          </div>
+
+
+
+    </nav>
+   <h3>최신 앨범</h3>
+    <div class="first-flex-box">
+      <div class="new-album">
+        <div class="new1">
+          <img src="https://cdnimg.melon.co.kr/cm2/album/images/104/93/556/10493556_20200921150848_500.jpg?d5e8c3f4c6387d39729313d92f0c8af0/melon/resize/156/quality/80/optimize"width="156" height="156">
+           <img src="https://cdnimg.melon.co.kr/cm2/album/images/104/93/563/10493563_20200921151110_500.jpg?cc4520742c68f8d1bebf1ace162d0b14/melon/resize/156/quality/80/optimize"width="156" height="156">
+            <img src="https://cdnimg.melon.co.kr/cm2/album/images/104/93/519/10493519_20200921144209_500.jpg?2808229ce0cb702b76561104bc2b50e9/melon/resize/156/quality/80/optimize"width="156" height="156">
+
+        </div>
+        <div class="new2">
+           <img src="https://cdnimg.melon.co.kr/cm2/album/images/104/92/983/10492983_20200918143217_500.jpg?19d947ae33c5e4b3e6305499b279e1c7/melon/resize/156/quality/80/optimize"width="156" height="156">
+            <img src="https://cdnimg.melon.co.kr/cm2/album/images/104/93/270/10493270_20200921103111_500.jpg?799527fbfbf26728d3dbff844a4b827d/melon/resize/156/quality/80/optimize"width="156" height="156">
+             <img src="https://cdnimg.melon.co.kr/cm2/album/images/104/93/233/10493233_20200921100839_500.jpg?17c6a0e294eabfcd425a6392be14f0f8/melon/resize/156/quality/80/optimize"width="156" height="156">
+
+        </div>
+
+      </div>
+      <div class="mid-center-album">
+        <img src="https://cdnimg.melon.co.kr/svc/images/main/imgUrl20200921034527.png/melon/quality/80"width="236" height="315">
+
+      </div>
+
+     <div class="login-box">
+       <div class="logingng">
+       <div class="login-title">
+         <div class="login">멜론을 더 안전하게 이용하세요. </div>
+         <div class="sign-up">회원가입</div>
+       </div>
+
+       <div class="login-button">
+         <div class="button">
+           로그인
+
+         </div>
+
+
+       </div>
+       </div>
+       <div class="login-ad">
+         <div class="ad-box-log">
+           <img src="https://cdnimg.melon.co.kr/svc/images/main/imgUrl20200702014907.png/melon/quality/80"width="280" height="188">
+
+
+         </div>
+
+
+       </div>
+
+
+     </div>
+
+
+
+    </div>
+   <h2>인기있어요</h2> 
+    <div class="second-flex-box">
+      <div class="music-image">
+      <div class="image1">
+        <div class="items1">
+        <img src="https://cdnimg.melon.co.kr/svc/images/main/imgUrl20200921115529.jpg/melon/quality/80"width"223"
+        height="148">
+        <div class="title">별보다 빛나는 그녀 제시</div>
+        <p>  울컥 주의 star 팬 메이드라이브</p>
+        </div>
+          <div class="items1">
+         <img src="https://cdnimg.melon.co.kr/svc/images/main/imgUrl20200921115529.jpg/melon/quality/80"width"223"
+        height="148">
+        <div class="title">별보다 빛나는 그녀 제시</div>
+        <p>  울컥 주의 star 팬 메이드라이브</p>
+          </div>
+           <div class="items1">
+         <img src="https://cdnimg.melon.co.kr/svc/images/main/imgUrl20200921115529.jpg/melon/quality/80"width"223"
+        height="148">
+        <div class="title">별보다 빛나는 그녀 제시</div>
+        <p>  울컥 주의 star 팬 메이드라이브</p>
+
+           </div>
+
+      </div>
+      <div class="image2">
+       <div class="item1">
+         <img src="https://cdnimg.melon.co.kr/svc/images/main/imgUrl20200921115529.jpg/melon/quality/80"width"223"
+        height="148">
+        <div class="title">별보다 빛나는 그녀 제시</div>
+        <p>  울컥 주의 star 팬 메이드라이브</p>
+       </div>
+       <div class="items1">
+
+         <img src="https://cdnimg.melon.co.kr/svc/images/main/imgUrl20200921115529.jpg/melon/quality/80"width"223"
+        height="148">
+        <div class="title">별보다 빛나는 그녀 제시</div>
+        <p>  울컥 주의 star 팬 메이드라이브</p>
+       </div>
+       <div class="items1">
+
+         <img  src="https://cdnimg.melon.co.kr/svc/images/main/imgUrl20200921115529.jpg/melon/quality/80"width"223"
+        height="148">
+        <div class="title">별보다 빛나는 그녀 제시</div>
+        <p>  울컥 주의 star 팬 메이드라이브</p>
+       </div>
+
+
+      </div>
+      </div>
+     
+     
+      <div class="melon-chart">
+        
+        <div class="chart">
+          <div class="chart-items">Dynamite  </div>
+           <div class="chart-items">취기를 빌려 (취향저격 그녀 X 산들)  </div>
+            <div class="chart-items">눈누난나 (NUNU NANA)  </div>
+             <div class="chart-items">마리아 (Maria)  </div>
+              <div class="chart-items">다시 여기 바닷가  </div>
+               <div class="chart-items">When We Disco (Duet with 선미)  </div>
+                <div class="chart-items">오래된 노래  </div>
+                 <div class="chart-items">How You Like That  </div>
+                  <div class="chart-items">에잇(Prod.&Feat. SUGA of BTS)  </div>
+                   <div class="chart-items">내 마음이 움찔했던 순간 (취향저격 그녀 X 규현)  </div>
+
+
+
+        </div>
+        <div class="shuffle-container">
+          <div class="shuffle-items">
+            <div class="shuffle">
+              셔플듣기
+
+            </div>
+
+          </div>
+          <div class="more">
+            <div class="m-items">
+              더 보기
+
+            </div>
+
+
+          </div>
+
+
+        </div>
+
+
+      </div>
+
+
+
+    </div>
+    
+    <script src="script.js"></script>
+  </body>
+</html>

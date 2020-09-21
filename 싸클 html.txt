@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+   
+    <div class="main-box1">
+    <div class="main-image">
+    <img src="https://a-v2.sndcdn.com/assets/images/sc_landing_header_web_a-3bb2d420.jpg">
+     <nav class="nav-container">
+   <div class="logo-items">
+   <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHMAAAAWCAQAAABZc2uEAAADSUlEQVR4Ae3VbWiVZRgH8Gtrp6aZ017UiSMy06zQLyORYpCEiSl+yMSgIEpdGgjZgl5MLDItkSIbRZwEZfQCRSUppKhpINGw0vyS+Uk0tZSM4+pMt/2CeLihneOOFPRBzvX/sHNf983N9XueBxb/X1WrWtWqVrVc7XmbfeI5N4uU2dpts9701LlDXltarZN3gxAelfdQ1r1WXrsQJsv/nbUWu1FI0WSFzd5xv6tEumGW6JfxVtmiw+NyFSZ4S15euzbThJCSfhjtGIA/LBRCrQ0AeC07+TB2iizHMUUIm1B0qxDGoit7TACcs05kudspAF+rTzcs74ec5yyATqMGnKAIgN3GlGOuw2GtFtmh25x0XZ92j/gA3FuRSafLSpg/e9Jqe0CrEIY6iW8sttIZvVqVZ45UwB6LvKgLGysy11iuQze2l2N+ig4h1JiY9Q7jBZFG2Ksyk2dLmPuzs6/glBCewYnsHTYbL5RnrsZ+demmPk0VmBOEcLteTCtlLgedVhqXdYZAevVTUajI/BzdblOe2QAahY/TQ00py9yKZWl1FDMuihm+wNJSZn32qmG3ccIk9KjJ9keB6yowl9mEfcaVZYbTaBH2Y6HKzB9xX1p9hSUXyXwb6/sxs4zQZqdefCeMAQ3Z3gSclxPmZ/sh1ClgUhqyzXDH8GZZZk4Pxgo78arKzL1YkFYHMK/8BCXMj/B0OWZd9ncOGK5GF+Zm3cdwSAjN6DNCCC1giMQUZqK3LPNBnFGTPev0KRtyQeZGfJj+F3Rj8gATJKYRfsf0UuZ8x8w1SE4relwhvIsjpqjV4iRWCOFKv+F1l5tsBw6IfzDDBpCYDhrmFk8o4GUh3AmeMtj1djlqRrphjZFZrhHuQa8l6o22Dd+rHWCCIpo1me0gflDfn5nzJehRBO8LodEpcB78ZHB2einoBswsYTY4gsQEwPb0zbwHesBpN6UbAPhWCJ+Rzp1z14ATFAHwq4lCYiaotQ7pQ5c3DM26Y2zxJwo6DBMpCxwHh80SJcwwvYR53C4PqEmna61wAmdtNVVckFnnJb+gR6fmChMUQcE+qzSIEmbKcI3SKFnqNKkVJRmZ4P8+jXJC5Yw26L9MEC6lVJmXTqrMvwBTThqYRlj40wAAAABJRU5ErkJggg=="width="150" height="30">
+ 
+   </div>
+   <div class="right-items">
+   <div class="sign-in-items">
+   <div class="sign"> Sign in </div>
+   </div>
+   <div class="create-account-items">
+   <div class="create"> Create account</div>
+   </div>
+   <div class="For Creators-items">
+   <div class="for creators"> For Creators</div>
+   </div>
+
+   </div>
+
+    <div class="text-box">
+    <h1>Connect on SoundCloud</h1>
+    <p>Discover, stream, and share a constantly expanding mix of music</p>
+    <p>from emerging and major artists around the world.</p>
+    <div class="button-items"> 
+    <div class="button-sign-up"> Sign up for free</div>
+    </div>
+
+    </div>
+
+    </nav>
+    </div>
+   
+    </div>
+   <div class="main-box-container">
+    <div class="input-box">
+      <div class="search-bar">
+      <input type="text" placeholder="Search for artists,band,tracks,podcasts">
+      </div>
+     <div class="upload">
+
+      <div class="upload-button">Upload your own</div>
+   
+      </div>
+
+
+
+
+    </div>
+    <h3>Hear what¡¯s trending for free in the SoundCloud community</h3>
+    <div class="music-box-container">
+      <div class="music-image1">
+        <div class="music">
+          <img src="https://i1.sndcdn.com/artworks-xRcHRzwpJGpfGt1d-wqhSGQ-t200x200.jpg"width="136" height="136">
+          <div class="title">Wap feat.Megan</div>
+          <div class="sub-title">Cardi B</div>
+        </div>
+         <div class="music">
+          <img src="https://i1.sndcdn.com/artworks-NjS3sphvQZJYNJWp-R7QVyw-t200x200.jpg"width="136" height="136">
+          <div class="title">2020</div>
+          <div class="sub-title">Omar kamai</div>
+        </div>
+         <div class="music">
+          <img src="https://i1.sndcdn.com/artworks-2MLsYnao8vRsIaFx-UEmW0g-t200x200.jpg"width="136" height="136">
+          <div class="title">lemonade Ft.Dont</div>
+          <div class="sub-title">internet money</div>
+        </div>
+         <div class="music">
+          <img src="https://i1.sndcdn.com/artworks-d5wCDRJVFVTqAdH6-JAkXAQ-t200x200.jpg"width="136" height="136">
+          <div class="title">Wegz EI ghasala</div>
+          <div class="sub-title">wegz</div>
+        </div>
+         <div class="music">
+          <img src="https://i1.sndcdn.com/artworks-d5wCDRJVFVTqAdH6-JAkXAQ-t200x200.jpg"width="136" height="136">
+          <div class="title">drug addiction</div>
+          <div class="sub-title">youngboy</div>
+        </div>
+         <div class="music">
+          <img src="https://i1.sndcdn.com/artworks-C2rSsL5sOd2OQ1ep-BIPAtw-t200x200.jpg"width="136" height="136">
+          <div class="title">Wap f</div>
+          <div class="sub-title">Carff</div>
+        </div>
+
+
+      </div>
+     
+
+
+     <div class="music-image2">
+       <div class="music">
+          <img src="https://i1.sndcdn.com/artworks-CZgU6nwT3yBXZmgc-VS8e8w-t200x200.jpg"width="136" height="136">
+          <div class="title">gemkg</div>
+          <div class="sub-title">omar</div>
+        </div>
+
+        <div class="music">
+          <img src="https://i1.sndcdn.com/artworks-Rqwz39EkFVaov5wC-qAdU9Q-t200x200.jpg"width="136" height="136">
+          <div class="title">Wap </div>
+          <div class="sub-title">Cardi B</div>
+        </div>
+
+        <div class="music">
+          <img src="https://i1.sndcdn.com/artworks-xDk4KXSyniI2CwXY-4qXcFQ-t200x200.jpg"width="136" height="136">
+          <div class="title">Wap feat.Megan</div>
+          <div class="sub-title">Cardi B</div>
+        </div>
+
+        <div class="music">
+          <img src="https://i1.sndcdn.com/artworks-P9iMqMEbFUJARK0Y-ypOw6Q-t200x200.jpg"width="136" height="136">
+          <div class="title">Wap feat.Megan</div>
+          <div class="sub-title">Cardi B</div>
+        </div>
+
+        <div class="music">
+          <img src="https://i1.sndcdn.com/artworks-P9iMqMEbFUJARK0Y-ypOw6Q-t200x200.jpg"width="136" height="136">
+          <div class="title">Wap feat.Megan</div>
+          <div class="sub-title">Cardi B</div>
+        </div>
+
+        <div class="music">
+          <img src="https://i1.sndcdn.com/artworks-5XZOPzuRR4arOyLJ-iPlbHw-t200x200.jpg"width="136" height="136">
+          <div class="title">Wap feat.Megan</div>
+          <div class="sub-title">Cardi B</div>
+        </div>
+
+
+
+
+     </div>
+
+
+    </div>
+    <div class="button-area">
+    <div class="explore-button">
+    <div class="explore"> Explore trending playlists</div>
+    </div>
+    </div>
+   </div>
+   <div class="under-container-box1">
+    <div class="under-image1">
+     <img src="https://a-v2.sndcdn.com/assets/images/never_stop_listening@1x-9c5264ff.jpg">
+    </div>
+     <div class="text-box2">
+       <div class="text-tilte">Never stop listening</div>
+       <div class="text-sub-title">SoundCloud is available on</br> Web, iOS, Android, Sonos,<br/> Chromecast, and Xbox One.</div>
+       <div class="store-box">
+       <div class="appstore">  
+       <img src="https://a-v2.sndcdn.com/assets/images/appstore_badge-875ae97c.png">
+
+
+       </div>
+       <div class="playstore">
+       <img src="https://a-v2.sndcdn.com/assets/images/google_play_badge-26379006.png">
+
+       </div>
+
+       </div>
+       
+       </div>
+       
+
+
+
+     </div>
+    </div>
+
+    <div class="under-container-box2">
+        <div class="under-image2">
+        <img src="https://a-v2.sndcdn.com/assets/images/hp_creator_image-f3d92e09.jpg">
+        <div class="text-box3">
+        <div class="text-title1">Calling all creators</div>
+        <div class="sub-title1">Get on SoundCloud to connect with fans,</br> share your sounds, and grow your</br> audience. What are you waiting for?
+        </div>
+        <div class="button-items2">
+          <div class="find-button">
+
+          Find out more
+
+
+          </div>
+
+
+
+        </div>
+        </div>
+
+
+        </div>
+        </div>
+
+
+       </div>
+       <div class="sign-up">
+         <h1>Thanks for listening. Now join in.</h1>
+         <h2>Save tracks, follow artists and build playlists. All for free.</h2>
+
+
+       </div>
+
+
+
+   </div>
+    <script src="script.js"></script>
+  </body>
+</html>

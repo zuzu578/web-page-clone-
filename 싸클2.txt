@@ -1,0 +1,254 @@
+*{
+  padding:0;
+  margin:0;
+
+}
+.nav-container{
+  display: flex;
+  justify-content:space-evenly;
+  
+ position: relative;
+  bottom:400px;
+}
+
+.right-items{
+  display: flex; 
+  position: relative;
+  left:500px;
+ 
+ 
+}
+.logo-items{
+  
+}
+
+.main-image{
+width:1230px;
+margin:0 auto;
+position: relative;
+bottom:50px;
+}
+.sign-in-items{
+  border:1px solid white;
+  width:74px;
+  height: 30px;
+  border-radius: 4px;
+  text-align: center;
+  line-height: 30px;
+  color:white;
+
+}
+.create-account-items{
+  border:1px solid #ff5500;
+  width:129px;
+  height: 30px;
+  color:white;
+  background:#ff5500;
+  border-radius: 4px;
+  text-align: center;
+  line-height: 30px;
+ 
+}
+.text-box{
+  position: relative;
+  color:white;
+ text-align: center;
+ right:300px;
+  
+  top:180px;
+}
+h1{
+  width:500px;
+}
+.button-items{
+  border:1px solid #ff5500;
+  width:210px;
+  height: 46px;
+  margin:0 auto;
+  margin-top:20px;
+  line-height: 46px;
+  border-radius: 5px;
+  background:#ff5500;
+}
+
+.input-box{
+  width:920px;
+ 
+  margin:0 auto;
+  display: flex;
+}
+input[type=text]{
+  width:650px;
+  border:1px solid white;
+  height: 46px;
+  background:#f2f2f2;
+}
+.upload{
+  border:1px solid #ff5500;
+  width:168px;
+  height: 46px;
+  background:#ff5500;
+  line-height: 46px;
+  text-align: center;
+  color:white;
+  border-radius: 5px;
+  margin-left:40px;
+}
+h3{
+  width:920px;
+  margin:0 auto;
+  text-align: center;
+  margin-top:40px;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+.music-box-container{
+   width:1000px;
+  margin:0 auto;
+
+}
+.music-image1{
+  display: flex;
+ 
+}
+.music-image2{
+  display: flex;
+}
+
+.explore-button{
+  text-align: center;
+  margin-top:50px;
+  margin-bottom:100px;
+  border:1px solid #ff5500;
+  width:252px;
+  height: 46px;
+  background:#ff5500;
+  line-height: 46px;
+  border-radius: 3px;
+  color:white;
+
+
+}
+
+.button-area{
+  width:300px;
+  margin:0 auto;
+}
+
+.music{
+  padding:20px;
+
+}
+.main-box-container{
+  position: relative;
+  bottom:130px;
+}
+.sub-title{
+  font-size:14px;
+  color:#999999;
+}
+.under-container-box1{
+  display: flex;
+  width:1100px;
+  margin:0 auto;
+}
+.store-box{
+  display: flex;
+}
+.text-box2{
+  background:#f2f2f2;
+  padding:100px;
+
+}
+.text-tilte{
+  font-size:35px;
+  width:325px;
+}
+.text-sub-title{
+  padding-top:20px;
+  padding-bottom:20px;
+  font-size:25px;
+}
+.under-image2{
+  
+}
+.playstore{
+  margin-left:10px;
+}
+.under-container-box2{
+  width:1100px;
+  margin:0 auto;
+}
+.text-title1{
+  font-size:40px;
+ color:white;
+}
+.sub-title1{
+  font-size:30px;
+    color:white;
+}
+.text-box3{
+  position: relative;
+  bottom:330px;
+  left:110px;
+  
+}
+.text-title1{
+  padding-bottom:30px;
+}
+.button-items2{
+  position: relative;
+  color:white;
+  border:1px solid white;
+  width:163px;
+  height: 46px;
+  text-align: center;
+  line-height: 46px;
+  margin-top:15px;
+  border-radius: 3px;
+}
+.sign-up{
+ width:900px;
+ margin:0 auto;
+}
+h1{
+  width:900px;
+  text-align: center;
+  padding-bottom:10px;
+}
+h2{
+  text-align: center;
+  width:900px;
+}
+.create-buttons{
+  border:1px solid #ff5500;
+  width:200px;
+  height: 46px;
+  background: #ff5500;
+  color:white;
+  text-align: center;
+  line-height: 46px;
+  border-radius: 5px;
+  margin:0 auto;
+  margin-top:20px;
+}
+.sign-in{
+  font-size:10px;
+}
+.sign-in-buttons{
+  display: flex;
+  align-items: center;
+margin-left:340px;
+margin-top:20px;
+ width:900px;
+}
+
+.button-sign{
+  width:81px;
+  height: 40px;
+  border:1px solid #e5e5e5;
+  text-align: center;
+  line-height: 40px;
+  border-radius: 2px;
+  margin-left:40px;
+}

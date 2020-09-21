@@ -1,0 +1,151 @@
+*{
+  margin:0;
+  padding:0;
+  list-style-type: none;
+
+}
+.wrapper{
+  width:970px;
+  margin:0 auto;
+}
+.top-menu{
+  display: flex;
+  justify-content: flex-end;
+  
+}
+.top{
+  padding-right:10px;
+  font-size:10px;
+
+}
+.nav-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav-items{
+  display: flex;
+  margin-right:40px;
+ 
+}
+.n-items{
+  padding-right:60px;
+
+}
+.account{
+  display: flex;
+}
+.input-box{
+  display: flex;
+
+}
+.container2{
+  display: flex;
+}
+.flex-box1{
+  display: flex;
+}
+.video{
+  margin-left:400px;
+}
+.notice{
+  padding-top:20px;
+  padding-bottom:20px;
+}
+.video{
+  
+}
+.gallery{
+  padding:10px;
+  border:1px solid gray;
+  display: flex;}
+  .G1{
+    padding:10px;
+  }
+  .comunity{
+    margin-top:30px;
+  }
+  .comunity-text{
+    position: relative;
+    bottom:220px;
+    left:30px;
+    
+  }
+  li{
+    padding-top:5px;
+    padding-bottom:5px;
+  }
+  .banner-items{
+    position: relative;
+    bottom:150px; 
+    border:1px solid gray;
+    border-radius: 7px;
+    width:186px;
+  }
+  .bulletin-container{
+    display: flex;
+    justify-content: space-between;
+  }
+  .right-bulletin{
+    display: flex;
+  }
+  .text-contents{
+    display: flex;
+    justify-content: space-between;
+    margin-top:20px;
+    border-top:2px solid gray;
+  }
+  .left-contents{
+    display: flex;
+  }
+  .left{
+    padding-right:40px;
+  }
+  .contents{
+    display: flex;
+    justify-content: space-between;
+  }
+  .title{
+    margin-left:200px;
+  }
+  .view{
+    margin-right:40px;
+  }
+  .time{
+    position: relative;
+    left:35px;
+  }
+  .writer{
+    position: relative;
+    left:68px;
+  }
+  .text-area{
+    display: flex;
+   margin-top:80px;
+  }
+  .free-container{
+    display: flex;
+    justify-content: space-between;
+  }
+  .user{
+    display: flex;
+    margin-right:130px;
+  }
+  .user1{
+    padding-right:10px;
+  }
+  h2{
+    padding-top:30px;
+    padding-bottom:30px;
+    
+  }
+  .free-container{
+    background: gray;
+    padding:10px;
+    border-top:4px solid black;
+  }
+  .right-under-buttons{
+    display: flex;
+    justify-content: flex-end;
+    margin-top:40px;
+  }

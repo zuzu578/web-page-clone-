@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header class="header-container">
+      <div class="left-header">
+        <div class="icon">
+          <img src="https://www.baskinrobbins.co.kr/assets/images/common/icon_facebook.png">
+
+        </div>
+
+        <div class="icon">
+         <img src="https://www.baskinrobbins.co.kr/assets/images/common/icon_twitter.png">
+        </div>
+        <div class="icon">
+          <img src="https://www.baskinrobbins.co.kr/assets/images/common/icon_blog.png">
+
+        </div>
+        <div class="icon">
+          <img src="https://www.baskinrobbins.co.kr/assets/images/common/icon_instgram.png">
+
+        </div>
+        <div class="icon">
+          <img src="https://www.baskinrobbins.co.kr/assets/images/common/icon_youtube.png">
+
+        </div>
+
+
+      </div>
+
+      <div class="center-logo">
+        <div class="logo-items">
+          <img src="https://www.baskinrobbins.co.kr/assets/images/common/logo_baskinrobbins.png" width="92" height="92">
+
+        </div>
+
+
+      </div>
+      <div class="right-menu">
+        <div class="right-items">고객센터</div>
+           <div class="right-items">영양정보 </div>
+              <div class="right-items">CONTACT US</div>
+                 <div class="right-items"> 
+                   <img src="https://www.baskinrobbins.co.kr/assets/images/common/icon_search.png">
+
+                 </div>
+
+
+      </div>
+
+
+    </header>
+    <nav class="nav-container">
+      <div class="left-nav"> 
+        <div class="lnav">LOGIN </div>
+            <div class="lnav">JOIN  </div>
+      </div>
+      <div class="flavor">
+        <div class="flavor-items">
+        FLAVOR OF THE MONTH
+
+        </div>
+
+      </div>
+      <div class="menu">
+        <div class="menu-items">MENU  </div>
+           <div class="menu-items">EVENT  </div>
+              <div class="menu-items">STORE </div>
+                 <div class="menu-items">ABOUT  </div>
+
+
+
+      </div>
+
+
+    </nav>
+
+    <div class="banner-container">
+      <div class="baner-image">
+        <img src="https://www.baskinrobbins.co.kr/assets/images/menu/bg_icecream_menu.gif"width="1440" height="310">
+
+      </div>
+
+
+    </div>
+    <div class="main-contents">
+      <div class="monthly-best">
+        <img src="https://www.baskinrobbins.co.kr/assets/images/menu/h_monthly_best_icecream.png">
+
+      </div>
+      <div class="best">
+        <div class="ice">
+          <img src="https://www.baskinrobbins.co.kr/upload/product/1578534262.png"width="140" height="140">
+          <p>매시업스 시리얼</p>
+
+        </div>
+
+         <div class="ice">
+          <img src="https://www.baskinrobbins.co.kr/upload/product/1528197022.png"width="140" height="140">
+          <p>아몬드 봉봉봉</p>
+
+        </div>
+
+         <div class="ice">
+          <img src="https://www.baskinrobbins.co.kr/upload/product/1530775682.png"width="140" height="140">
+          <p>민트 초콜릿 칩  </p>
+
+        </div>
+
+         <div class="ice">
+          <img src="https://www.baskinrobbins.co.kr/upload/product/1530775918.png"width="140" height="140">
+          
+         <p>뉴욕 치즈케이크</p>
+        </div>
+
+         <div class="ice">
+          <img src="https://www.baskinrobbins.co.kr/upload/product/1452062882.png"width="140" height="140">
+       <p>체리 쥬빌레</p>
+        </div>
+
+         <div class="ice">
+          <img src="https://www.baskinrobbins.co.kr/upload/product/1530775807.png"width="140" height="140">
+          <p>슈팅스타</p>
+
+        </div>
+
+         <div class="ice">
+          <img src="https://www.baskinrobbins.co.kr/upload/product/1638868047.png"width="140" height="140">
+          <p>오레오 쿠키 앤 크림</p>
+
+        </div>
+
+         <div class="ice">
+          <img src="https://www.baskinrobbins.co.kr/upload/product/1530777439.png"width="140" height="140">
+          <p>바람과 함께 사라지다</p>
+
+        </div>
+
+         <div class="ice">
+          <img src="https://www.baskinrobbins.co.kr/upload/product/1530779443.png"width="140" height="140">
+          <p>사랑에 빠진 딸기</p>
+
+        </div>
+        
+
+
+      </div>
+      <div class="ice-cream">
+        <div class="ice-cream-logo">
+          <img src="https://www.baskinrobbins.co.kr/assets/images/menu/h_title_A.png">
+
+        </div>
+        <div class="ice-cream-box">
+          <div class="line-1">
+            <div class="ice-1">
+               <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+             <div class="ice-1">
+               <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+
+            </div>
+
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+            
+
+
+          </div>
+
+          <div class="line-2">
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+
+          </div>
+
+          <div class="line-3">
+             <div class="title-ice">
+             <div class="ice-1">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+
+          </div>
+
+          <div class="line-4">
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+
+          </div>
+
+          <div class="line-5">
+             <div class="title-ice">
+             <div class="ice-1">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+             <div class="ice-1">
+                <div class="title-ice">
+              <span>매시업스 시즌2</span></br>
+              <a href="">#켈로그</a>
+              <a href="">#후르트링</a>
+              </div>
+              <div class="button">
+                <div class="buy">
+                  구매
+
+                </div>
+
+              </div>
+              <div class="ice-cream-image">
+                <img src="https://www.baskinrobbins.co.kr/upload/product/1631153893.png"width="180" height="180">
+
+
+              </div>
+
+            </div>
+
+
+          </div>
+
+
+        </div>
+
+
+      </div>
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

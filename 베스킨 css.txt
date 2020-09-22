@@ -1,0 +1,220 @@
+*{
+  padding:0;
+  margin:0;
+
+}
+a{
+  text-decoration: none;
+  color:RGB(220, 220, 220);
+  text-align: center;
+}
+.header-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width:1200px;
+  margin:0 auto;
+}
+.left-header{
+  display: flex;
+}
+.center-logo{
+  display: flex;
+}
+.right-menu{
+  display: flex;
+  align-items: center;
+}
+.icon{
+  padding-left:10px;
+}
+.right-items{
+  padding-left:20px;
+  font-size:10px;
+}
+.left-nav{
+  display: flex;
+}
+.menu{
+  display: flex;
+}
+.lnav{
+  padding-right:23px;
+}
+.menu-items{
+  padding-right:59px;
+}
+.nav-container{
+  display: flex;
+  width:1200px;
+  margin:0 auto;
+  justify-content: space-between;
+  font-size:13px;
+  padding:10px;
+  font-weight: bold;
+  border-top:1px solid #e2d9d5;
+  
+}
+.left-nav:first-child{
+  color:#ff95ac;
+  font-weight: bold;
+}
+.monthly-best{
+  text-align: center;
+}
+.main-contents{
+  width: 1190px;
+  margin:0 auto;
+  padding-top: 90px;
+  padding-bottom:45px;
+}
+.best{
+  display: flex;
+  margin-top:50px;
+}
+.ice{
+  border:1px solid RGB(255, 225, 230);
+  width:164px;
+  height:140px ;
+  border-radius: 300px;
+  background:RGB(255, 225, 230);
+  margin-right:50px;
+}
+.ice-cream{
+  margin-top:100px;
+}
+.ice-cream-logo{
+  text-align: center;
+  padding-bottom:30px;
+}
+.line-1{
+  display: flex;
+  justify-content: center;
+}
+.line-2{
+  display: flex;
+  justify-content: center;
+}
+.line-3{
+  display: flex;
+  justify-content: center;
+}
+.line-4{
+  display: flex;
+  justify-content: center;
+}
+.line-5{
+  display: flex;
+  justify-content: center;
+}
+.ice-cream-box{
+  
+  
+ display: flex;
+ flex-direction: column;
+
+}
+span{
+  color:RGB(119, 107, 104);
+  text-align: center;
+}
+.button{
+  margin-left:60px;
+  border:1px solid #d3c2aa;
+  width:58px;
+  height: 21px;
+  font-size:10px;
+  background:#d3c2aa;
+  line-height: 21px;
+  text-align: center;
+  border-radius: 15px;
+  color:white;
+}
+.ice-1{
+  border:1px solid #ebebeb;
+  padding:55px;
+  
+}
+.h2-title{
+  padding-top:144px;
+  padding-bottom:25px;
+  text-align: center;
+}
+.banner-p{
+  text-align: center;
+}
+.ice-cream-title{
+  text-align: center;
+  padding-top:100px;
+}
+.more1{
+ width:170px;
+ margin:0 auto;
+ margin-top:20px;
+}
+.ice-cream-items{
+  margin-top:100px;
+  display: flex;
+  width:1200px;
+  margin:0 auto;
+  border:1px sold RGB(235, 235, 235);
+}
+.ice01{
+  border:1px solid #ebebeb;
+  padding:50px;
+  margin-top:40px;
+}
+.bbutton{
+  border:1px solidRGB(211, 194, 170);
+  background:RGB(211, 194, 170);
+  color:white;
+  width:58px;
+  height: 21px;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 21px;
+  font-size:10px;
+}
+.ice-cream-cake-title{
+   margin-top:100px;
+  
+  text-align: center;
+
+}
+.cube-cake{
+  border:1px solid #ebebeb;
+  padding:50px;
+ width:180px;
+  
+}
+.cube-cake-items{
+  width:1200px;
+  margin:0 auto;
+}
+.beverage-title{
+  text-align: center;
+  padding-top:50px;
+}
+.beverage-container{
+  display: flex;
+}
+.b1{
+  border:1px solid #ebebeb;
+  width:500px;
+  margin:0 auto;
+  margin-top:40px;
+  
+ 
+}
+.coffee-title{
+  text-align: center;
+  padding-top:100px;
+}
+.coffeeee{
+  display: flex;
+}
+.coffee-1{
+  border:1px solid #ebebeb;
+  padding:50px;
+  margin-top:100px;
+}

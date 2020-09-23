@@ -1,0 +1,260 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+.nav-container{
+  display: flex;
+  justify-content: space-between;
+  color:gray;
+  border-bottom:1px solid #e7e8eb;
+  padding:5px;
+  
+}
+.nav-left{
+  display: flex;
+  margin-left:40px;
+}
+.nav-right{
+  display: flex;
+  margin-right:40px;
+}
+.left-items{
+
+ padding:10px;
+
+}
+.right-items{
+  padding:10px;
+}
+.main-container{
+  text-align:center;
+  padding-top:80px;
+  padding-bottom:80px;
+}
+.sub-title1{
+  padding-top:20px;
+  color:gray;
+  padding-bottom:100px;
+}
+.second-box{
+  width:960px;
+  margin:0 auto;
+}
+.h2-title1 h2{
+  font-size:40px;
+}
+
+.h2-subtitle1 p{
+
+padding-top:10px;
+color: gray;
+}
+
+.third-box{
+  display: flex;
+  width:960px;
+  margin:0 auto;
+  margin-top:100px;
+}
+.third-tilte h3{
+
+font-size:40px;
+}
+
+.third-subtitle p{
+
+color:gray;
+padding-top:10px;
+}
+.h2-4th h2{
+  font-size:40px;
+
+}
+.fth-image{
+  margin-left:50px;
+}
+.fth-box{
+  display: flex;
+  width:960px;
+  margin:0 auto;
+  margin-top:100px;
+}
+.h2-4thsubtitle p{
+  padding-top: 20px;
+  color: gray;
+}
+.docs-button{
+  border: 1px solid #7a52b3 ;
+  width:225px;
+  height:40px ;
+  background:#7a52b3;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  line-height: 40px;
+  font-size:14px;
+  margin-top:20px;
+}
+@media screen and (max-width:990px){
+  .nav-container{
+    display:none;
+  }
+  .second-box{
+    width:720px;
+    margin:0 auto;
+  }
+  .third-box{
+    width:720px;
+    margin:0 auto;
+  }
+  .fth-box{
+    width:720px;
+    margin:0 auto;
+    display: flex;
+    flex-direction: column;
+  }
+  .fth-image{
+    position: relative;
+    right:55px;
+    top:50px;
+  }
+
+}
+@media screen and (max-width:765px ){
+  .second-box{
+    display: flex;
+    flex-direction: column;
+    padding:60px;
+  }
+  .third-box{
+    display: flex;
+    flex-direction: column-reverse;
+    padding:60px;
+  }
+  .first-box{
+    padding:60px;
+  }
+  .fth-box{
+    padding:60px;
+  }
+  .first-box-image img{
+    width:972px;
+  }
+  .h2-image img{
+    width:510px;
+  }
+  .fth-image img{
+    width:400px;
+  }
+
+}
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <nav class="nav-container">
+     <div class="nav-left">
+       <div class="left-items"><strong>Bootstrap Themes</strong></div>
+       <div class="left-items">Categories</div>
+       <div class="left-items">Why Our Themes?</div>
+       <div class="left-items">The Guide</div>
+
+     </div>
+
+     <div class="nav-right">
+       <div class="right-items">Search </div>
+       <div class="right-items">Sign in </div>
+       <div class="right-items">Sign up </div>
+
+     </div>
+    </nav>
+    <div class="main-container">
+      <div class="first-box">
+      <div class="h1-title">
+      <h1>Themes Built for Developers.</h1>
+      </div> 
+      <div class="sub-title1">
+      <p>Component-based frameworks designed and built by the best Bootstrap creators in the world.</p>
+      </div>
+      </div>
+       <div class="first-box-image">
+      <img src="https://themes.getbootstrap.com/wp-content/themes/bootstrap-marketplace/assets/images/official-themes/theme-masonry-mobile.jpg"width="1200">
+       </div>
+      </div>
+      
+
+      <div class="second-box">
+      <div class="h2-title1">  
+       <h2>Built as frameworks</br> from the ground up.</h2>
+      </div>
+      <div class="h2-subtitle1">
+       <p>Each theme is architected as an extension of Bootstrap,built for
+         </br> a specific set of problems. This means not only extending the</br> base components of Bootstrap, but also adding completely new</br> components, utilities, and plugins.</p>
+       </div>
+       <div class="h2-image">
+         <img src="https://themes.getbootstrap.com/wp-content/themes/bootstrap-marketplace/assets/images/official-themes/framework-progression.png"width="930">
+
+       </div>
+
+ 
+      </div>
+      <div class="third-box">
+        <div class="third-image">
+        <img src="https://themes.getbootstrap.com/wp-content/themes/bootstrap-marketplace/assets/images/official-themes/review-process.svg"width="450">
+        </div>
+        <div class="Text-3box">
+       <div class="third-tilte">
+       <h3>Every theme gets</br> reviewed by us.</h3>
+       </div>
+       <div class="third-subtitle">
+       <p>The Boostrap team reviews every new theme and</br> update against a set of guidelines we wrote. These</br> cover tons of factors including design, component</br> flexibility, class naming, directory structure, build</br> tooling, plugin reusability…the list goes on and on.</p>
+       </div>
+       </div>
+
+
+      </div>
+
+      <div class="fth-box">
+        <div class="text-box-4">
+       <div class="h2-4th">
+       <h2>Build tools and</br> full</br> documention.</h2>
+       </div>
+       <div class="h2-4thsubtitle">
+         <p>Components, plugins, and build tools are all</br> thoroughly documented with live examples and</br> markup for easier use and customization—just like</br> Bootstrap itself. Not comfortable diving that deep?</br> No worries, you just use the compiled CSS and</br> examples pages!</p>
+
+       </div>
+       <div class="docs-button">
+       <div class="explore">
+        Explore the Dashboard docs 
+
+       </div>
+       </div>
+       </div>
+       
+       <div class="fth-image">
+       <img src="https://themes.getbootstrap.com/wp-content/themes/bootstrap-marketplace/assets/images/official-themes/terminal.jpg"width="450">
+
+       </div>
+
+
+
+      </div>
+
+
+
+  

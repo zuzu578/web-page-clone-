@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="parents-container">
+    <div class="left-container">
+      <div class="text-box">
+    <div class="left1">관심사를 팔로우하세요.  </div>
+    <div class="left2">사람들이 무엇에 대해 이야기하고 있는</br>지 알아보세요.
+  </div>
+    <div class="left3">대화에 참여하세요.  </div>
+    </div>
+
+    </div>
+
+
+    <div class="right-container">
+      <div class="text-box2">
+      <div class="logo-items"><img src="https://upload.wikimedia.org/wikipedia/ko/thumb/9/9e/%ED%8A%B8%EC%9C%84%ED%84%B0_%EB%A1%9C%EA%B3%A0_%282012%29.svg/1200px-%ED%8A%B8%EC%9C%84%ED%84%B0_%EB%A1%9C%EA%B3%A0_%282012%29.svg.png"width="35"height="30">  </div>
+    
+      <div class="title">지금 전 세계에서 무슨 일이</br> 일어나고 있는지 알아보세</br>요  </div>
+      <div class="sub-title">
+        <div class="sub">오늘 트위터에 가입하세요.</div>
+        </div>
+      <div class="button-items">
+        <div class="sign">
+       <div class='sign-up'> 가입하기 </div>
+        </div>
+        <div class="login">
+        <div class="log-in">로그인</div>
+        </div>
+      </div>
+      </div>
+      </div>
+      </div>
+
+    <div class="button2">
+      <div class="sign-up2">
+      <div class="sign2">가입하기   </div>
+      </div>
+      <div class="log-in2">
+      <div class="login2">로그인  </div>
+      </div>
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

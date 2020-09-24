@@ -1,0 +1,152 @@
+*{
+  padding:0;
+  margin:0;
+
+}
+body{
+  
+ background:#16202a;
+
+}
+.text-box{
+
+margin-top:50px;
+}
+.left1,.left2,.left3{
+  font-weight: bold;
+  color:white;
+  font-size:19px;
+  margin-bottom:40px;
+
+}
+.parents-container{
+  display: flex;
+
+ 
+}
+.left-container{
+padding:80px;
+background:#1da1f3;
+
+}
+.text-box{
+ 
+  width:380px;
+  height:230px;
+
+}
+.text-box2{
+   width:380px;
+  height:380px ;
+ padding:40px;
+ display: flex;
+ flex-direction: column;
+  
+}
+.right-container{
+ 
+}
+.sign{
+  bordeR:1px solid #1da1f3;
+  width:380px;
+  height:37px ;
+  text-align: center;
+  line-height: 37px;
+  background:#1da1f3;
+  color:white;
+  border-radius: 20px;
+  font-weight: bold;
+  margin-bottom:15px;
+
+}
+.button-items{
+  display: flex;
+  flex-direction: column;
+   align-items: center;
+   margin-top:120px;
+}
+.login{
+  border:1px solid #1da1f3;
+  width:380px;
+  height:37px ;
+  text-align: center;
+  line-height: 37px;
+  color:#1da1f3;
+  border-radius: 20px;
+  font-weight: bold;
+
+}
+.sub-title{
+  color:white;
+  font-weight: bold;
+  font-size: 15px;
+
+ position: relative;
+ top:100px;
+
+}
+
+.title{
+  color:white;
+  font-size:30px;
+  font-weight: bold;
+  position: relative;
+  top:40px;
+
+}
+.button2{
+  
+  display: none;
+}
+.sign-up2{
+  border:1px solid #1da1f3;
+  width:180px;
+  height: 37px;
+  color:white;
+  background:#1da1f3;
+  border-radius: 20px;
+  text-align: center;
+  line-height: 37px;
+  font-weight: bold;
+
+}
+.log-in2{
+  border:1px solid #1da1f3;
+  width:180px;
+  height:37px ;
+  line-height: 37px;
+  border-radius: 20px;
+  text-align: center;
+  font-weight: bold;
+  color:#1da1f3;
+}
+@media screen and (max-width:800px){
+  .parents-container{
+
+  flex-direction: column-reverse;
+  }
+  .left-container{
+    height: 200px;
+  }
+  .text-box{
+  margin:0 auto;
+  }
+  .text-box2{
+   margin:0 auto;
+  }
+  .button2{
+  
+  display: flex;
+  justify-content: center;
+  
+}
+.sign-up2{
+  margin-right:10px;
+}
+.log-in2{
+  margin-lefT:10px;
+}
+}.button2{
+  padding-top:40px;
+  padding-bottom:40px;
+}

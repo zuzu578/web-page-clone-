@@ -1,0 +1,148 @@
+*{
+  padding:0;
+  margin:0;
+  
+}
+.l-icons{
+  padding-left:20px;
+}
+.right-menu{
+  padding-right:20px;
+}
+.header-items{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.left{
+  padding-left:20px;
+}
+.right{
+  padding-right:20px;
+}
+.left-icons,.right-items{
+  display: flex;
+  align-items: center;
+}
+
+.nav-container{
+  display: flex;
+ justify-content: space-between;
+
+}
+.left-nav{
+  display: flex;
+  
+}
+
+.right-nav{
+  display: flex;
+}
+.right1{
+  display: flex;
+}
+.event-menu-container{
+  display: flex;
+  border-top:1px solid #eaeaea;
+  border-left: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
+  border-bottom:3px solid #e8869b;
+  width:1200px;
+  justify-content: center;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+  margin-top:70px;
+  
+}
+.title h3{
+  font-size:14px;
+  padding-top:10px;
+}
+.event{
+  margin:20px;
+  
+  
+}
+.main-title{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top:100px;
+  
+}
+.event-items1{
+  display: flex;
+}
+.container1{
+  display: flex;
+  justify-content: center;
+ 
+}
+.image-box img{
+  margin-left:8.1px;
+  margin-right:8.1px;
+  margin-top:40px;
+  border-radius: 6px;
+}
+.event-ti{
+  margin-left:10px;
+  padding-top:40px;
+  padding-bottom: 40px;
+}
+.event-ti p{
+  font-size:14px;
+  color:#4e6070;
+  padding-top:10px;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:860px){
+  .header-items{
+    flex-direction: column;
+  }
+  .nav-container{
+    display: none;
+  }
+  .event-items1{
+    flex-direction: column;
+  }
+} 
+@media screen and (max-width:600px){
+  .right-items{
+    flex-direction: column;
+    align-items: center;
+  }
+  .right-menu{
+    padding-top:20px;
+   
+  }
+  .container1{
+    flex-direction: column;
+    align-items: center;
+  }
+  .event-menu-container{
+    background:pink;  
+    color:white;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+  border-top:1px solid #eaeaea;
+  border-left: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
+  border-bottom:3px solid #e8869b;
+  width:500px;
+  justify-content: center;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+  margin-top:70px;
+  
+   
+  }
+}

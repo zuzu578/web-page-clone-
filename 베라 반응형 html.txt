@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header class="header-items">
+      <div class="left-icons">
+        <div class="l-icons"><img src="https://www.baskinrobbins.co.kr/assets/images/common/icon_facebook.png"> </div>
+        <div class="l-icons"><img src="https://www.baskinrobbins.co.kr/assets/images/common/icon_twitter.png">   </div>
+        <div class="l-icons"><img src="https://www.baskinrobbins.co.kr/assets/images/common/icon_blog.png">   </div>
+        <div class="l-icons"><img src="https://www.baskinrobbins.co.kr/assets/images/common/icon_instgram.png">   </div>
+        <div class="l-icons"><img src="https://www.baskinrobbins.co.kr/assets/images/common/icon_youtube.png">   </div>
+
+
+      </div>
+      <div class="center-logo-items">
+        <img src="https://www.baskinrobbins.co.kr/assets/images/common/logo_baskinrobbins.png">
+
+
+      </div>
+      <div class="right-items">
+        <div class="right-menu">고객센터 </div>
+         <div class="right-menu">영양정보  </div>
+          <div class="right-menu">CONTACT US </div>
+             <div class="right-menu"> <img src="https://www.baskinrobbins.co.kr/assets/images/common/icon_search.png"> </div>
+
+
+
+      </div>
+
+
+    </header>
+    <nav class="nav-container">
+      <div class="left-nav"> 
+        <div class="left">LOGIN</div>
+        <div class="left">JOIN  </div>
+
+
+      </div>
+      <div class="right-nav">
+        <div class="right">FLAVOR OF THE MONTH </div>
+           <div class="right">MENU  </div>
+              <div class="right">EVENT </div>
+                 <div class="right">SOTORE </div>
+                    <div class="right">ABOUT  </div>
+        </div>
+
+      </div>
+
+
+
+    </nav>
+    <div class="main-title">
+      <div class="title-image">
+      <img src="https://www.baskinrobbins.co.kr/assets/images/common/icon_title_1.png">
+      <img src="https://www.baskinrobbins.co.kr/assets/images/event/h_title.png">
+      <img src="https://www.baskinrobbins.co.kr/assets/images/common/icon_title_2.png">
+      </div>
+
+      <div class="title">
+      <h3>배스킨라빈스와 함께 하는 다양한 혜택과 이벤트</h3>
+      </div>
+     
+
+      <div class="event-menu-container">
+       <div class="event">ALL  </div>
+       <div class="event">STORE EVENT  </div>
+       <div class="event">ONLINE EVENT </div>
+       <div class="event">HAPPY POINT EVENT  </div>
+ 
+     </div>
+
+
+    </div>
+
+     
+        <div class="container1">
+        <div class="event-items1">
+          <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+        <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+
+      </div>
+    
+      
+      
+        <div class="event-items1">
+          <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+        <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+
+      </div>
+      </div>
+      
+
+        <div class="container1">
+        <div class="event-items1">
+          <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+        <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+
+      </div>
+      
+
+      
+        <div class="event-items1">
+          <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+        <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+
+      </div> 
+        </div>
+      
+
+       <div class="container1">
+        <div class="event-items1">
+          <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+        <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+
+      </div>
+     
+
+     
+        <div class="event-items1">
+          <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+        <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+
+      </div>
+       </div>
+     
+
+       <div class="container1">
+        <div class="event-items1">
+          <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+        <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+
+      </div>
+     
+
+      
+        <div class="event-items1">
+          <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+        <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+
+      </div>
+       </div>
+      
+      <div class="container1">
+        <div class="event-items1">
+          <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+        <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+
+      </div>
+      
+
+   
+        <div class="event-items1">
+          <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+        <div class="image-box">
+          <img src="https://www.baskinrobbins.co.kr/upload/event/image/1623209597.png">
+          <div class="event-ti">
+          <h4>추석선물세트 사전예약 4천원OFF</h4>
+          <p>2020-09-18~2020-09-24</p>
+          </div>
+
+        </div>
+
+
+      </div>
+      </div>
+     
+     
+
+    
+    <script src="script.js"></script>
+  </body>
+</html>

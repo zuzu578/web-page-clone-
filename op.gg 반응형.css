@@ -1,0 +1,188 @@
+*{
+  padding:0;
+  margin:0;
+ font-size:12px;
+
+}
+body{
+  background: #5382e9;
+}
+.logo{
+  padding:5px;
+}
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+.logo{
+  display: flex;
+}
+.logo-container{
+  display: flex;
+  align-items: center;
+  color:white;
+  
+}
+.menu-container{
+  display: flex;
+  align-items: center;
+  background:#232f47;
+  width:700px;
+  margin:0 auto;
+  color:white;
+ 
+ 
+}
+
+.account-container{
+  display: flex;
+  align-items: center;
+    background:#232f47;
+    width:200px;
+    height: 45px;
+    padding-right:100px;
+    color:white;
+   
+}
+.account-items{
+  padding-right:20px;
+}
+.login{
+  border:1px solid #5382e9;
+  width:66px;
+  height:26px ;
+  color:white;
+  border-radius: 6px;
+  text-align: center;
+  line-height: 26px;
+  background:#5382e9;
+}
+.nav-container{
+  display: flex;
+  color:white;
+  font-size:15px;
+  border-bottom:1px solid #4170d7;
+
+}
+.nav-1{
+  display: flex;
+  align-items: center;
+}
+.nav-items{
+  padding:10px;
+  
+}
+.gif img{
+  padding:0;
+}
+.main-area-1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top:32px;
+}
+.input-box{
+  border:1px solid white;
+  width:624px;
+  height:50px ;
+  border-radius: 4px;
+  margin-top:30px;
+  position: relative;
+}
+input[type="text"]{
+   border:1px solid white;
+  width:624px;
+  height:50px ;
+  border-radius: 3px;
+  outline:none;
+}
+.ggbutton{
+
+border:1px solid #00a8ff;
+width:50px;
+height: 30px;
+background:#00a8ff;
+color:white;
+text-align: center;
+line-height: 30px;
+border-radius: 4px;
+font-weight: bold;
+position: absolute;
+top:54%; 
+left:65%;
+
+}
+.main-area-2{
+
+border:1px solid white;
+width:1078px;
+margin:0 auto;
+}
+.flex-container{
+  display: flex;
+ 
+}
+.text-contents{
+  display: flex;
+ border:1px solid #f0f0f0;
+ width:537px;
+ background:#ffffff;
+  
+}
+.title h3{
+  font-weight: bold;
+  font-size:14px;
+  padding:20px;
+  background:#ffffff;
+}
+.title-box{
+  padding:10px;
+}
+@media screen and (max-width:910px){
+  .header{
+    display: none;
+  }
+   .nav-container{
+     display: flex;
+     justify-content: center;
+   }
+   .flex-container{
+     flex-direction: column;
+   }
+   .title{
+     width:539px;
+   }
+   .main-area-2{
+     width:539px;
+   }
+}
+@media screen and (max-width:645px){
+  .input-box{
+    width:400px;
+    
+  }
+  input[type="text"]{
+    width:400px;
+  }
+}
+
+@media screen and (max-width:557px){
+  .main-area-2{
+    
+    display: flex;
+    justify-content: center;
+  }
+  .nav-container{
+    display: none;
+  }
+  .input-box{
+   margin-left:20px;
+  }
+  .mid-center-image{
+    position: relative;
+    right:20px;
+   
+  }
+}

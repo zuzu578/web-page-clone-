@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header class="header-container">
+      <div class="left-header">
+        <div class="left">Language  </div>
+         <div class="left">Sign Up for Email</div>
+          <div class="left">Careers</div>
+
+      </div>
+
+      <div class="right-header">
+        <div class="right">Search </div>
+         <div class="right"> Beach road Change </div>
+         <div class="oreder-button">
+          <div class="order">Order Now  </div>
+
+      </div>
+         
+      </div>
+      
+
+    </header>
+     
+    <div class="logo-container">
+      <div class="logo-image-box">
+      <img src="https://www.mcdonalds.com/content/dam/usa/nfl/assets/nav/arches-logo_108x108.jpg">
+      </div>
+      <div class="order-small-button">
+       <div class="order-s">
+       Order Now
+
+       </div>
+      </div>
+
+
+
+    </div>
+
+    <nav class="nav-container">
+    <div class="nav-items">Our Menu  </div>
+     <div class="nav-items">McCafé </div>
+      <div class="nav-items">About Our Food  </div>
+       <div class="nav-items">Deals & Our App  </div>
+        <div class="nav-items">Trending Now  </div>
+         <div class="nav-items">Locate  </div>
+
+    </nav>
+    <div class="main-container1">
+      <div class="main1">
+         <div class="text-box1">
+          <div class="title1">
+          <h1>Travis Scott Meal: Available in Restaurants, $6 in the McD’s App*</h1>
+          </div>
+          <div class="sub-title1">
+          <p>Travis’ three McDonald’s favorites. Head to McDonald’s to order yours, but get the $6 offer only on the App!</p>
+          </div>
+          <div class="text-order">
+           <div class="order-text">
+             Order in the app
+
+           </div>
+
+          </div>
+          <div class="sub-p">
+          <p>*Offer valid for a limited time at participating McD. Valid 1x/day. Check the McD App for details.</p>
+          </div>
+        </div>
+        
+
+        <div class="image-box1">
+          <img src="https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/images/Carousel_TravisScottMeal_Desktop_1168x520.jpg?$Hero_Desktop$">
+         
+
+        </div>
+
+
+      </div>
+
+
+    </div>
+
+    <div class="main-container2">
+    <div class="image-box2">
+    <img src="https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/images/1PUB_Desktop_McDeliverySpicy_TN_1168x520.jpg?$Publication_Two_Column_Desktop$">
+
+    </div>
+     <div class="text-box2">
+          <div class="title1">
+          <h1>Travis Scott Meal: Available in Restaurants, $6 in the McD’s App*</h1>
+          </div>
+          <div class="sub-title1">
+          <p>Travis’ three McDonald’s favorites. Head to McDonald’s to order yours, but get the $6 offer only on the App!</p>
+          </div>
+          <div class="text-order">
+           <div class="order-text">
+             Order in the app
+
+           </div>
+
+          </div>
+          <div class="sub-p">
+          <p>*Offer valid for a limited time at participating McD. Valid 1x/day. Check the McD App for details.</p>
+          </div>
+        </div>
+
+
+    </div>
+    <div class="main-container3">
+      <div class="text-box3">
+          <div class="title1">
+          <h1>Travis Scott Meal: Available in Restaurants, $6 in the McD’s App*</h1>
+          </div>
+          <div class="sub-title1">
+          <p>Travis’ three McDonald’s favorites. Head to McDonald’s to order yours, but get the $6 offer only on the App!</p>
+          </div>
+          <div class="text-order">
+           <div class="order-text">
+             Order in the app
+
+           </div>
+
+          </div>
+          <div class="sub-p">
+          <p>*Offer valid for a limited time at participating McD. Valid 1x/day. Check the McD App for details.</p>
+          </div>
+        </div>
+        <div class="image-box3">
+        <img src="https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/images/One_Pub_FFF_1168x520.jpg?$Publication_Two_Column_Desktop$">
+        </div>
+
+
+
+
+    </div>
+    <div class="main-container4">
+     <div class="image-box4">
+     <img src="https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/images/family-fun-hub/1_Pub_Desktop_FamilyHub_EntryPoint_1168x520.jpg?$Publication_Two_Column_Desktop$">
+
+     </div>
+
+     <div class="text-box4">
+          <div class="title1">
+          <h1>Travis Scott Meal: Available in Restaurants, $6 in the McD’s App*</h1>
+          </div>
+          <div class="sub-title1">
+          <p>Travis’ three McDonald’s favorites. Head to McDonald’s to order yours, but get the $6 offer only on the App!</p>
+          </div>
+          <div class="text-order">
+           <div class="order-text">
+             Order in the app
+
+           </div>
+
+          </div>
+          <div class="sub-p">
+          <p>*Offer valid for a limited time at participating McD. Valid 1x/day. Check the McD App for details.</p>
+          </div>
+        </div>
+
+
+
+
+    </div>
+ <div class="main-container5">
+   <div class="main-5">
+   <div class="image-box5">
+     <img src="https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/images/Three_Pub_Join_376x252.jpg?$Publication_Three_Column_Desktop$">
+
+     
+   </div>
+   <div class="text-box5">
+   <div class="title-under">
+   <h1> Join Our Email list </h1>
+
+   </div>
+   <div class="sub-title-under">
+   <p> Get news, promotions and more delivered right to your inbox.</p>
+
+   </div>
+   <div class="sign-up-under">
+    <div class="un-si">
+     Sing up
+    </div>
+   </div>
+   </div>
+   </div>
+
+    <div class="main-5">
+   <div class="image-box5">
+     <img src="https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/images/Three_Pub_Join_376x252.jpg?$Publication_Three_Column_Desktop$">
+
+     
+   </div>
+   <div class="text-box5">
+   <div class="title-under">
+   <h1> Join Our Email list </h1>
+
+   </div>
+   <div class="sub-title-under">
+   <p> Get news, promotions and more delivered right to your inbox.</p>
+
+   </div>
+   <div class="sign-up-under">
+    <div class="un-si">
+     Sing up
+    </div>
+   </div>
+   </div>
+   </div>
+
+
+ <div class="main-5">
+   <div class="image-box5">
+     <img src="https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/images/Three_Pub_Join_376x252.jpg?$Publication_Three_Column_Desktop$">
+
+     
+   </div>
+   <div class="text-box5">
+   <div class="title-under">
+   <h1> Join Our Email list </h1>
+
+   </div>
+   <div class="sub-title-under">
+   <p> Get news, promotions and more delivered right to your inbox.</p>
+
+   </div>
+   <div class="sign-up-under">
+    <div class="un-si">
+     Sing up
+    </div>
+   </div>
+   </div>
+   </div>
+
+
+
+ </div>
+
+
+    <script src="script.js"></script>
+  </body>
+</html>

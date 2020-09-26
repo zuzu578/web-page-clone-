@@ -1,0 +1,263 @@
+*{
+  padding:0;
+  margin:0;
+}
+.header-container{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-size:14px;
+  padding-top:20px;
+}
+.text-box2{
+    width:100%;
+  }
+.logo-container,.left-header,.right-header{
+  display: flex;
+}
+.right-header{
+  align-items: center;
+}
+.logo-container{
+  justify-content: flex-start;
+  align-items: center;
+}
+.logo-container{
+  margin-left:70px;
+  display: flex;
+  justify-content: space-between;
+}
+.nav-container{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.left{
+  padding-right:40px;
+}
+.right{
+  padding-left:40px;
+}
+.oreder-button{
+  margin-left:50px;
+  width:126px;
+  height:40px ;
+  border:1px solid #ffbc0d;
+  background:#ffbc0d;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 40px;
+}
+.nav-items{
+  font-weight: bold;
+}
+.main1{
+  display: flex;
+  flex-direction: column;
+   align-items: center;
+}
+.text-box1{
+  border-radius: 4px;
+  border:1px solid white;
+  background: white;
+  padding:20px;
+  
+  width:24.5rem;
+ z-index: 2;
+     right:60%;
+     top:40%;
+  position: absolute;
+   
+ 
+}
+.image-box1{
+  position:relative;
+}
+.main-container1{
+  margin-top:40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sub-title1{
+  padding-top:10px;
+  padding-bottom:10px;
+  font-size:16px;
+}
+.sub-p{
+  font-size:11px;
+  padding-top:10px;
+  padding-bottom:40px;
+}
+.text-order{
+  border:1px solid #ffbb0e;
+  width:135px;
+  height:48px ;
+  background: #ffbb0e;
+  font-size:14px;
+  text-align: center;
+  line-height: 48px;
+  border-radius: 5px;
+}
+.main-container2{
+  display: flex;
+  justify-content: center;
+  margin-top:100px;
+  align-items: center;
+}
+.text-box2{
+  border-radius: 4px;
+  border:1px solid white;
+  background: white;
+  padding:20px;
+  
+  width:24.5rem;
+ z-index: 2;
+ margin-left:100px;
+}
+.main-container3{
+  display: flex;
+  justify-content: center;
+  margin-top:100px;
+  align-items: center;
+}
+.text-box3{
+  border-radius: 4px;
+  border:1px solid white;
+  background: white;
+  padding:20px;
+  margin-right:100px;
+  width:24.5rem;
+ z-index: 2;
+ 
+}
+.main-container4{
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.text-box4{
+  border-radius: 4px;
+  border:1px solid white;
+  background: white;
+  padding:20px;
+  margin-left:100px;
+  width:24.5rem;
+ z-index: 2;
+ 
+}
+
+.main-container5{
+  margin-top:100px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  
+}
+.main-5{
+  width:323px;
+  height: 523px;
+}
+.image-box5{
+  width:293px;
+}
+.text-box5{
+  width:293px;
+}
+.sign-up-under{
+  border: 1px solid #ffbc0d;
+  background: #ffbb0e;
+  width:178px;
+  height: 48px;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 48px;
+}
+
+.sub-title-under{
+  padding-top:20px;
+  padding-bottom:30px;
+}
+.order-small-button{
+  border:1px solid #ffbc0d;
+  background: #ffbc0d;
+  width:100px ;
+  height:36px ;
+  text-align: center;
+  line-height: 36px;
+  border-radius: 5px;
+  margin-right:10px;
+  display: none;}
+
+  .image-box2 img{
+    width:100%;
+
+  }
+.text-box2{
+  width:100%;
+}
+
+@media screen and (max-width:1118px){
+  .header-container{
+    display: none;
+  }
+  .nav-container{
+    display: none;
+  }
+  .order-small-button{
+   display: block;
+  }
+  .text-box1{
+    width:24.5rem;
+  }
+  .image-box1 img{
+    width:100%;
+  }
+}
+
+@media screen and (max-width:1072px){
+  .main-container1{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .text-box1{
+    position: relative;
+    right:100px;
+  }
+  .main-container2{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .text-box2{
+    width:100%;
+  }
+  .title1{
+    width:692px;
+  }
+  .sub-title1{
+    width:692px;
+  }
+  .sub-p{
+    width:692px;
+  }
+  .main-container3{
+    flex-direction: column;
+  }
+  .text-box3{
+    width:80%;
+  }
+  .main-container4{
+    flex-direction: column-reverse;
+  }
+  .text-box4{
+    width:70%;
+  }
+  .main-container5{
+    flex-direction: column;
+  }
+}
+
+

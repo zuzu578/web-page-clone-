@@ -1,0 +1,195 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+.logo-items{
+  display: flex;
+  padding:36px;
+}
+.nav-container{
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  z-index: 300;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #fff;
+    border-bottom: 1px solid rgba(64,66,67,.4);
+    box-shadow: 0 0 1px rgba(0,0,0,.1);
+    margin-bottom: -1px;
+}
+.logo-title{
+  font-weight: bold;
+  font-size:18px;
+}
+
+.center{
+  display: flex;
+      position: relative;
+  font-weight: bold;
+  font-size:16px;
+    text-decoration: none;
+    padding: 35px 0;
+ 
+}
+.right{
+  font-size:13px;
+  padding:10px;
+}
+.center-menu{
+  padding:10px;
+}
+.right-menu{
+  display: flex;
+}
+.main-image{
+  position: relative;
+}
+.main-image img{
+  position: relative;
+    
+  
+    width: 100%;
+    min-height: 100vh;
+    text-align: center;
+    color: #fff;
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+.main-title h1{
+  width: 1102px;
+}
+.main-title h1{
+ position: absolute;
+         top:40%;
+         left:50%;
+         transform: translate(-50%, -50%);                                                                   
+         font-family: 'NanumBarunGothic',sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+    line-height: 3.125rem;
+    
+    
+
+         color: white;
+         z-index: 2;
+         text-align: center;
+   
+}
+.subtitle-image img{
+    
+  top:50%;
+  left:38%;
+  position: absolute;
+  z-index:2;
+}
+.subtitle-image{
+  width: 1102px;
+}
+.sub-title-text p{
+  width:1102px;
+}
+
+.sub-title-text{
+  position: absolute;
+  z-index: 2;
+  top:65%;
+  left:10%;
+  text-align: center;
+  width:1102px;
+      font-size: 1.125rem;
+    line-height: 1.5;
+    color:white;
+    font-weight: bold;
+}
+.download-button{
+  position: absolute;
+ left:40%;
+ bottom:5%;
+  border:1px solid #56d747;
+  background:#56d747;
+  border-radius: 1px;
+  text-align: center;
+  line-height: 64px;
+  color:white;
+  width: 284px;
+  height: 64px;
+  border-width: 2px;
+    font-size: 1.1875em;
+   
+}
+.medal-image img{
+position: absolute;
+    top: 90px;
+    left: 85%;
+    width: 104px;
+    height: 167px;
+}
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <nav class="nav-container">
+    <div class="logo-items">
+    <img src="https://www.estsecurity.com/assets/images/logo_estsecurity.png"height="17">
+    <div class="logo-title">개인  </div>
+    </div>
+    <div class="center">
+    <div class="center-menu">보안제품  </div>
+    <div class="center-menu">고객지원  </div>
+    <div class="center-menu">보안정보  </div>
+    <div class="center-menu">보안센터  </div>
+    </div>
+    <div class="right-menu">
+    <div class="right">기업고객   </div>
+     <div class="right">회사소개   </div>
+    </div>
+
+
+
+    </nav>
+    <div class="main-contents1">
+      <div class="main-image">
+      <img src="https://www.estsecurity.com/assets/images/product/bg_alyac_cover.jpg">
+      </div>
+      <div class="infor">
+      <div class="main-title">
+       <h1>1,200만 명이 선택한 국민백신</h1>
+      </div>
+      <div class="subtitle-image">
+        <img src="https://www.estsecurity.com/assets/images/product/logo_alyac.png">
+
+
+      </div>
+      <div class="sub-title-text">
+       <p>각종 악성코드와 랜섬웨어 위협으로부터 내 PC를 안전하게!</br>
+       확실한 탐지력과 편리한 사용성의 대한민국 1위 백신 프로그램</p>
+      </div>
+      <div class="download-button">
+      <div class="download">
+       알약 무료 다운로드
+      </div>
+      </div>
+      <div class="medal-image">
+      <img src="https://www.estsecurity.com/assets/images/product/ico_alyac_medal.png">
+      </div>
+     </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

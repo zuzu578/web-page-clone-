@@ -1,0 +1,184 @@
+*{
+  padding:0;
+  margin:0;
+}
+.header-container{
+
+background: black;
+
+   
+    
+    
+    color: white;
+    
+   
+    font-weight: 700;
+    font-size: 12px;
+    text-align: left;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    display: flex;
+    padding-left: 20px;
+}
+.nav-container1{
+  display: flex;
+  width:616px;
+  justify-content: space-between;
+  margin-left:680px;
+}
+.center1,.right1{
+  padding:10px;
+}
+.nav-center1{
+  display: flex;
+  
+}
+.nav-right1{
+  display: flex;
+}
+.nav-container2{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right:400px;
+}
+.c-menu{
+  padding:10px;
+}
+.center-menu{
+  display: flex;
+}
+
+.text-center{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  top:130px;
+  z-index: 2;
+}
+.sub-title1{
+  text-align: center;
+  
+}
+.logo-items{
+  margin-left:20px;
+}
+
+.iphone-background img{
+  position: absolute;
+ width: 100%;
+}
+.title1{
+  font-size:64px;
+  line-height: .95!important;
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  margin-bottom:16px;
+  padding-top:30px;
+}
+
+.sub-title1{
+ font-family: BrandFont-Display,Helvetica,Arial,sans-serif;
+ margin-bottom: 32px!important;
+}
+
+.button-shop{
+  
+     width: 147px!important;
+font-size: 14px!important;
+cursor: pointer;
+    margin: 0 .625rem .625rem 0;
+    border-radius: 624.9375rem;
+    border: .0625rem solid;
+    display: inline-block;
+    vertical-align: middle;
+  height: 44px;
+  text-align: center;
+  line-height: 44px;
+ 
+}
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header class="header-container">
+      <div class="header-text">
+       <p>We’re open. Order online and choose curbside or in-store pickup. </p>
+
+      </div>
+    </header>
+
+    <nav class="nav-container1">
+      <div class="nav-center1"> 
+       <div class="center1"><strong> Personal<strong>  </div>
+       <div class="center1"><strong> Business </strong>  </div>
+      </div>
+      <div class="nav-right1">  
+        <div class="right1">Stores  </div>
+        <div class="right1">Español </div>
+        <div class="right1">Sign In  </div>
+
+      </div>
+
+
+
+
+    </nav>
+
+    <nav class="nav-container2">
+      <div class="logo-items">
+      <img src="https://www.verizon.com/dam/vzwcom/gnav/global/verizonLogo.svg"width="196">
+
+      </div>
+      <div class="center-menu">
+      <div class="c-menu"><strong>Shop   </strong>  </div>
+      <div class="c-menu"><strong>Why Verizon   </strong>  </div>
+      <div class="c-menu"><strong>Support   </strong>  </div>
+      </div>
+
+
+    </nav>
+
+    <div class="contents-container1">
+      <div class="text-center">
+        <h1 class="title1">
+         Share iPhone 11.
+        </h1>
+        <p class="sub-title1">
+          Get two for just $5/mo. When you switch two lines</br>
+          with select Unlimited plans. 64GB only. 
+
+        </p>
+        <div class="button-shop">
+         <div class="shop">
+          Shop
+         </div>
+  
+        </div>
+        </div>
+
+          <div class="iphone11-image-box">
+           <div class="iphone-background">
+           <img src="https://ss7.vzw.com/is/image/VerizonWireless/uhp-apple-iphone-11-hero-static-d-0921?&scl=2">
+           </div>
+ 
+ 
+        </div>
+
+
+      </div>
+  
+    </div>
+
+
+    <script src="script.js"></script>
+  </body>
+</html>
